@@ -31,8 +31,9 @@ title: 主页
 
 ### 联系方式
 * __QQ__ 531312402
-* __AcFun (主账号)__ [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)
-* __AcFun (副账号，不活跃，仅投稿)__ [音符菌的无秘档案_SubCH](https://www.acfun.cn/u/2290378)
+* __邮箱__ 531312402@qq.com
+* __AcFun（主账号）__ [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)
+* __AcFun（副账号，不活跃，仅投稿）__ [音符菌的无秘档案_SubCH](https://www.acfun.cn/u/2290378)
 * __Bilibili（当前使用，不活跃）__ [KuroZim_小黑](https://space.bilibili.com/16228948)
 * __网易云音乐（当前使用，电台用）__ [KuroZim26-音符菌](https://music.163.com/#/user/home?id=1966406139)
 

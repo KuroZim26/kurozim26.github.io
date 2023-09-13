@@ -11,3 +11,7 @@ permalink: /about/
 对本站的部分组织方案参考了以下网站，在此表示感谢。
 
 [Just Call Me Jax  - 个性化 Jekyll 博客](https://jaxvanyang.github.io/jekyll/personalize/2021/11/23/personalize-jekyll-blog.html)
+
+![这是图片](/assets/img/AshitaENoProgram.png "Tomorrow Program")
+
+__台本のない未来　リハなんてない明日って番組　生放送を作っていこう　段取るのは...キミだよ__
