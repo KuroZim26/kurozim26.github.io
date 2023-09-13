@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "【歌曲】Good Lonely Night"
+date:   2023-05-28 00:00:00 +0800
+---
+
+>  一首极为简单的晚安曲。
+
+## <font color="#ff0000">收听/收看前预警</font>
+
+* <font color="#ff0000"><b>本作时长过短（不足2分钟）。</b></font>
+* <font color="#ff0000"><b>本作使用的一图流曲绘系通过MikuTools AI绘画工具生成的。</b></font>
+
+## 基本资料
+* 作品类型：<font color="#194987">独立歌曲(实验性作品)</font>
+* 作品代号：<font color="#194987">“作品19号”</font>
+* 发布时间：<font color="#194987">2023年5月27日</font>
+* 歌曲风格：<font color="#194987">Guitar Folk</font>
+
+| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
+| 原作 | Kuro Zim | Kuro Zim | Kuro Zim | Sapph Altia (Pocket Singer 自制歌手) | Kuro Zim | MikuTools AI (图像)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41459516)<br>[Bilibili](https://www.bilibili.com/video/BV1hd4y1f72M/) |
+
+## 歌词
+
+<pre>
+没有想唱的歌 找不到愿意听的人
+再多的话想说 也只能沉默略过
+拥挤的人群中 偶尔有一两人慰问
+更多时候依旧 自己吹冷风
+
+也许只是我有点累了 才会想那么多
+就算太阳也要东升西落 更何况我呢
+用心中的火驱散那冷风 就算期待落空
+依旧微笑着迎接今夜美梦
+
+没有想唱的歌 只有星星在陪着我
+于是静静躺在孤单的夜空
+</pre>
+
+## 歌曲相关信息
+
+* 本作时长1分13秒，是目前本人所有作品中时长最短的。
+* 本作为实验性作品，全部使用移动设备完成。
+1. 歌唱音频采用Pocket Singer（[App Store 日区](https://apps.apple.com/jp/app/pocket-singer-%E3%83%9E%E3%82%A4%E3%82%AA%E3%83%AA%E3%82%AD%E3%83%A3%E3%83%A9-%E6%AD%8C%E3%81%88%E3%81%BE%E3%81%99/id1665512424) / [Google Play](https://play.google.com/store/apps/details?id=com.accidental.ocsinger&pli=1)）生成。
+2. 伴奏和歌曲后期采用[Bandlab](https://www.bandlab.com/)的移动APP制作。
+3. 图像由于直接使用[MikuTools](https://tools.miku.ac/)提供的AI绘图服务，因此可以直接在手机端网页操作。
+4. 视频使用VN Video Editor（[官方网站](https://www.vlognow.me/)）制作。
+* Sapph Altia是基于ACE Studio / Pocket Singer声线混合功能制作的虚拟歌手，具体的合成配方如下表（声线混合系数以ACE Studio的100满为基准，在Pocket Singer为10满）。
+
+| 声线种子 (ACE Studio) | 然糊糊 | 绮萱 | 鸾明 | 波音律 |
+| :--: | :--: | :--: | :--: | :--: |
+| 声线种子 (Pocket Singer) | Warm1 | Child1 | Lyrical1 | Bright2 |
+| 声线混合系数 (%) | 100 | 68 | 31 | 31 |
