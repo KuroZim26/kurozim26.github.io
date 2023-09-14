@@ -15,7 +15,7 @@ date:   2023-01-07 00:00:00 +0800
 * 作品类型：<font color="#194987">独立歌曲
 * 外语标题：<font color="#194987">Night for a Farewell
 * 作品代号：<font color="#194987">“作品14号”
-* 发布时间：<font color="#194987">2023年1月7日
+* 发布时间：<font color="#194987">2023年1月6日
 * 歌曲风格：<font color="#194987">Crossover (Retro Pop × EDM)
 
 | 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
