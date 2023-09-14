@@ -9,7 +9,7 @@ date:   2023-05-28 00:00:00 +0800
 ## <font color="#ff0000">收听/收看前预警</font>
 
 * <font color="#ff0000"><b>本作时长过短（不足2分钟）。</b></font>
-* <font color="#ff0000"><b>本作使用的一图流曲绘系通过MikuTools AI绘画工具生成的。</b></font>
+* <font color="#ff0000"><b>本作使用的曲绘通过MikuTools AI绘画工具生成。</b></font>
 
 ## 基本资料
 * 作品类型：<font color="#194987">独立歌曲(实验性作品)</font>
