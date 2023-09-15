@@ -8,7 +8,7 @@ date:   2022-12-03 00:00:00 +0800
 
 ## <font color="#ff0000">收听/收看前预警</font>
 
-* <font color="#ff0000"><b>本作在部分版本使用的曲绘通过MikuTools AI绘画工具生成。</b></font>
+* <font color="#ff0000"><b>本作在部分版本使用的曲绘通过NAIFU AI绘画工具生成。</b></font>
 
 ## 基本资料
 * 作品类型：<font color="#194987">独立歌曲</font>
