@@ -28,8 +28,8 @@ date:   2023-05-18 00:00:00 +0800
 
 | 形式和发布时间 | Staff | 试听地址 | 备注 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 片段清唱<br>2023.1.13 | 歌者：[一块肥猪肝](https://www.acfun.cn/u/4599324) | [AcFun](https://www.acfun.cn/v/ac40432618) | 视频中使用原MV截图 |
-| UTAU音源翻唱<br>2023.2.20 | 制作：[菊粉·二学课代表](https://www.acfun.cn/u/684188)<br>音源：AC娘（未公开） | [AcFun](https://www.acfun.cn/v/ac40704707) | 直接使用原MV |
+| 片段清唱<br>2023-1-13 | 歌者：[一块肥猪肝](https://www.acfun.cn/u/4599324) | [AcFun](https://www.acfun.cn/v/ac40432618) | 视频中使用原MV截图 |
+| UTAU音源翻唱<br>2023-2-20 | 制作：[菊粉·二学课代表](https://www.acfun.cn/u/684188)<br>音源：AC娘（未公开） | [AcFun](https://www.acfun.cn/v/ac40704707) | 直接使用原MV |
 
 ## 歌词
 
