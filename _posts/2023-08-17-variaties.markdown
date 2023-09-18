@@ -56,6 +56,7 @@ date:	2023-08-17 00:00:00 +0800
 
 | 歌曲 | 乐器 | 试听链接 |
 | :--: | :--: | :--: |
+| The Hoshizora Project - Post-Script | 钢琴 | [网易云音乐](https://music.163.com/song?id=516407360) |
 | [HyuN - CROSS†SOUL](https://music.163.com/song?id=1909548139) | 钢琴 | [Bilibili](https://www.bilibili.com/video/BV1NE411v7he/) |
 | [Sound Souler - Novatail](https://music.163.com/song?id=1455343519) | 钢琴 | [Bilibili](https://www.bilibili.com/video/BV16J411D7a6/) |
 | [铃科 - 硝子的愿景 (AUZ ver.)](https://www.bilibili.com/video/av78665197) | 钢琴 | [Bilibili](https://www.bilibili.com/video/BV1dJ411k7cP/) |
@@ -73,6 +74,7 @@ date:	2023-08-17 00:00:00 +0800
 
 | 标题与曲风 | 原作 | 试听链接 | 备注 |
 | :--: | :--: | :--: | :--: |
+| 甩葱歌<br>Kuro Zim's "Fake-GBA-3910" Remix<br>Chiptune | [otamania - Ievan Polkka](https://music.163.com/#/song?id=26124552) | [网易云音乐](https://music.163.com/song?id=516407309)
 | ホントウノワタシ<br>Kuro Zim's "Once Upon a Rainy Night" Remix<br>Drum'n'Bass | [種田梨沙 - ホントウノワタシ](https://y.qq.com/n/ryqq/songDetail/0033oCjs1i2oL4) | [AcFun](https://www.acfun.cn/v/ac39037364)<br>[Bilibili](https://www.bilibili.com/video/BV1t84y1W71X/) | 加入了洛天依日语声库的合成音 |
 | 絵本<br>Kuro Zim's "Lost & Found" Remix<br>Dark Ambient | [雨宮天 - 絵本](https://music.163.com/#/song?id=29418481) | [AcFun](https://www.acfun.cn/v/ac40297608)<br>[Bilibili](https://www.bilibili.com/video/BV1Tg411t7Ks/) | |
 | 初恋バタフライ<br>Kuro Zim's "KOISEIMUCHOU" Remix<br>Dreamstep Fusion | [桐谷蝶々 - 初恋バタフライ](https://music.163.com/#/song?id=29761046) | [AcFun](https://www.acfun.cn/v/ac41177658)<br>[Bilibili](https://www.bilibili.com/video/BV1rk4y1a7Rp/) | 不是48系的那首。 |
