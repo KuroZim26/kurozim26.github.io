@@ -24,7 +24,7 @@ date:   2023-01-13 00:00:00 +0800
 | 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 第一版 (Across the Screen ver.)<br>2017-08-12 | Kuro Zim | Kuro Zim | Kuro Zim | 星尘<br>(VOCALOID4) | 黑方Serge | 阿鱼鱼w (曲绘)<br>花桑puruKO (摄影)<br>墨涛 (MV) | [Bilibili](https://www.bilibili.com/video/av13257396)<br>[Bilibili音频区](https://www.bilibili.com/audio/au326548?type=3)<br>[网易云音乐](https://music.163.com/song?id=497377154) |
-| 第二版 (To QY 2019 ver.)<br>2019-10-07 | Kuro Zim | Kuro Zim | Kuro Zim | AUZ + 姝制 | 大优君 | AUZ | [Bilibili](https://www.bilibili.com/video/av70396560)<br>[网易云音乐](https://music.163.com/song?id=1395620768) |
+| 第二版 (To QY 2019 ver.)<br>2019-10-07 | Kuro Zim | Kuro Zim | Kuro Zim | AUZ + 姝制 | DZ韦元子 | AUZ | [Bilibili](https://www.bilibili.com/video/av70396560)<br>[网易云音乐](https://music.163.com/song?id=1395620768) |
 | 第三版 日语填词<br>2022-12-14 | キノコp | Kuro Zim | Kuro Zim | 花隈千冬<br>(Synthesizer V) | Kuro Zim | NAIFU AI(图像)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac40424042)<br>[Bilibili](https://www.bilibili.com/video/BV1WD4y1W7FR/) |
 | 第三版 (Re:Load ver.)<br>2013-01-12 | Kuro Zim | Kuro Zim | Kuro Zim | 艾可<br>(Synthesizer V) | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac40963855_3)<br>[Bilibili](https://www.bilibili.com/video/BV1ZP4y1D74a) |
 
