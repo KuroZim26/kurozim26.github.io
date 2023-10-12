@@ -78,7 +78,7 @@ permalink: /ftrpreview/
 ### 答案是爱 日语版
 
 <audio controls>
-	<source src="/assets/audio/LoveAnswer_DemoJP_Teto.m4a" type="audio/m4a">
+	<source src="/assets/audio/LoveAnswer_DemoJP_Teto.mp3" type="audio/mp3">
 </audio>
 
 (本Demo使用基于Synthesizer V Basic的重音Teto Lite声库制作)
