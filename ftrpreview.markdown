@@ -77,6 +77,11 @@ permalink: /ftrpreview/
 
 ### 答案是爱 日语版
 
+<audio controls>
+	<source src="/assets/audio/LoveAnswer_DemoJP_Teto.m4a" type="audio/m4a">
+</audio>
+
+
 #### 基本资料
 
 * 作品类型：<font color="#194987">独立作品</font>
