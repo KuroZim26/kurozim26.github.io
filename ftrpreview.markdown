@@ -81,6 +81,7 @@ permalink: /ftrpreview/
 	<source src="/assets/audio/LoveAnswer_DemoJP_Teto.m4a" type="audio/m4a">
 </audio>
 
+(本Demo使用基于Synthesizer V Basic的重音Teto Lite声库制作)
 
 #### 基本资料
 
