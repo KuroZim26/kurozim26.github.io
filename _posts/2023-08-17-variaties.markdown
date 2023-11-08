@@ -15,22 +15,17 @@ date:	2023-08-17 00:00:00 +0800
 | 歌曲 | 原作 | 试听链接 | 备注 |
 | :--: | :--: | :--: | :--: |
 | ホントウノワタシ (唱打 ver) | [種田梨沙 - ホントウノワタシ](https://y.qq.com/n/ryqq/songDetail/0033oCjs1i2oL4) | [AcFun](https://www.acfun.cn/v/ac39036166) [Bilibili](https://www.bilibili.com/video/BV1nk4y1v764/) | MLTD唱打AP手元 |
-| 狼之主 | [塞壬唱片-MSR - 狼之主](https://music.163.com/#/song?id=1996527639) | [AcFun](https://www.acfun.cn/v/ac41210859) [Bilibili](https://www.bilibili.com/video/BV1nM4y187yV/) | |
-| 周大侠 | [周杰伦 - 周大侠](https://y.qq.com/n/ryqq/songDetail/002kCqZy0Vrb14) | [AcFun](https://www.acfun.cn/v/ac41363678) | |
-| 生还者 | [Tank - 生还者](https://y.qq.com/n/ryqq/songDetail/002V0LXj02iAqR) | [AcFun](https://www.acfun.cn/v/ac41402464) | |
+| 狼之主 | [塞壬唱片-MSR - 狼之主](https://music.163.com/#/song?id=1996527639) | [Bilibili](https://www.bilibili.com/video/BV1nM4y187yV/) | 原双站投稿，AcFun侧因质量过低而删除 |
 | 以爱之名 | [萧敬腾 - 以爱之名](https://music.163.com/song?id=22854041) | [AcFun](https://www.acfun.cn/v/ac41530055) | 
 | 黑武士 | [林俊杰 - 黑武士](https://music.163.com/song?id=108473) | [AcFun](https://www.acfun.cn/v/ac41537372) | |
 | 差不多ACer | [MC HOTDOG - 差不多先生](https://www.acfun.cn/v/ac39098696) | [AcFun](https://www.acfun.cn/v/ac41547790) | 重填词·重编曲 by Kuro Zim |
-| 相反的我 | [张芸京 - 相反的我](https://music.163.com/song?id=328029) | [AcFun](https://www.acfun.cn/v/ac41725180) | |
-| 想你的365天 | [李玟 - 想你的365天](https://music.163.com/#/song?id=106368) | [AcFun](https://www.acfun.cn/v/ac41774734) | |
 | 麦当劳无限好 | [陈奕迅 - 夕阳无限好](https://music.163.com/song?id=66272)<br>[陈奕迅 & 软硬天师 - 夕阳无限好 (麦当劳 ver)](https://music.163.com/#/song?id=2012866683) | [AcFun](https://www.acfun.cn/v/ac41797896) | 这玩意儿已经算三创了…… |
 | 心跳同步的时光 (KTV ver) | [JUSF周存 - 心跳同步的时光](https://music.163.com/#/song?id=29450520) | [AcFun](https://www.acfun.cn/v/ac41821998) [Bilibili](https://www.bilibili.com/video/BV1Dg4y1w7En/) | 洛天依11周年纪念 |
 | 笨小孩 (KTV ver) | [刘德华/吴宗宪/柯受良 - 笨小孩](https://music.163.com/song?id=570837763) | [AcFun](https://www.acfun.cn/v/ac41823915) | 
 | 说好不哭 (KTV ver) | [周杰伦 - 说好不哭 (with 五月天阿信)](https://y.qq.com/n/ryqq/songDetail/001qvvgF38HVc4) | [AcFun](https://www.acfun.cn/v/ac41823962) | |
 | 小小 (KTV ver) | [容祖儿 - 小小](https://music.163.com/song?id=287231) | [AcFun](https://www.acfun.cn/v/ac41824046) | |
 | Leave Out All The Rest | [Linkin Park - Leave Out All The Rest](https://music.163.com/song?id=16686600) | [AcFun](https://www.acfun.cn/v/ac41830760) | |
-| My Dearest Song (CHUNITHM Size) | [高野麻里佳 - My Dearest Song](https://music.163.com/song?id=518895042) | [AcFun](https://www.acfun.cn/v/ac41894964) | |
-| 信仰 | Jony J - 信仰<br>[J Hood Mixtape ver](https://music.163.com/song?id=31260611) / [喜新恋旧 ver](https://music.163.com/song?id=1325896318) | [AcFun](https://www.acfun.cn/v/ac41970523) | 使用喜新恋旧版 |
+| 信仰 | Jony J - 信仰<br>[J Hood Mixtape ver](https://music.163.com/song?id=31260611) / [喜新恋旧 ver](https://music.163.com/song?id=1325896318) | [AcFun](https://www.acfun.cn/v/ac41970523) | 音源使用喜新恋旧版 |
 
 
 ### 虚拟歌手
@@ -69,6 +64,8 @@ date:	2023-08-17 00:00:00 +0800
 | [髙橋ミナミ - it's me](https://music.163.com/#/song?id=1950603142) | 八音盒 (片段) | [AcFun](https://www.acfun.cn/v/ac41196602) |
 | 宫尾美也Solo曲二连（ハッピ～ エフェクト！ + 初恋バタフライ） | 八音盒 (片段) | [AcFun](https://www.acfun.cn/v/ac41204182) |
 | [稲川英里 - BOUNCING♪ SMILE!](https://music.163.com/#/song?id=29761043) | 八音盒 (片段) | [AcFun]( https://www.acfun.cn/v/ac41246390) |
+| Kuro Zim - 答案是爱 | FamiStudio (副歌Loop) | [AcFun](https://www.acfun.cn/v/ac42478969) |
+| [ストレイライト - Timeless Shooting Star](https://y.qq.com/n/ryqq/songDetail/001PUnGa0H4MHo) | FamiStudio (Game Size) | [AcFun](https://www.acfun.cn/v/ac42513598) |
 
 ## Remix
 
