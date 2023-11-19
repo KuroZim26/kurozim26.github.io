@@ -10,6 +10,13 @@ date:   2022-11-19 00:00:00 +0800
 * <font color="#ff0000"><b>本曲的第一版编曲出现了和既有乐曲《FREEDOM DiVE↓》几乎一样的旋律。</b></font>
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/collab01.mp3" type="audio/mp3">
+</audio>
+
+(2022版)
+
 * 作品类型：<font color="#194987">词曲合作</font>
 * 外文标题：<font color="#194987">Bedside Diary</font>
 * 发布时间：<font color="#194987">2017年7月12日</font>

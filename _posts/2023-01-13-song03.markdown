@@ -15,6 +15,27 @@ date:   2023-01-13 00:00:00 +0800
 * <font color="#ff0000"><b>本作在部分版本使用的曲绘通过NAIFU AI绘画工具生成（日语版）。</b></font>
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/song03v17.mp3" type="audio/mp3">
+</audio>
+(2017 ver.)
+
+<audio controls>
+	<source src="/assets/audio/song03v19.mp3" type="audio/mp3">
+</audio>
+(2019 ver.)
+
+<audio controls>
+	<source src="/assets/audio/song03v22.mp3" type="audio/mp3">
+</audio>
+(2022 ver. 中文版)
+
+<audio controls>
+	<source src="/assets/audio/jigennokoibumi.mp3" type="audio/mp3">
+</audio>
+(2022 ver. 日语版)
+
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 外文标题：<font color="#194987">Love Letter Across the Screen</font> (第一版) / <font color="#194987">次元の恋文～画面の彼方へ～</font> (日语填词版)
 * 作品代号：<font color="#194987">“作品3号”</font>

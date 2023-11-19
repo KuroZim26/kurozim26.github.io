@@ -7,6 +7,11 @@ date:	2018-05-30 00:00:00 +0800
 >  就让这首我们的歌 一直循环下去 回响在你我心底
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/collab04.mp3" type="audio/mp3">
+</audio>
+
 * 作品类型：<font color="#194987">词曲合作</font>
 * 发布时间：<font color="#194987">2018年5月29日</font>
 * 歌曲风格：<font color="#194987">Folk</font>

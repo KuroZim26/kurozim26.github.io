@@ -11,6 +11,11 @@ date:   2023-04-13 00:00:00 +0800
 * <font color="#ff0000"><b>本作使用的曲绘通过MikuTools AI绘画工具生成。</b></font>
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/song17.mp3" type="audio/mp3">
+</audio>
+
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 作品代号：<font color="#194987">“作品17号” / Project 02INF</font>
 * 发布时间：<font color="#194987">2023年4月1日</font> (AcFun) / <font color="#194987">2023年4月12日</font> (Bilibili)

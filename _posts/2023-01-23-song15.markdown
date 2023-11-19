@@ -7,6 +7,11 @@ date:   2023-01-23 00:00:00 +0800
 >  如果感觉迷茫，那就在夜的舞台起舞吧。
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/song15.mp3" type="audio/mp3">
+</audio>
+
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 作品代号：<font color="#194987">“作品15号”</font>
 * 发布时间：<font color="#194987">2023年1月22日</font>

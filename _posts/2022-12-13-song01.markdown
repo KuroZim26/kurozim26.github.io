@@ -12,6 +12,15 @@ date:   2022-12-13 00:00:00 +0800
 * <font color="#ff0000"><b>本作在部分版本使用的曲绘通过NAIFU AI绘画工具生成。</b></font>
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/song01.mp3" type="audio/mp3">
+</audio>
+
+<audio controls>
+	<source src="/assets/audio/song01_affectedbykuri.mp3" type="audio/mp3">
+</audio>
+
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 外文标题：<font color="#194987">Words of Happiness</font> / <font color="#194987">幸せの言葉は</font>
 * 发布时间：<font color="#194987">2016年5月14日</font>

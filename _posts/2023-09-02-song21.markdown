@@ -19,6 +19,10 @@ date:   2023-09-02 00:00:00 +0800
 
 ## 歌词
 
+<audio controls>
+	<source src="/assets/audio/song21.mp3" type="audio/mp3">
+</audio>
+
 <pre>
 仿佛注视着万花筒里的奇观
 饥渴的大脑在信息之海旋转
@@ -73,4 +77,9 @@ date:   2023-09-02 00:00:00 +0800
 
 * 本作是我以“反思互联网社交中毒现象”为主题而创作出来的。
 * 本作在创作过程中经历了一次旋律改稿。由于初稿的旋律部分和[明日方舟危机合约寻昼行动主题曲](https://music.163.com/#/song?id=1922637266)太过相近，再加上该曲本身也是Synthwave，因此为了避免不必要的麻烦，我选择对初稿进行了旋律修改。
+
+<audio controls>
+	<source src="/assets/audio/song21proto.mp3" type="audio/mp3">
+</audio>
+
 * 本作的MV包含了自摄录素材和在VRChat的公开场景中录制的风景录像。

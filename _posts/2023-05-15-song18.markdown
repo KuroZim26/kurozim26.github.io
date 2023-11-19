@@ -12,6 +12,11 @@ date:   2023-05-15 00:00:00 +0800
 * <font color="#ff0000"><b>本作时长过长（6分钟以上）。</b></font>
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/song18.mp3" type="audio/mp3">
+</audio>
+
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 作品代号：<font color="#194987">“作品18号”</font>
 * 发布时间：<font color="#194987">2023年5月13日</font> (AcFun) / 2023年5月14日</font> (Bilibili)

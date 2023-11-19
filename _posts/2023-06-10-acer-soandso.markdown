@@ -7,6 +7,11 @@ date:	2023-06-17 00:00:00 +0800
 > 差不多的AcFun，是个差不多的圈。差不多的ACer们，过着差不多的每一天。
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/acer16.mp3" type="audio/mp3">
+</audio>
+
 * 作品类型：<font color="#194987">改编翻唱</font>
 * 完整Remix标题：<font color="#194987">差不多ACer</font>
 * 发布时间：<font color="#194987">2023年6月9日</font>

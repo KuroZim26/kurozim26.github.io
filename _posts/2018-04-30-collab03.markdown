@@ -7,6 +7,11 @@ date:	2018-04-29 00:00:00 +0800
 >  新年快乐周大主教，祝你回归a股顺利，再见——黄旭东
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/collab03.mp3" type="audio/mp3">
+</audio>
+
 * 作品类型：<font color="#194987">词曲合作</font>
 * 发布时间：<font color="#194987">2018年4月30日</font>
 * 歌曲风格：<font color="#194987">Electronic Pop</font>

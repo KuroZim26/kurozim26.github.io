@@ -14,8 +14,8 @@ permalink: /selfintro/
 
 ### 个人创作相关
 
-* 曾经是困在中文VOCALOID圈的流浪者，现在的定位是纯爱好型业余Composer。
-* 目前会在AcFun上传主要作品；Bilibili和网易云音乐（电台）作为备用上传渠道。
+* 曾经在中文VOCALOID圈流浪多年，如今脱离圈子，与生活的种种挑战对线中。
+* 目前在AcFun上传主要作品；Bilibili和网易云音乐（电台）作为备用上传渠道。
 
 ### 游戏相关
 
@@ -27,9 +27,9 @@ permalink: /selfintro/
 ## 联系方式
 * __QQ__ 531312402
 * __邮箱__ 531312402@qq.com
-* __AcFun（主账号，发布包括歌曲制作、音游相关的音综内容）__ [KRZM26-音符菌](https://www.acfun.cn/u/30346233)
-* __AcFun（副账号，发布其他游戏相关内容）__ [音符菌的无秘档案_SubCH](https://www.acfun.cn/u/2290378)
-* __Bilibili（当前使用，发布部分可以双站通发的内容）__ [KuroZim_小黑](https://space.bilibili.com/16228948)
+* __AcFun（主账号，发布音综内容，目前视频发布暂停中）__ [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)
+* __AcFun（副账号，发布其他游戏相关内容，如明日方舟等）__ [音符菌的无秘档案_SubCH](https://www.acfun.cn/u/2290378)
+* __Bilibili（当前使用，发布一些可以通发的内容）__ [KuroZim_小黑](https://space.bilibili.com/16228948)
 * __网易云音乐（当前使用，电台用）__ [KuroZim26-音符菌](https://music.163.com/#/user/home?id=1966406139)
 
 ## 友情链接

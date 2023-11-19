@@ -7,6 +7,11 @@ date:	2023-06-17 00:00:00 +0800
 > 无论相伴同行还是品尝孤独，我们都是无悔的信徒。
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/believermx.mp3" type="audio/mp3">
+</audio>
+
 * 作品类型：<font color="#194987">Remix</font>
 * 完整Remix标题：<font color="#194987">BELIEVE (Kuro Zim's "Remorseless Believer" Remix)</font>
 * 发布时间：<font color="#194987">2023年6月16日</font>

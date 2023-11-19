@@ -7,6 +7,11 @@ date:	2023-04-20 00:00:00 +0800
 > 不是HKT48那首！不是HKT48那首！不是HKT48那首！
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/miyarmx.mp3" type="audio/mp3">
+</audio>
+
 * 作品类型：<font color="#194987">Remix</font>
 * 完整Remix标题：<font color="#194987">初恋バタフライ (Kuro Zim's "恋生夢蝶 / KOISEIMUCHOU" Remix)</font>
 * 发布时间：<font color="#194987">2023年4月20日</font>

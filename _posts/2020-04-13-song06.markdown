@@ -7,6 +7,11 @@ date:   2020-04-13 00:00:00 +0800
 > 感谢GRGE，中文EUROBEAT安排上了！
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/song06.mp3" type="audio/mp3">
+</audio>
+
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 作品代号：<font color="#194987">“作品6号”</font>
 * 发布时间：<font color="#194987">2020年4月12日</font>

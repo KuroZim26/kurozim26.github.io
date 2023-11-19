@@ -7,6 +7,11 @@ date:	2017-10-23 00:00:00 +0800
 >  永远的陪伴，就是最好的答案。
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/collab02.mp3" type="audio/mp3">
+</audio>
+
 * 作品类型：<font color="#194987">词曲合作</font>
 * 中文标题：<font color="#194987">纯白色的梦·烛光</font>
 * 发布时间：<font color="#194987">2017年10月22日</font>

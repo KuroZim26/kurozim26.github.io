@@ -7,6 +7,11 @@ date:	2022-12-29 00:00:00 +0800
 > 丢掉无法超越的温暖回忆，是否就能相应地得到成长的补偿？
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/ehonrmx.mp3" type="audio/mp3">
+</audio>
+
 * 作品类型：<font color="#194987">Remix</font>
 * 完整Remix标题：<font color="#194987">絵本 (Kuro Zim's "Lost and Found" Remix)</font>
 * 发布时间：<font color="#194987">2022年12月28日</font>

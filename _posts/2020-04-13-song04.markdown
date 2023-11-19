@@ -9,6 +9,19 @@ date:   2020-04-13 00:00:00 +0800
 > 让曾经那首简单的旋律，更加艳丽而无畏地绽放吧
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/song04v18.mp3" type="audio/mp3">
+</audio>
+
+(2018版)
+
+<audio controls>
+	<source src="/assets/audio/song04v20.mp3" type="audio/mp3">
+</audio>
+
+(2020版)
+
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 外文标题：<font color="#194987">A Simple Song</font>
 * 作品代号：<font color="#194987">“作品4号”</font>

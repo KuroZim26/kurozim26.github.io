@@ -7,6 +7,11 @@ date:   2022-07-13 00:00:00 +0800
 >  在10周年的时点，重新审视“我”与“她们”的关联——这样一首歌。
 
 ## 基本资料
+
+<audio controls>
+	<source src="/assets/audio/song07.mp3" type="audio/mp3">
+</audio>
+
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 作品代号：<font color="#194987">“作品7号” / Project L10</font>
 * 发布时间：<font color="#194987">2022年7月12日</font>

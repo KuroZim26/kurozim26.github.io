@@ -27,9 +27,9 @@ permalink: /ftrpreview/
 * 预定发布时间：<font color="#194987">2023年12月04日</font>
 * 歌曲风格：<font color="#194987">Rock Pop</font>
 
-| 作词 | 作曲 | 编曲 | 预定版本 |
-| :--: | :--: | :--: | :--: | 
-| Kuro Zim | Kuro Zim | Kuro Zim | 虚拟歌手版（徵羽摩柯）<br>人声本家版（兎乃） |
+| 作词 | 作曲 | 编曲 |
+| :--: | :--: | :--: |
+| Kuro Zim | Kuro Zim | Kuro Zim |
 
 #### 歌词
 
@@ -81,12 +81,12 @@ permalink: /ftrpreview/
 
 * 作品类型：<font color="#194987">定制歌曲（有计划制作普适性的通用版歌词）</font>
 * 暂定标题：<font color="#194987">WishTeller (for TIAMAT Edition)</font>
-* 预定发布时间：<font color="#194987">未确定</font>
+* 预定发布时间：<font color="#194987">未确定，应该会咕很久很久</font>
 * 歌曲风格：<font color="#194987">Pop</font>
 
-| 作词 | 作曲 | 编曲 | 预定版本 |
-| :--: | :--: | :--: | :--: | 
-| Kuro Zim | Kuro Zim（待定） | Kuro Zim（待定） | 定制版（提亚玛特_Channel） |
+| 作词 | 作曲 | 编曲 |
+| :--: | :--: | :--: |
+| Kuro Zim | Kuro Zim | Kuro Zim |
 
 #### 歌词
 
@@ -152,14 +152,14 @@ T.I.A.M.A.T. 就像咒语把门打开
 
 #### 基本资料
 
-* 作品类型：<font color="#194987">独立作品</font>
+* 作品类型：<font color="#194987">独立作品（外文填词）</font>
 * 暂定标题：<font color="#194987">愛で答えで</font>
-* 预定发布时间：<font color="#194987">未确定</font>
+* 预定发布时间：<font color="#194987">有可能</font>
 * 歌曲风格：<font color="#194987">Rock</font>
 
-| 作词 | 作曲 | 编曲 | 预定版本 |
-| :--: | :--: | :--: | :--: | 
-| Kuro Zim | Kuro Zim | Kuro Zim | 虚拟歌手版（UTAU波音律） |
+| 作词 | 作曲 | 编曲 |
+| :--: | :--: | :--: |
+| Kuro Zim | Kuro Zim | Kuro Zim |
 
 #### 歌词
 <pre>
@@ -231,25 +231,10 @@ T.I.A.M.A.T. 就像咒语把门打开
 
 * 音源重制
 
-~~《昨日雨·今日晴》《Untitled 3am》《小小的我》《Nocturnal Floor》四首歌曲：如果ACE Studio正式付费版实装了徵羽摩柯，且可以在试用阶段自由使用，那么就将这些歌曲的音源更换为ACE版。~~ 由于时域科技的种种劝退操作，徵羽摩柯AI音源重制计划取消，但不排除在以后的其他重制过程中，使用不同引擎不同虚拟歌手的可能性。
-- [ ] 《小小的我》《答案是爱》重编曲（更准确说是音源优化）
+- 暂且放下
 
 * MV去AI化
 
 - [ ] 《Untitled 3am》《小小的我》《次元の恋文～画面の彼方へ～》《幸福的语言 Re:Start ver》《告别之夜》《走吧，我们去流浪》：全MV重做
 - [ ] 《燃炬之途》：A站视频去除AI绘后重做；封面完全重做
 - [ ] 《写给今天的歌》：封面重做
-
-### 今后有可能达成合作的AcFun音乐区UP主/VUP
-
-#### 合作确定
-
-* 兎乃（已定档制作《梦里没有英雄》）
-* 小子贼疯（已计划Cover《小小的我2023》）
-* 提亚玛特_Channel（已定档制作《WishTeller (TIAMAT Edit)》）
-
-#### 存在后续合作可能
-
-* 鹿岛佩佩子（《梦里没有英雄》人本第一候选）
-* 山竹Mez（《梦里没有英雄》人本第二候选）
-* 茗魂（已合作一首Cover）
