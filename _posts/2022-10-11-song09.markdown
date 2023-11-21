@@ -12,18 +12,6 @@ date:   2022-10-11 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/song09.mp3" type="audio/mp3">
-</audio>
-
-(原曲)
-
-<audio controls>
-	<source src="/assets/audio/song09fdemo.mp3" type="audio/mp3">
-</audio>
-
-(女声版Demo)
-
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 作品代号：<font color="#194987">“作品9号” / Project Oct (十月计划)</font>
 * 发布时间：<font color="#194987">2022年10月10日</font>
@@ -32,6 +20,20 @@ date:   2022-10-11 00:00:00 +0800
 | 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 原作 | Kuro Zim | Kuro Zim | Kuro Zim | 徵羽摩柯 (VOCALOID4) | Kuro Zim | VSinger公式 (封面) Kuro Zim | [AcFun](http://www.acfun.cn/v/39138414)<br>[Bilibili补档](https://www.bilibili.com/video/BV1jW4y1K7Kj/) |
+
+## 试听
+
+### 男声公开投稿版
+
+<audio controls>
+	<source src="/assets/audio/song09.mp3" type="audio/mp3">
+</audio>
+
+### 女声Demo版
+
+<audio controls>
+	<source src="/assets/audio/song09fdemo.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

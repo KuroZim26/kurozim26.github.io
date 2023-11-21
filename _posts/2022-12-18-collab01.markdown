@@ -11,12 +11,6 @@ date:   2022-11-19 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/collab01.mp3" type="audio/mp3">
-</audio>
-
-(2022版)
-
 * 作品类型：<font color="#194987">词曲合作</font>
 * 外文标题：<font color="#194987">Bedside Diary</font>
 * 发布时间：<font color="#194987">2017年7月12日</font>
@@ -26,6 +20,12 @@ date:   2022-11-19 00:00:00 +0800
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 初版<br>2017-07-12 | 洛微 | Kuro Zim | Kuro Zim | 洛天依 (VOCALOID3) | 轩子 | 铮了个粽子 (曲绘)<br>Kuro Zim | [Bilibili音频区](https://www.bilibili.com/audio/au37572) |
 | 复活版<br>2022-12-17 | 洛微 | Kuro Zim | Kuro Zim | 洛天依 (ACE Studio) | Kuro Zim | 铮了个粽子 (曲绘)<br>洛微 | [AcFun](https://www.acfun.cn/v/ac39805031)<br>[Bilibili](https://www.bilibili.com/video/BV1av4y1m7Bk) |
+
+## 试听
+
+<audio controls>
+	<source src="/assets/audio/collab01.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

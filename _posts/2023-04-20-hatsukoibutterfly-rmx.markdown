@@ -8,10 +8,6 @@ date:	2023-04-20 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/miyarmx.mp3" type="audio/mp3">
-</audio>
-
 * 作品类型：<font color="#194987">Remix</font>
 * 完整Remix标题：<font color="#194987">初恋バタフライ (Kuro Zim's "恋生夢蝶 / KOISEIMUCHOU" Remix)</font>
 * 发布时间：<font color="#194987">2023年4月20日</font>
@@ -20,6 +16,12 @@ date:	2023-04-20 00:00:00 +0800
 | 原作 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | [桐谷蝶々 - 初恋バタフライ](https://music.163.com/#/song?id=29761046) | 唐沢美帆 | 石井健太郎 福富雅之 | Kuro Zim | 桐谷 蝶々 (原Vocal) | Kuro Zim | 百万现场公式(卡图)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41177658)<br>[Bilibili](https://www.bilibili.com/video/BV1rk4y1a7Rp/) |
+
+## 试听
+
+<audio controls>
+	<source src="/assets/audio/miyarmx.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

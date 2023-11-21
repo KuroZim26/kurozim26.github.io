@@ -12,23 +12,8 @@ date:   2023-08-11 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/song11ritsu.mp3" type="audio/mp3">
-</audio>
-(律 ver.)
-
-<audio controls>
-	<source src="/assets/audio/song11willy.mp3" type="audio/mp3">
-</audio>
-(文栗 ver.)
-
-<audio controls>
-	<source src="/assets/audio/song11minghun.mp3" type="audio/mp3">
-</audio>
-(茗魂翻唱版)
-
 * 作品类型：<font color="#194987">独立歌曲</font>
-* 外文标题：<font color="#194987">LOVE is the Key.</font>
+* 外文标题：<font color="#194987">LOVE is the Key.（原曲英文标题） / 愛で答えで（日语版）</font>
 * 作品代号：<font color="#194987">“作品11号” / Project Nov (11月计划)</font>
 * 发布时间：<font color="#194987">2022年11月23日</font>
 * 歌曲风格：<font color="#194987">Rock Pop</font>
@@ -38,8 +23,33 @@ date:   2023-08-11 00:00:00 +0800
 | 波音律 ver.<br>2022-11-23 | Kuro Zim | Kuro Zim | Kuro Zim | 波音律 (ACE Studio) | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac39905155)<br>[Bilibili](https://www.bilibili.com/video/BV1AG4y1d7ug) |
 | 文栗 ver.<br>DemoBox 2023-04 | Kuro Zim | Kuro Zim | Kuro Zim | 文栗 (ACE Studio) | Kuro Zim | NAIFU AI (图像)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac40963855_2) |
 | 茗魂 ver.<br>2023-08-10 | Kuro Zim | Kuro Zim | Kuro Zim | [茗魂](https://www.acfun.cn/u/17912421) | 茗魂<br>梁梓逸 (技术协力) | 茗魂 (形象素材)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac42050497) |
+| 日语版<br>Coming Soon | Kuro Zim | Kuro Zim | Kuro Zim | 重音Teto | Kuro Zim | ---- | ---- |
+
+## 试听
+
+### 中文版（律·文栗·茗魂）
+
+<audio controls>
+	<source src="/assets/audio/song11ritsu.mp3" type="audio/mp3">
+</audio>
+
+<audio controls>
+	<source src="/assets/audio/song11willy.mp3" type="audio/mp3">
+</audio>
+
+<audio controls>
+	<source src="/assets/audio/song11minghun.mp3" type="audio/mp3">
+</audio>
+
+### 日语版 Demo（重音Teto）
+
+<audio controls>
+	<source src="/assets/audio/LoveAnswer_DemoJP_Teto.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
+
+### 中文版
 
 <pre>
 独自一人在幸福城外
@@ -91,6 +101,73 @@ date:   2023-08-11 00:00:00 +0800
 
 此处是自己 眼前是未来
 解放了自己 才抵达未来
+</pre>
+
+### 愛で答えで（日语版）
+
+<pre>
+悪夢から目覚めて、呼吸はまだ乱れる
+	从噩梦中醒来，呼吸还很紊乱
+また眠れない夜、部屋から走りたせ
+	又是一个不眠之夜，那就从屋子里跑出来吧
+1人ぼちい歩んで、この暗闇の中
+	独身一人在这黑暗之中行走
+胸もなかの子供、いつの間に叫んでる
+	心中的孩子不知不觉发出了呐喊
+
+愛される思い出、涙満ちる瞬間
+	被爱的回忆，热泪盈眶的瞬间
+自分で紡いでる、この全部
+	自己编织出来的这一切
+まだ小さいでも、ここは希望の種
+	就算微小，也是希望的种子
+昨日は悔しくて、でも明日を望んで
+	就算昨天充满悔恨，但也期望明天
+自分に出会える、あの時に
+	遇见自己的那一刻
+きっとあの夢をしっかり言いで
+	一定要把那个梦想好好说出来
+進めましょう、自分のため
+	为了自己前进吧
+
+歪む過去があっても (でも)
+	就算有扭曲的过去（就算如此）
+明日を変わるチャンスも (大丈夫)
+	也存在着改变明天的机会（没关系的）
+諦めず歩んで、望んた夜明けまで
+	不要放弃，继续前进，直到期望中的黎明
+
+癒される思い出、暖かくなる瞬間
+	被治愈的回忆，温暖的瞬间
+自分で奏でる、この全部
+	自己弹奏出来的这一切
+まだ小さいでも、無駄にさせないね
+	就算微小，也不要让它们白费
+現実は厳しいで、でも愛は続ける
+	就算现实很严苛，但爱也依旧存在
+理想に出会える、あの時に
+	遇见理想的那一刻
+愛は自分を照らす道標
+	爱就是照亮自己的路标
+歌いましょう、自分の声
+	用自己的声音歌唱吧
+
+愛される思い出、涙満ちる瞬間
+	被爱的回忆，热泪盈眶的瞬间
+自分で紡いでる、この全部
+	自己编织出来的这一切
+まだ小さいでも、ここは希望の種
+	就算微小，也是希望的种子
+「恋」のことではなく、「愛」のこと覚えて
+	这与“恋”没有关系，只要把“爱”记住就好
+自分の謎を解く時まで
+	在自己的谜团得以解开之前
+どんな「結論」もただの予想だけ
+	无论何种“结论”都只是猜想
+探しましょう、自分の手で
+	用自己的手去探寻吧
+この答えは、きっと見つかれ
+	你一定会找到这个答案
 </pre>
 
 ## 歌曲相关信息

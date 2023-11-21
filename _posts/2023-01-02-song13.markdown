@@ -13,10 +13,6 @@ date:   2023-01-02 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/song13.mp3" type="audio/mp3">
-</audio>
-
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 外文标题：<font color="#194987">Song For Today</font>
 * 作品代号：<font color="#194987">“作品13号” / Project 2023P1</font>
@@ -26,6 +22,12 @@ date:   2023-01-02 00:00:00 +0800
 | 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 原作 | Kuro Zim | Kuro Zim | Kuro Zim | 波音律 洛天依 文栗 雀河<br>(ACE Studio) | Kuro Zim | NAIFU AI (图像)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac40320336)<br>[Bilibili](https://www.bilibili.com/video/BV1L84y1s7Gp) |
+
+## 试听
+
+<audio controls>
+	<source src="/assets/audio/song13.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

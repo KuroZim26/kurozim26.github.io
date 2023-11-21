@@ -8,10 +8,6 @@ date:	2023-06-17 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/acer16.mp3" type="audio/mp3">
-</audio>
-
 * 作品类型：<font color="#194987">改编翻唱</font>
 * 完整Remix标题：<font color="#194987">差不多ACer</font>
 * 发布时间：<font color="#194987">2023年6月9日</font>
@@ -20,6 +16,12 @@ date:	2023-06-17 00:00:00 +0800
 | 原作 | 作词 | 作曲 | 重编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | [MC HOTDOG - 差不多先生](https://www.acfun.cn/v/ac39098696) | 原作：MC HOTDOG<br>重填词：Kuro Zim | 张震岳 | Kuro Zim | Kuro Zim | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41547790) |
+
+## 试听
+
+<audio controls>
+	<source src="/assets/audio/acer16.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

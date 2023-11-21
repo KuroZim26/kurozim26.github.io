@@ -12,10 +12,6 @@ date:   2023-04-13 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/song17.mp3" type="audio/mp3">
-</audio>
-
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 作品代号：<font color="#194987">“作品17号” / Project 02INF</font>
 * 发布时间：<font color="#194987">2023年4月1日</font> (AcFun) / <font color="#194987">2023年4月12日</font> (Bilibili)
@@ -24,6 +20,12 @@ date:   2023-04-13 00:00:00 +0800
 | 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 原作 | Kuro Zim | Kuro Zim | Kuro Zim | 乐正绫 (VOCALOID3) | Kuro Zim | MikuTools AI (图像)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41019965)<br>[Bilibili](https://www.bilibili.com/video/BV1fX4y1r7NB) |
+
+## 试听、
+
+<audio controls>
+	<source src="/assets/audio/song17.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

@@ -8,10 +8,6 @@ date:   2023-06-23 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/song20.mp3" type="audio/mp3">
-</audio>
-
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 外语标题：<font color="#194987">The Hardest Subject</font>
 * 作品代号：<font color="#194987">“作品20号”</font>
@@ -21,6 +17,12 @@ date:   2023-06-23 00:00:00 +0800
 | 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 原作 | Kuro Zim | Kuro Zim | Kuro Zim | Kuro Zim (主要部分)<br>文栗·云灏 (ACE Studio) (Hook和声)<br>然糊糊 (ACE Studio) (引用《次元情书》部分) | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41656423)<br>[Bilibili](https://www.bilibili.com/video/BV1QW4y1S7i9/) |
+
+## 试听
+
+<audio controls>
+	<source src="/assets/audio/song20.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

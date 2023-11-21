@@ -8,10 +8,6 @@ date:	2018-04-29 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/collab03.mp3" type="audio/mp3">
-</audio>
-
 * 作品类型：<font color="#194987">词曲合作</font>
 * 发布时间：<font color="#194987">2018年4月30日</font>
 * 歌曲风格：<font color="#194987">Electronic Pop</font>
@@ -19,6 +15,12 @@ date:	2018-04-29 00:00:00 +0800
 | 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 原作 | 洛微 | Kuro Zim (a.k.a.小黑) | Kuro Zim (a.k.a.小黑) | 星尘 (VOCALOID4)<br>心华 (VOCALOID3) | 紫荆7x | 铮了个粽子 + 雨兮(曲绘)<br>洛微 | [Bilibili](https://www.bilibili.com/video/av22724448?p=1)<br>[网易云音乐](https://music.163.com/song?id=549768692) |
+
+## 试听
+
+<audio controls>
+	<source src="/assets/audio/collab03.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

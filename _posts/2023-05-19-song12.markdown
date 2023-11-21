@@ -14,21 +14,6 @@ date:   2023-05-18 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/song12v22.mp3" type="audio/mp3">
-</audio>
-(2022 ver.)
-
-<audio controls>
-	<source src="/assets/audio/song12v23mdemo.mp3" type="audio/mp3">
-</audio>
-(2023 男声Demo 褚明 ver.)
-
-<audio controls>
-	<source src="/assets/audio/song12v23fdemo.mp3" type="audio/mp3">
-</audio>
-(2023 女声Demo 伊拾七 ver.)
-
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 外文标题：<font color="#194987">Greatness within Tinyness</font>
 * 作品代号：<font color="#194987">“作品12号” / Project Dec (12月计划)</font>
@@ -46,6 +31,24 @@ date:   2023-05-18 00:00:00 +0800
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 片段清唱<br>2023-1-13 | 歌者：[一块肥猪肝](https://www.acfun.cn/u/4599324) | [AcFun](https://www.acfun.cn/v/ac40432618) | 视频中使用原MV截图 |
 | UTAU音源翻唱<br>2023-2-20 | 制作：[菊粉·二学课代表](https://www.acfun.cn/u/684188)<br>音源：AC娘（未公开） | [AcFun](https://www.acfun.cn/v/ac40704707) | 直接使用原MV |
+
+## 试听
+
+### 2022初编曲版
+
+<audio controls>
+	<source src="/assets/audio/song12v22.mp3" type="audio/mp3">
+</audio>
+
+### 2023重编版 Demo（褚明·伊拾七）
+
+<audio controls>
+	<source src="/assets/audio/song12v23mdemo.mp3" type="audio/mp3">
+</audio>
+
+<audio controls>
+	<source src="/assets/audio/song12v23fdemo.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

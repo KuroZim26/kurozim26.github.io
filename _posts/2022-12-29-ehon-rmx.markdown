@@ -8,10 +8,6 @@ date:	2022-12-29 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/ehonrmx.mp3" type="audio/mp3">
-</audio>
-
 * 作品类型：<font color="#194987">Remix</font>
 * 完整Remix标题：<font color="#194987">絵本 (Kuro Zim's "Lost and Found" Remix)</font>
 * 发布时间：<font color="#194987">2022年12月28日</font>
@@ -21,9 +17,18 @@ date:	2022-12-29 00:00:00 +0800
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | [雨宮天 - 絵本](https://music.163.com/#/song?id=29418481) | 坂井季乃 | 增谷贤 | Kuro Zim | 雨宮天 (原Vocal) | Kuro Zim | 百万现场公式(卡图)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac40297608)<br>[Bilibili](https://www.bilibili.com/video/BV1Tg411t7Ks/) |
 
+## 试听
+
+<audio controls>
+	<source src="/assets/audio/ehonrmx.mp3" type="audio/mp3">
+</audio>
+
 ## 歌词
 
 <pre>
+*守るべきものがあって　私は強くなりたいから
+笑うことをやめたの　すべてが叶うその日まで*
+
 信じていたの　小さな頃に
 絵本の中にいたお姫様は強いもの
 守られること　守りたいこと

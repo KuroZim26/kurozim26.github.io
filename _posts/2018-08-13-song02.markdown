@@ -12,10 +12,6 @@ date:   2018-08-13 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/song02.mp3" type="audio/mp3">
-</audio>
-
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 作品代号：<font color="#194987">“作品2号”</font>
 * 发布时间：<font color="#194987">2016年8月26日</font> (初创) / <font color="#194987">2018年8月12日</font> (目前的公开版本)
@@ -24,6 +20,12 @@ date:   2018-08-13 00:00:00 +0800
 | 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 原作 | Kuro Zim | Kuro Zim | 泠魔Boy | 星尘 (VOCALOID4) | Incubo泠蝶 a.k.a. Unoge | 九粮米液 | [Bilibili](https://www.bilibili.com/video/av28911978?p=1)<br>[Bilibili音频区](https://www.bilibili.com/audio/au37981?type=3) |
+
+## 试听
+
+<audio controls>
+	<source src="/assets/audio/song02.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

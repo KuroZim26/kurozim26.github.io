@@ -13,10 +13,6 @@ date:   2023-05-15 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/song18.mp3" type="audio/mp3">
-</audio>
-
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 作品代号：<font color="#194987">“作品18号”</font>
 * 发布时间：<font color="#194987">2023年5月13日</font> (AcFun) / 2023年5月14日</font> (Bilibili)
@@ -25,6 +21,12 @@ date:   2023-05-15 00:00:00 +0800
 | 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 原作 | Kuro Zim | Kuro Zim | Kuro Zim | Kuro Zim (Verse)<br>波音律 (ACE Studio) (Hook) | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41350810)<br>[Bilibili](https://www.bilibili.com/video/BV1K24y1K7tc/) |
+
+## 试听
+
+<audio controls>
+	<source src="/assets/audio/song18.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

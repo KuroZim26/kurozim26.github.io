@@ -12,24 +12,6 @@ date:   2022-12-03 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/song05v18sd.mp3" type="audio/mp3">
-</audio>
-
-(星尘 ver.)
-
-<audio controls>
-	<source src="/assets/audio/song05v18auz.mp3" type="audio/mp3">
-</audio>
-
-(AUZ ver.)
-
-<audio controls>
-	<source src="/assets/audio/song05v22.mp3" type="audio/mp3">
-</audio>
-
-(2022 ver.)
-
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 外文标题：<font color="#194987">Faith of Happiness</font>
 * 作品代号：<font color="#194987">“作品5号”</font>
@@ -51,6 +33,24 @@ date:   2022-12-03 00:00:00 +0800
 | Cytoid自制谱<br>2018-08-07 / 2018-11-05 | 自制谱作者：Kuro Zim | [Cytoid (VOCALOID ver)](https://cytoid.io/levels/faithofhappiness)<br>[Cytoid (AUZ ver)](https://cytoid.io/levels/foh.vocalistfull)
 | 翻唱<br>2018-12-05 | 歌者：[某个不愿透露姓名的人](https://www.acfun.cn/u/684188) | [Bilibili](https://www.bilibili.com/video/BV12t411D7nM) |  |
 | 剧情微电影<br>2019-06-29 | 制作：[霞幻Tani在日本](https://space.bilibili.com/16510497)<br>副导演：Alfabarh      领衔主演：兔叽 | [Bilibili](https://www.bilibili.com/video/BV1kx41197xf) | 作为UP主的毕业设计投稿 |
+
+## 试听
+
+### 2018原版
+
+<audio controls>
+	<source src="/assets/audiosong05v18sd.mp3" type="audio/mp3">
+</audio>
+
+<audio controls>
+	<source src="/assets/audio/song05v18auz.mp3" type="audio/mp3">
+</audio>
+
+### 2022编曲版
+
+<audio controls>
+	<source src="/assets/audio/song05v22.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

@@ -8,10 +8,6 @@ date:	2023-06-17 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/believermx.mp3" type="audio/mp3">
-</audio>
-
 * 作品类型：<font color="#194987">Remix</font>
 * 完整Remix标题：<font color="#194987">BELIEVE (Kuro Zim's "Remorseless Believer" Remix)</font>
 * 发布时间：<font color="#194987">2023年6月16日</font>
@@ -20,6 +16,12 @@ date:	2023-06-17 00:00:00 +0800
 | 原作 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | AcFun音乐出品 - [BELIEVE](https://www.acfun.cn/v/ac35706345) | 妖狐公子 | 炎羽瑾 纱朵 | Kuro Zim | 然糊糊 + 绮萱 (ACE Studio) | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41596894) |
+
+## 试听
+
+<audio controls>
+	<source src="/assets/audio/believermx.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

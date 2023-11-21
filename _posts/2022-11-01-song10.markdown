@@ -13,10 +13,6 @@ date:   2022-11-01 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/song10.mp3" type="audio/mp3">
-</audio>
-
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 作品代号：<font color="#194987">“作品10号”</font>
 * 发布时间：<font color="#194987">2022年10月31日</font>
@@ -25,6 +21,12 @@ date:   2022-11-01 00:00:00 +0800
 | 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 原作 | Kuro Zim | Kuro Zim | Kuro Zim | 徵羽摩柯 (VOCALOID4) | Kuro Zim | NAIFU AI (图像)<br>Kuro Zim | [AcFun](http://www.acfun.cn/v/39479070) |
+
+## 试听
+
+<audio controls>
+	<source src="/assets/audio/song10.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

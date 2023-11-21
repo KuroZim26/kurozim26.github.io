@@ -8,10 +8,6 @@ date:   2022-08-13 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/song08.mp3" type="audio/mp3">
-</audio>
-
 * 作品类型：<font color="#194987">独立歌曲</font>
 * 作品代号：<font color="#194987">“作品8号” / H02</font>
 * 发布时间：<font color="#194987">2022年8月12日</font>
@@ -20,6 +16,12 @@ date:   2022-08-13 00:00:00 +0800
 | 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 原作 | Kuro Zim<br>(H1kawa26_) | Kuro Zim<br>(H1kawa26_) | Kuro Zim<br>(H1kawa26_) | 星尘 (VOCALOID4) | Kuro Zim<br>(H1kawa26_) | Kuro Zim<br>(H1kawa26_) | [AcFun](http://www.acfun.cn/v/36373326) |
+
+## 试听
+
+<audio controls>
+	<source src="/assets/audio/song08.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 

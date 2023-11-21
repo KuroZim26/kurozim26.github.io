@@ -13,10 +13,6 @@ date:   2023-05-28 00:00:00 +0800
 
 ## 基本资料
 
-<audio controls>
-	<source src="/assets/audio/song19.mp3" type="audio/mp3">
-</audio>
-
 * 作品类型：<font color="#194987">独立歌曲(实验性作品)</font>
 * 作品代号：<font color="#194987">“作品19号”</font>
 * 发布时间：<font color="#194987">2023年5月27日</font>
@@ -25,6 +21,12 @@ date:   2023-05-28 00:00:00 +0800
 | 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 原作 | Kuro Zim | Kuro Zim | Kuro Zim | Sapph Altia (Pocket Singer 自制歌手) | Kuro Zim | MikuTools AI (图像)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41459516)<br>[Bilibili](https://www.bilibili.com/video/BV1hd4y1f72M/) |
+
+## 试听
+
+<audio controls>
+	<source src="/assets/audio/song19.mp3" type="audio/mp3">
+</audio>
 
 ## 歌词
 
