@@ -43,10 +43,11 @@ date:	2023-08-30 00:00:00 +0800
 * 对某sans头的观测记录，“科技与狠活”，以及羞耻心 [AcFun文章](https://www.acfun.cn/a/ac42136629)
 * 关于“21号作品”的一点说明 [AcFun文章](https://www.acfun.cn/a/ac42188194)
 * 逐渐理解 [AcFun文章](https://www.acfun.cn/a/ac42211481)
+* 手搓了一些站内UP主的印象Logo [AcFun文章](https://www.acfun.cn/a/ac42588118)
 
 ### 月度总结系列
 
-[二月](https://www.acfun.cn/a/ac40773217) / [三月](https://www.acfun.cn/a/ac41008019) / [四月](https://www.acfun.cn/a/ac41253348) / [五月](https://www.acfun.cn/a/ac41477272) / [六月](https://www.acfun.cn/a/ac41708853) / [七月](https://www.acfun.cn/a/ac41961922) / [八月](https://www.acfun.cn/a/ac42152362)
+[二月](https://www.acfun.cn/a/ac40773217) / [三月](https://www.acfun.cn/a/ac41008019) / [四月](https://www.acfun.cn/a/ac41253348) / [五月](https://www.acfun.cn/a/ac41477272) / [六月](https://www.acfun.cn/a/ac41708853) / [七月](https://www.acfun.cn/a/ac41961922) / [八月](https://www.acfun.cn/a/ac42152362) / [九月](https://www.acfun.cn/a/ac42505039) / [十月](https://www.acfun.cn/a/ac42719414)
 
 ## 原创小说（坑ing）
 
