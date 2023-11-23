@@ -21,7 +21,7 @@ date:   2023-04-13 00:00:00 +0800
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 原作 | Kuro Zim | Kuro Zim | Kuro Zim | 乐正绫 (VOCALOID3) | Kuro Zim | MikuTools AI (图像)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41019965)<br>[Bilibili](https://www.bilibili.com/video/BV1fX4y1r7NB) |
 
-## 试听、
+## 试听
 
 <audio controls>
 	<source src="/assets/audio/song17.mp3" type="audio/mp3">

@@ -19,7 +19,7 @@ date:	2023-09-24 00:00:00 +0800
 * API地址如下（问号处换成视频ID番号）：<br>
 `https://api.bilibili.com/x/web-interface/view?bvid=bv??????????`<br>
 `https://api.bilibili.com/x/web-interface/view?aid=av????????`
-* 以[BV1UJ411F7Qy / av70396560](/2023/01/13/song03.html)为例，在支持json显示的浏览器（如本人目前使用的FireFox）中。应该是长这个样子的：
+* 以[BV1UJ411F7Qy / av70396560](/song03.html)为例，在支持json显示的浏览器（如本人目前使用的FireFox）中。应该是长这个样子的：
 ![这是图片](/assets/img/apiexample.png "Bilibili API调用示例 JSON格式")
 图中pic行所指的链接就是封面链接。
 
