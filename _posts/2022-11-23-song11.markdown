@@ -44,7 +44,7 @@ date:   2022-11-23 08:00:00 +0800
 ### 日语版 Demo（重音Teto）
 
 <audio controls>
-	<source src="/assets/audio/LoveAnswer_DemoJP_Teto.mp3" type="audio/mp3">
+	<source src="/assets/audio/song11jpdemo.mp3" type="audio/mp3">
 </audio>
 
 ## 歌词
