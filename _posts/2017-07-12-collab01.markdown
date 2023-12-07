@@ -1,31 +1,27 @@
 ---
 layout: post
-title:  "【歌曲/词曲合作】枕边的日记"
+title:  "枕边的日记 ~Bedside Diary~"
 date:   2017-07-12 00:00:00 +0800
 ---
 
-## <font color="#ff0000">收听/收看前预警</font>
+## 简介
 
-* <font color="#ff0000"><b>本曲时间较短。</b></font>
-* <font color="#ff0000"><b>本曲的第一版编曲出现了和既有乐曲《FREEDOM DiVE↓》几乎一样的旋律。</b></font>
+《幸福的语言》是由本人与洛微联合制作的VOCALOID中文原创曲，最初于2017年7月12日发布在Bilibili，由<font color="#66ccff">洛天依 (VOCALOID)</font>演唱。
 
-## 基本资料
+另有一个重制版本，于2022年12月17日发布在AcFun（本人）和Bilibili（洛微），由<font color="#66ccff">洛天依 (ACE Studio)</font>演唱。
 
-* 作品类型：<font color="#194987">词曲合作</font>
-* 外文标题：<font color="#194987">Bedside Diary</font>
-* 发布时间：<font color="#194987">2017年7月12日</font>
-* 歌曲风格：<font color="#194987">Piano</font>
+## Staff
 
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 初版<br>2017-07-12 | 洛微 | Kuro Zim | Kuro Zim | 洛天依 (VOCALOID3) | 轩子 | 铮了个粽子 (曲绘)<br>Kuro Zim | [Bilibili音频区](https://www.bilibili.com/audio/au37572) |
-| 复活版<br>2022-12-17 | 洛微 | Kuro Zim | Kuro Zim | 洛天依 (ACE Studio) | Kuro Zim | 铮了个粽子 (曲绘)<br>洛微 | [AcFun](https://www.acfun.cn/v/ac39805031)<br>[Bilibili](https://www.bilibili.com/video/BV1av4y1m7Bk) |
+| 作曲 编曲<br>后期 (2022版) | 作词<br>MV (2022版) | 后期 (2017版) | 曲绘 |
+| :--: | :--: |
+| Kuro Zim | 洛微 | 轩子 | 铮了个粽子 |
 
-## 试听
+## 歌曲
 
-<audio controls>
-	<source src="/assets/audio/collab01.mp3" type="audio/mp3">
-</audio>
+| 版本 | 试听或地址 |
+| :--: | :--: |
+| 2017版 | [Bilibili音频区](https://www.bilibili.com/audio/au37572)  |
+| 2022版 | <audio controls><source src="/assets/audio/collab01.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac39805031) / [Bilibili](https://www.bilibili.com/video/BV1av4y1m7Bk) |
 
 ## 歌词
 
