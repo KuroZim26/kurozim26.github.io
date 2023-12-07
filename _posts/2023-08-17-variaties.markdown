@@ -27,7 +27,6 @@ date:	2023-08-17 00:00:00 +0800
 | Leave Out All The Rest | [Linkin Park - Leave Out All The Rest](https://music.163.com/song?id=16686600) | [AcFun](https://www.acfun.cn/v/ac41830760) | |
 | 信仰 | Jony J - 信仰<br>[J Hood Mixtape ver](https://music.163.com/song?id=31260611) / [喜新恋旧 ver](https://music.163.com/song?id=1325896318) | [AcFun](https://www.acfun.cn/v/ac41970523) | 音源使用喜新恋旧版 |
 
-
 ### 虚拟歌手
 
 | 歌曲 | 原作 | 歌者 | 试听链接 |
@@ -55,7 +54,7 @@ date:	2023-08-17 00:00:00 +0800
 | [HyuN - CROSS†SOUL](https://music.163.com/song?id=1909548139) | 钢琴 | [Bilibili](https://www.bilibili.com/video/BV1NE411v7he/) |
 | [Sound Souler - Novatail](https://music.163.com/song?id=1455343519) | 钢琴 | [Bilibili](https://www.bilibili.com/video/BV16J411D7a6/) |
 | [铃科 - 硝子的愿景 (AUZ ver.)](https://www.bilibili.com/video/av78665197) | 钢琴 | [Bilibili](https://www.bilibili.com/video/BV1dJ411k7cP/) |
-| 溱绫西陌 - [夏洛的云](https://www.bilibili.com/video/av2492506/) / [晨昏流年](https://www.bilibili.com/video/av3474454/)<br>Kuro Zim - [简单的歌](/2020/04/13/song04.html) | 钢琴 | [Bilibili](https://www.bilibili.com/video/BV1JJ411C7pw/) |
+| 溱绫西陌 - [夏洛的云](https://www.bilibili.com/video/av2492506/) / [晨昏流年](https://www.bilibili.com/video/av3474454/)<br>Kuro Zim - 简单的歌 | 钢琴 | [Bilibili](https://www.bilibili.com/video/BV1JJ411C7pw/) |
 | [KIVΛ - The Whole Rest](https://music.163.com/#/song?id=1917016622) | 钢琴 | [Bilibili](https://www.bilibili.com/video/BV1mk4y1d7Ss/) |
 | [種田梨沙 / 渡部恵子 / 高橋未奈美 / 阿部里果 / 南早紀 - ラスト·アクトレス](https://music.163.com/#/song?id=1321424521) | 八音盒 (片段) | [AcFun](https://www.acfun.cn/v/ac41071354) |
 | [ak+q - ignotus](https://music.163.com/song?id=1416313589) | 八音盒 (片段) | [AcFun](https://www.acfun.cn/v/ac41102821) |
