@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【歌曲】次元情书（可爱的你·重要的你）"
+title:  "次元情书（可爱的你·重要的你）"
 date:   2017-08-12 00:00:00 +0800
 ---
 
@@ -10,56 +10,49 @@ date:   2017-08-12 00:00:00 +0800
 
 >  就算可以给过去的自己打一通电话，但世界就能因为这通电话而天翻地覆吗？
 
-## <font color="#ff0000">收听/收看前预警</font>
+## 简介
 
-* <font color="#ff0000"><b>本作在部分版本使用的曲绘通过NAIFU AI绘画工具生成（日语版）。</b></font>
+《次元情书》是由本人制作的VOCALOID中文原创曲，最初于2017年8月12日发布在Bilibili，由<font color="#9999ff">星尘 (VOCALOID)</font>演唱。
 
-## 基本资料
+本曲拥有两个重制版本和一个日语填词版本。
 
-* 作品类型：<font color="#194987">独立歌曲</font>
-* 外文标题：<font color="#194987">Love Letter Across the Screen</font> (第一版) / <font color="#194987">次元の恋文～画面の彼方へ～</font> (日语填词版)
-* 作品代号：<font color="#194987">“作品3号”</font>
-* 发布时间：<font color="#194987">2017年8月12日</font>
-* 歌曲风格：<font color="#194987">Ballad</font>
+## Staff
 
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 第一版 (Across the Screen ver.)<br>2017-08-12 | Kuro Zim | Kuro Zim | Kuro Zim | 星尘<br>(VOCALOID4) | 黑方Serge | 阿鱼鱼w (曲绘)<br>花桑puruKO (摄影)<br>墨涛 (MV) | [Bilibili](https://www.bilibili.com/video/av13257396)<br>[Bilibili音频区](https://www.bilibili.com/audio/au326548?type=3)<br>[网易云音乐](https://music.163.com/song?id=497377154) |
-| 第二版 (To QY 2019 ver.)<br>2019-10-07 | Kuro Zim | Kuro Zim | Kuro Zim | AUZ + 姝制 | DZ韦元子 | AUZ | [Bilibili](https://www.bilibili.com/video/av70396560)<br>[网易云音乐](https://music.163.com/song?id=1395620768) |
-| 第三版 日语填词<br>2022-12-14 | キノコp | Kuro Zim | Kuro Zim | 花隈千冬<br>(Synthesizer V) | Kuro Zim | NAIFU AI(图像)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac40424042)<br>[Bilibili](https://www.bilibili.com/video/BV1WD4y1W7FR/) |
-| 第三版 (Re:Load ver.)<br>2013-01-12 | Kuro Zim | Kuro Zim | Kuro Zim | 艾可<br>(Synthesizer V) | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac40963855_3)<br>[Bilibili](https://www.bilibili.com/video/BV1ZP4y1D74a) |
+### 歌曲制作
+
+| 中文作词 作曲 编曲<br>后期 (日语版·2022版) | 日语版歌词 | VOCALOID调声 后期 (2017版) | 后期 (2019版) |
+| :--: | :--: | :--: | :--: |
+| Kuro Zim | キノコp | 黑方Serge | DZ韦元子 |
+
+### 歌者
+
+| 2017版 | 2019版 | 日语Demo版 | 2022版 |
+|  :--: | :--: | :--: | :--: |
+| 星尘 (VOCALOID) | AUZ + 姝制 | 花隈千冬 (Synthesizer V) | 艾可 (Synthesizer V) |
+
+### MV制作相关
+
+| 曲绘 (2017版) | MV (2017版) | 曲绘 MV (2019版) | MV (日语Demo版 / 2022版)<br>MV素材摄影 (2022版) |
+| :--: | :--: | :--: | :--: | 
+| 阿鱼鱼w (绘制) + 花桑puruKO (摄影) | 墨涛 | AUZ | Kuro Zim |
+
+## 歌曲
+
+| 版本 | 试听或地址 |
+| :--: | :--: |
+| 2017版 (Love Letter Across the Screen) | <audio controls><source src="/assets/audio/song03v17.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av13257396) / [Bilibili音频区](https://www.bilibili.com/audio/au326548?type=3) / [网易云音乐](https://music.163.com/song?id=497377154) |
+| 2019版 (To QY 2019 ver.) | <audio controls><source src="/assets/audio/song03v19.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av70396560) / [网易云音乐](https://music.163.com/song?id=1395620768) |
+| 2022重填版 (Re:Load ver.) | <audio controls><source src="/assets/audio/song03v22.mp3" type="audio/mp3"></audio><br> [AcFun](https://www.acfun.cn/v/ac40424042) / [Bilibili](https://www.bilibili.com/video/BV1WD4y1W7FR/) | 
+| 日语Demo版 (次元の恋文～画面の彼方へ～) | <audio controls><source src="/assets/audio/jigennokoibumi.mp3" type="audio/mp3"></audio><br> [AcFun](https://www.acfun.cn/v/ac40963855_3) / [Bilibili](https://www.bilibili.com/video/BV1ZP4y1D74a) |
 
 ## 二次创作
 
-| 形式和发布时间 | Staff | 试听/试玩地址 | 备注 |
+| 二次创作 | 相关链接 | 备注 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Cytoid自制谱<br> 2018-03-04 | 自制谱作者：Kuro Zim | [Cytoid](https://cytoid.io/levels/kurozim.loveletter_short) | 本人甚至打了个榜一 |
-| 翻唱<br>2018-11-12 | 歌者：[帮滂并不明白](https://space.bilibili.com/32342429) | [Bilibili](https://www.bilibili.com/video/BV18b411c7Q4/) | 基于第一版 |
-| 重编曲<br>2018-08-24 | 重编曲：[智能P](https://space.bilibili.com/7619378)<br>歌者：星尘 洛天依 言和(VOCALOID) | [Bilibili](https://www.bilibili.com/video/BV1wD4y1m72q8) | |
-| 翻唱<br>2022-10-10 | 歌者：[_StarWhisper](https://space.bilibili.com/40118938) | [Bilibili](https://www.bilibili.com/video/BV16t4y1c7Ak) | 基于第一版 |
-
-## 试听
-
-### 中文版（2017编曲·2019编曲）
-<audio controls>
-	<source src="/assets/audio/song03v17.mp3" type="audio/mp3">
-</audio>
-
-<audio controls>
-	<source src="/assets/audio/song03v19.mp3" type="audio/mp3">
-</audio>
-
-### 中文版·歌词差分（2022编曲）
-
-<audio controls>
-	<source src="/assets/audio/song03v22.mp3" type="audio/mp3">
-</audio>
-
-### 日语版（2022编曲）
-
-<audio controls>
-	<source src="/assets/audio/jigennokoibumi.mp3" type="audio/mp3">
-</audio>
+| Cytoid自制谱<br>by Kuro Zim | [Cytoid](https://cytoid.io/levels/kurozim.loveletter_short) | 本人甚至打了个榜一 |
+| 翻唱 by [帮滂并不明白](https://space.bilibili.com/32342429) | [Bilibili](https://www.bilibili.com/video/BV18b411c7Q4/) | 基于第一版 |
+| 重编曲 by [智能P](https://space.bilibili.com/7619378)<br>歌者：星尘 洛天依 言和(VOCALOID) | [Bilibili](https://www.bilibili.com/video/BV1wD4y1m72q8) | |
+| 翻唱 by 歌者：[_StarWhisper](https://space.bilibili.com/40118938) | [Bilibili](https://www.bilibili.com/video/BV16t4y1c7Ak) | 基于第一版 |
 
 ## 歌词
 
