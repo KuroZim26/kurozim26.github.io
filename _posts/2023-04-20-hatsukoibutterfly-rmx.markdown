@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "初恋バタフライ (Kuro Zim's "恋生夢蝶 / KOISEIMUCHOU" Remix)"
+title:  "初恋バタフライ (Kuro Zim Remix)"
 date:	2023-04-20 00:00:00 +0800
 ---
 

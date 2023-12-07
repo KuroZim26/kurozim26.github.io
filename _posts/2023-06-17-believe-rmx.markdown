@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BELIEVE (Kuro Zim's "Remorseless Believer" Remix)"
+title:  "BELIEVE (Kuro Zim Remix)"
 date:	2023-06-17 00:00:00 +0800
 ---
 

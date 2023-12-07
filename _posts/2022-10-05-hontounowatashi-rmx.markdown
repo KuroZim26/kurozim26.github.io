@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ホントウノワタシ (Kuro Zim's "Once Upon a Rainy Night" Remix)"
+title:  "ホントウノワタシ (Kuro Zim Remix)"
 date:	2022-10-05 00:00:00 +0800
 ---
 
