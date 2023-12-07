@@ -1,32 +1,29 @@
 ---
 layout: post
-title:  "【歌曲】LOVE is My Key"
+title:  "LOVE is My Key"
 date:   2023-05-15 00:00:00 +0800
 ---
 
 >  Love is the Key, 试图在旋律和节奏之中编织理想。<br>Love is my Key, 试图在挣扎与交战之中寻求答案。<br>还能坚持下来吗？在这无法调和的内心交战之中。<br>
 若能，至少不要再以“幸福”的名义欺骗自己。
 
-## <font color="#ff0000">收听/收看前预警</font>
+## 简介
 
-* <font color="#ff0000"><b>本作时长过长（6分钟以上）。</b></font>
+《LOVE is My Key》是由本人制作并演唱的中文原创说唱曲（Hook使用了虚拟歌手），最初于2023年5月13日发布在AcFun和Bilibili。
 
-## 基本资料
+## Staff
 
-* 作品类型：<font color="#194987">独立歌曲</font>
-* 作品代号：<font color="#194987">“作品18号”</font>
-* 发布时间：<font color="#194987">2023年5月13日</font> (AcFun) / 2023年5月14日</font> (Bilibili)
-* 歌曲风格：<font color="#194987">Dark Synth Hip-Hop</font>
-
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
+| 作词 作曲 编曲 后期 MV制作 | 歌者 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 原作 | Kuro Zim | Kuro Zim | Kuro Zim | Kuro Zim (Verse)<br>波音律 (ACE Studio) (Hook) | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41350810)<br>[Bilibili](https://www.bilibili.com/video/BV1K24y1K7tc/) |
+| Kuro Zim | Kuro Zim (Verse)<br>波音律 (ACE Studio) (Hook) |
 
-## 试听
+## 歌曲
 
 <audio controls>
 	<source src="/assets/audio/song18.mp3" type="audio/mp3">
 </audio>
+
+[AcFun](https://www.acfun.cn/v/ac41350810) / [Bilibili](https://www.bilibili.com/video/BV1K24y1K7tc/)
 
 ## 歌词
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【歌曲】小小的我"
+title:  "小小的我 ~Greatness within Tinyness~"
 date:   2022-12-11 00:00:00 +0800
 ---
 
@@ -8,49 +8,35 @@ date:   2022-12-11 00:00:00 +0800
 
 > 你精心维护的小小宇宙，绝不是毫无意义的。
 
-## <font color="#ff0000">收听/收看前预警</font>
+## 简介
 
-* <font color="#ff0000"><b>本作在部分版本使用的曲绘通过NAIFU AI绘画工具生成。</b></font>
+《小小的我》是由本人制作的VOCALOID中文原创曲，最初于2022年12月9日发布在AcFun，后于2022年12月10日发布在Bilibili，由徵羽摩柯演唱。
 
-## 基本资料
+本曲有一个重编+Self Cover版，发布于2023年5月18日。
 
-* 作品类型：<font color="#194987">独立歌曲</font>
-* 外文标题：<font color="#194987">Greatness within Tinyness</font>
-* 作品代号：<font color="#194987">“作品12号” / Project Dec (12月计划)</font>
-* 发布时间：<font color="#194987">2022年12月9日</font> (AcFun) / <font color="#194987">2022年12月10日</font> (Bilibili）
-* 歌曲风格：<font color="#194987">Dreamy Pop Ballad</font>
+## Staff
 
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
+| 作词 作曲 编曲 后期 MV制作<br>歌者 (重制版) | 歌者 (原版) |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 徵羽摩柯 ver.<br> 2022.12.9 / 2022.12.10 | Kuro Zim | Kuro Zim | Kuro Zim | 徵羽摩柯 (VOCALOID4) | Kuro Zim | NAIFU AI (图像)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac40082187)<br>[Bilibili](https://www.bilibili.com/video/BV1mP4y1Q7Yh/) |
-| 2023 Rework + Self Cover<br>2023.5.18 | Kuro Zim | Kuro Zim | Kuro Zim | Kuro Zim | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41390699)<br>[Bilibili](https://www.bilibili.com/video/BV1Lu411x7fK/) |
+| Kuro Zim | 徵羽摩柯 |
 
-## 二次创作
+## 歌曲
 
-| 形式和发布时间 | Staff | 试听地址 | 备注 |
+### 原作
+
+| 版本 | 试听或地址 |
+| :--: | :--: |
+| 原版 |<audio controls><source src="/assets/audio/song12v22.mp3" type="audio/mp3"></audio><br> [AcFun](https://www.acfun.cn/v/ac40082187) / [Bilibili](https://www.bilibili.com/video/BV1mP4y1Q7Yh/) |
+| 2023版 男声Demo | <audio controls><source src="/assets/audio/song12v23mdemo.mp3" type="audio/mp3"></audio> |
+| 2023版 Self Cover | [AcFun](https://www.acfun.cn/v/ac41390699) / [Bilibili](https://www.bilibili.com/video/BV1Lu411x7fK/) |
+| 2023版 女声Demo | <audio controls><source src="/assets/audio/song12v23fdemo.mp3" type="audio/mp3"></audio> |
+
+### 二次创作
+
+| 二次创作 | 相关链接 | 备注 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 片段清唱<br>2023-1-13 | 歌者：[一块肥猪肝](https://www.acfun.cn/u/4599324) | [AcFun](https://www.acfun.cn/v/ac40432618) | 视频中使用原MV截图 |
-| UTAU音源翻唱<br>2023-2-20 | 制作：[菊粉·二学课代表](https://www.acfun.cn/u/684188)<br>音源：AC娘（未公开） | [AcFun](https://www.acfun.cn/v/ac40704707) | 直接使用原MV |
-
-## 试听
-
-### 2022初编曲版
-
-<audio controls>
-	<source src="/assets/audio/song12v22.mp3" type="audio/mp3">
-</audio>
-
-### 2023重编版 Demo（褚明·伊拾七）
-
-<audio controls>
-	<source src="/assets/audio/song12v23mdemo.mp3" type="audio/mp3">
-</audio>
-
-<audio controls>
-	<source src="/assets/audio/song12v23fdemo.mp3" type="audio/mp3">
-</audio>
-
-## 歌词
+| 片段清唱 by [一块肥猪肝](https://www.acfun.cn/u/4599324) | [AcFun](https://www.acfun.cn/v/ac40432618) | 视频中使用原MV截图 |
+| UTAU音源翻唱 by [菊粉·二学课代表](https://www.acfun.cn/u/684188)<br>音源：AC娘（未公开） | [AcFun](https://www.acfun.cn/v/ac40704707) | 直接使用原MV |
 
 <pre>
 那年的春季 雨淅淅沥沥 心里铺展着星空不管什么天气

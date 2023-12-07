@@ -1,32 +1,30 @@
 ---
 layout: post
-title:  "【歌曲】Good Lonely Night"
+title:  "Good Lonely Night"
 date:   2023-05-28 00:00:00 +0800
 ---
 
 >  一首极为简单的晚安曲。
 
-## <font color="#ff0000">收听/收看前预警</font>
+## 简介
 
-* <font color="#ff0000"><b>本作时长过短（不足2分钟）。</b></font>
-* <font color="#ff0000"><b>本作使用的曲绘通过MikuTools AI绘画工具生成。</b></font>
+《Good Lonely Night》是由本人制作的Pocket Singer中文原创曲，最初于2023年5月28日发布在AcFun和Bilibili，由基于Pocket Singer的自制歌手Sapph Altia演唱。
 
-## 基本资料
+## Staff
 
-* 作品类型：<font color="#194987">独立歌曲(实验性作品)</font>
-* 作品代号：<font color="#194987">“作品19号”</font>
-* 发布时间：<font color="#194987">2023年5月27日</font>
-* 歌曲风格：<font color="#194987">Guitar Folk</font>
-
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
+| 作词 作曲 编曲 后期 MV制作 | 歌者 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 原作 | Kuro Zim | Kuro Zim | Kuro Zim | Sapph Altia (Pocket Singer 自制歌手) | Kuro Zim | MikuTools AI (图像)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41459516)<br>[Bilibili](https://www.bilibili.com/video/BV1hd4y1f72M/) |
+| Kuro Zim | Sapph Altia |
 
-## 试听
+* MV使用了MikuTools AI生成的曲绘，观看时请注意。
+
+## 歌曲
 
 <audio controls>
 	<source src="/assets/audio/song19.mp3" type="audio/mp3">
 </audio>
+
+ [AcFun](https://www.acfun.cn/v/ac41459516) / [Bilibili](https://www.bilibili.com/video/BV1hd4y1f72M/)
 
 ## 歌词
 

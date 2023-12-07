@@ -1,27 +1,28 @@
 ---
 layout: post
-title:  "【歌曲】Here I Am."
+title:  "Here I Am."
 date:   2022-07-13 00:00:00 +0800
 ---
 
 >  在10周年的时点，重新审视“我”与“她们”的关联——这样一首歌。
 
-## 基本资料
+## 简介
 
-* 作品类型：<font color="#194987">独立歌曲</font>
-* 作品代号：<font color="#194987">“作品7号” / Project L10</font>
-* 发布时间：<font color="#194987">2022年7月12日</font>
-* 歌曲风格：<font color="#194987">Rock</font>
+《Here I Am.》是由本人使用H1kawa26_名义制作的VOCALOID中文原创曲，最初于2022年7月12日发布在AcFun，由洛天依演唱。
 
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
+## Staff
+
+| 作词 作曲 编曲 后期<br>MV制作 实景素材 | 歌者 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 原作 | Kuro Zim<br>(H1kawa26_) | Kuro Zim<br>(H1kawa26_) | Kuro Zim<br>(H1kawa26_) | 洛天依 (VOCALOID4) | Kuro Zim<br>(H1kawa26_) | Kuro Zim<br>(H1kawa26_) | [AcFun](https://www.acfun.cn/v/ac35658060) |
+| H1kawa26_<br>(Kuro Zim) | 洛天依 (VOCALOID4) |
 
 ## 试听
 
 <audio controls>
 	<source src="/assets/audio/song07.mp3" type="audio/mp3">
 </audio>
+
+[AcFun](https://www.acfun.cn/v/ac35658060)
 
 ## 歌词
 

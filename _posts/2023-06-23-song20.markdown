@@ -1,28 +1,28 @@
 ---
 layout: post
-title:  "【歌曲】最难的课题"
+title:  "最难的课题 ~The Hardest Subject~"
 date:   2023-06-23 00:00:00 +0800
 ---
 
 >  爱自己，是人生中最难的课题；直面自己，是对回忆最好的反击。
 
-## 基本资料
+## 简介
 
-* 作品类型：<font color="#194987">独立歌曲</font>
-* 外语标题：<font color="#194987">The Hardest Subject</font>
-* 作品代号：<font color="#194987">“作品20号”</font>
-* 发布时间：<font color="#194987">2023年6月23日</font>
-* 歌曲风格：<font color="#194987">Dark Synth Hip-Hop</font>
+《最难的课题》是由本人制作并演唱的中文原创说唱曲（在歌曲中使用了虚拟歌手），最初于2023年6月23日发布在AcFun和Bilibili。
 
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
+## Staff
+
+| 作词 作曲 编曲 后期 MV制作 | 歌者 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 原作 | Kuro Zim | Kuro Zim | Kuro Zim | Kuro Zim (主要部分)<br>文栗·云灏 (ACE Studio) (Hook和声)<br>然糊糊 (ACE Studio) (引用《次元情书》部分) | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41656423)<br>[Bilibili](https://www.bilibili.com/video/BV1QW4y1S7i9/) |
+| Kuro Zim | Kuro Zim (主要部分)<br>文栗·云灏 (ACE Studio) (Hook和声)<br>然糊糊 (ACE Studio) (引用《次元情书》部分) |
 
-## 试听
+## 歌曲
 
 <audio controls>
 	<source src="/assets/audio/song20.mp3" type="audio/mp3">
 </audio>
+
+[AcFun](https://www.acfun.cn/v/ac41656423) / [Bilibili](https://www.bilibili.com/video/BV1QW4y1S7i9/)
 
 ## 歌词
 

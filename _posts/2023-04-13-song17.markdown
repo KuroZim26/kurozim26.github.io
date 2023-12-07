@@ -1,31 +1,30 @@
 ---
 layout: post
-title:  "【歌曲】燃炬之途"
+title:  "燃炬之途"
 date:   2023-04-13 00:00:00 +0800
 ---
 
 > 沉沉长夜，以零为名之处，正是燃起一把火炬，动身出发之时。
 
-## <font color="#ff0000">收听/收看前预警</font>
+## 简介
 
-* <font color="#ff0000"><b>本作使用的曲绘通过MikuTools AI绘画工具生成。</b></font>
+《燃炬之途》是由本人制作的VOCALOID中文原创曲，最初于2023年4月1日发布在AcFun，后于2023年4月12日发布在Bilibili，由乐正绫演唱。
 
-## 基本资料
+## Staff
 
-* 作品类型：<font color="#194987">独立歌曲</font>
-* 作品代号：<font color="#194987">“作品17号” / Project 02INF</font>
-* 发布时间：<font color="#194987">2023年4月1日</font> (AcFun) / <font color="#194987">2023年4月12日</font> (Bilibili)
-* 歌曲风格：<font color="#194987">Slow Metal</font>
-
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
+| 作词 作曲 编曲 后期 MV制作 | 歌者 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 原作 | Kuro Zim | Kuro Zim | Kuro Zim | 乐正绫 (VOCALOID3) | Kuro Zim | MikuTools AI (图像)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41019965)<br>[Bilibili](https://www.bilibili.com/video/BV1fX4y1r7NB) |
+| Kuro Zim | 乐正绫 (VOCALOID3) |
 
-## 试听
+* AcFun侧MV使用了NAIFU AI生成的曲绘，观看时请注意。
+
+## 歌曲
 
 <audio controls>
 	<source src="/assets/audio/song17.mp3" type="audio/mp3">
 </audio>
+
+[AcFun](https://www.acfun.cn/v/ac41019965) / [Bilibili](https://www.bilibili.com/video/BV1fX4y1r7NB)
 
 ## 歌词
 

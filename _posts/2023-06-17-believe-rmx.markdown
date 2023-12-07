@@ -1,27 +1,22 @@
 ---
 layout: post
-title:  "【改编】BELIEVE (Remix ver.)"
+title:  "BELIEVE (Kuro Zim's "Remorseless Believer" Remix)"
 date:	2023-06-17 00:00:00 +0800
 ---
 
 > 无论相伴同行还是品尝孤独，我们都是无悔的信徒。
 
-## 基本资料
+## 简介
 
-* 作品类型：<font color="#194987">Remix</font>
-* 完整Remix标题：<font color="#194987">BELIEVE (Kuro Zim's "Remorseless Believer" Remix)</font>
-* 发布时间：<font color="#194987">2023年6月16日</font>
-* 歌曲风格：<font color="#194987">Happy Hardcore</font>
-
-| 原作 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| AcFun音乐出品 - [BELIEVE](https://www.acfun.cn/v/ac35706345) | 妖狐公子 | 炎羽瑾 纱朵 | Kuro Zim | 然糊糊 + 绮萱 (ACE Studio) | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41596894) |
+《BELIEVE (Kuro Zim's "Remorseless Believer" Remix)》是本人对AcFun官方出品的歌曲《BELIEVE》制作的同人Remix，于2023年6月16日发布在AcFun。
 
 ## 试听
 
 <audio controls>
 	<source src="/assets/audio/believermx.mp3" type="audio/mp3">
 </audio>
+
+[AcFun](https://www.acfun.cn/v/ac41596894)
 
 ## 歌词
 
@@ -73,5 +68,5 @@ date:	2023-06-17 00:00:00 +0800
 ## 歌曲相关信息
 
 * 本作是本人为AcFun的建站纪念月制作的特别Remix。
-* Remix计划实际上在2022年，AcFun音乐舞蹈区推出联合征稿活动时就已形成，但当时因实力有限，因此仅制作了一首质量较低的原创《[NOW is the Time](/song08.html)》。
+* Remix计划实际上在2022年，AcFun音乐舞蹈区推出联合征稿活动时就已形成，但当时因实力有限，因此仅制作了一首质量较低的原创《NOW is the Time》。
 * AC娘本体已在其账号上转评了本作的投稿，一定程度上已获得官方认可。

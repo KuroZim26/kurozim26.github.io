@@ -1,39 +1,29 @@
 ---
 layout: post
-title:  "【歌曲】昨日雨·今日晴"
+title:  "昨日雨·今日晴"
 date:   2022-10-11 00:00:00 +0800
 ---
 
 >  写给那个等待着天晴，却又不只是在等待的我。
 
-## <font color="#ff0000">收听/收看前预警</font>
+## 简介
 
-* <font color="#ff0000"><b>本作无实质性曲绘，MV为纯歌词流。</b></font>
+《昨日雨·今日晴》是由本人制作的VOCALOID中文原创曲，最初于2022年10月10日发布在AcFun，由徵羽摩柯演唱。
 
-## 基本资料
+## Staff
 
-* 作品类型：<font color="#194987">独立歌曲</font>
-* 作品代号：<font color="#194987">“作品9号” / Project Oct (十月计划)</font>
-* 发布时间：<font color="#194987">2022年10月10日</font>
-* 歌曲风格：<font color="#194987">Ballad</font>
-
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
+| 作词 作曲 编曲 后期 MV制作 | 歌者 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 原作 | Kuro Zim | Kuro Zim | Kuro Zim | 徵羽摩柯 (VOCALOID4) | Kuro Zim | VSinger公式 (封面) Kuro Zim | [AcFun](http://www.acfun.cn/v/39138414)<br>[Bilibili补档](https://www.bilibili.com/video/BV1jW4y1K7Kj/) |
+| Kuro Zim | 徵羽摩柯 (VOCALOID4) |
 
-## 试听
+* 歌曲使用了纯歌词MV。
 
-### 男声公开投稿版
+## 歌曲
 
-<audio controls>
-	<source src="/assets/audio/song09.mp3" type="audio/mp3">
-</audio>
-
-### 女声Demo版
-
-<audio controls>
-	<source src="/assets/audio/song09fdemo.mp3" type="audio/mp3">
-</audio>
+| 版本 | 试听或地址 |
+| :--: | :--: |
+| 男声公开投稿版 | <audio controls><source src="/assets/audio/song09.mp3" type="audio/mp3"></audio><br>[AcFun](http://www.acfun.cn/v/39138414) / [Bilibili补档](https://www.bilibili.com/video/BV1jW4y1K7Kj/) |
+| 女声Demo版 | <audio controls><source src="/assets/audio/song09fdemo.mp3" type="audio/mp3"></audio> |
 
 ## 歌词
 

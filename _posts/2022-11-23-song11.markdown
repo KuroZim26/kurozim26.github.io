@@ -1,51 +1,31 @@
 ---
 layout: post
-title:  "【歌曲】答案是爱"
+title:  "答案是爱 ~Love is My Key~"
 date:   2022-11-23 08:00:00 +0800
 ---
 
 >  始终坚信着，爱的美好，是足以穿破黑夜的内心之光。
 
-## <font color="#ff0000">收听/收看前预警</font>
+## 简介
 
-* <font color="#ff0000"><b>本作在部分版本使用的曲绘通过MikuTools AI绘画工具生成。</b></font>
+《答案是爱》是由本人制作的ACE Studio中文原创曲，最初于2022年11月23日发布在AcFun和Bilibili，由波音律演唱。
+
+本曲有一个由本人参与制作的翻唱版，发布于2023年8月10日，原版MV也于该日进行了一次换源；另有一个日语Demo版，发布于2023年11月23日。
 
 ## 基本资料
 
-* 作品类型：<font color="#194987">独立歌曲</font>
-* 外文标题：<font color="#194987">LOVE is the Key.（原曲英文标题） / 愛で答えで（日语版）</font>
-* 作品代号：<font color="#194987">“作品11号” / Project Nov (11月计划)</font>
-* 发布时间：<font color="#194987">2022年11月23日</font>
-* 歌曲风格：<font color="#194987">Rock Pop</font>
-
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
+| 作词 作曲 编曲 MV制作<br>后期 (ACE中文版·日语版) MV实景素材 (ACE中文版·人声版) | 后期 歌者 (人声版) | 技术协力 (人声版) | 歌者 (ACE中文版) | 歌者 (日语版) |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 波音律 ver.<br>2022-11-23 | Kuro Zim | Kuro Zim | Kuro Zim | 波音律 (ACE Studio) | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac39905155)<br>[Bilibili](https://www.bilibili.com/video/BV1AG4y1d7ug) |
-| 文栗 ver.<br>DemoBox 2023-04 | Kuro Zim | Kuro Zim | Kuro Zim | 文栗 (ACE Studio) | Kuro Zim | NAIFU AI (图像)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac40963855_2) |
-| 茗魂 ver.<br>2023-08-10 | Kuro Zim | Kuro Zim | Kuro Zim | [茗魂](https://www.acfun.cn/u/17912421) | 茗魂<br>梁梓逸 (技术协力) | 茗魂 (形象素材)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac42050497) |
-| 日语版 Demo<br>2023-11-23 | Kuro Zim | Kuro Zim | Kuro Zim | 重音Teto | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac43011545) |
+| Kuro Zim | [茗魂](https://www.acfun.cn/u/17912421) | 梁梓逸 | 波音律 (ACE Studio) | 重音Teto (Synthesizer V) |
 
-## 试听
+## 歌曲
 
-### 中文版（律·文栗·茗魂）
-
-<audio controls>
-	<source src="/assets/audio/song11ritsu.mp3" type="audio/mp3">
-</audio>
-
-<audio controls>
-	<source src="/assets/audio/song11willy.mp3" type="audio/mp3">
-</audio>
-
-<audio controls>
-	<source src="/assets/audio/song11minghun.mp3" type="audio/mp3">
-</audio>
-
-### 日语版 Demo（重音Teto）
-
-<audio controls>
-	<source src="/assets/audio/song11jpdemo.mp3" type="audio/mp3">
-</audio>
+| 版本 | 试听或地址 |
+| :--: | :--: |
+| 波音律版 | <audio controls><source src="/assets/audio/song11ritsu.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac39905155) / [Bilibili](https://www.bilibili.com/video/BV1AG4y1d7ug) |
+| 文栗(男声Demo)版 | <audio controls><source src="/assets/audio/song11willy.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac40963855_2) |
+| 茗魂版 | <audio controls><source src="/assets/audio/song11minghun.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac42050497) |
+| 日语版 (愛で答えで) | <audio controls><source src="/assets/audio/song11jpdemo.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac43011545) |
 
 ## 歌词
 

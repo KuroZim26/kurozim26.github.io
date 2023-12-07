@@ -1,33 +1,30 @@
 ---
 layout: post
-title:  "【歌曲】写给今天的歌"
+title:  "写给今天的歌"
 date:   2023-01-02 00:00:00 +0800
 ---
 
 >  唯一不变的是，你活在今天。
 
-## <font color="#ff0000">收听/收看前预警</font>
+## 简介
 
-* <font color="#ff0000"><b>本作时长过长（超过6分钟）。</b></font>
-* <font color="#ff0000"><b>本作使用的曲绘通过NAIFU AI绘画工具生成。</b></font>
+《写给今天的歌》是由本人制作的ACE Studio中文原创曲，最初于2023年1月1日发布在AcFun和Bilibili，由波音律、洛天依、文栗、雀河演唱。
 
-## 基本资料
+## Staff
 
-* 作品类型：<font color="#194987">独立歌曲</font>
-* 外文标题：<font color="#194987">Song For Today</font>
-* 作品代号：<font color="#194987">“作品13号” / Project 2023P1</font>
-* 发布时间：<font color="#194987">2023年1月1日</font>
-* 歌曲风格：<font color="#194987">Rock</font>
-
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
+| 作词 作曲 编曲 后期 MV制作 | 歌者 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 原作 | Kuro Zim | Kuro Zim | Kuro Zim | 波音律 洛天依 文栗 雀河<br>(ACE Studio) | Kuro Zim | NAIFU AI (图像)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac40320336)<br>[Bilibili](https://www.bilibili.com/video/BV1L84y1s7Gp) |
+| Kuro Zim | 波音律 洛天依 文栗 雀河<br>(ACE Studio) |
 
-## 试听
+* 封面使用了NAIFU AI生成的曲绘。
+
+## 歌曲
 
 <audio controls>
 	<source src="/assets/audio/song13.mp3" type="audio/mp3">
 </audio>
+
+[AcFun](https://www.acfun.cn/v/ac40320336) / [Bilibili](https://www.bilibili.com/video/BV1L84y1s7Gp)
 
 ## 歌词
 

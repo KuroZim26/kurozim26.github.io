@@ -1,27 +1,22 @@
 ---
 layout: post
-title:  "【改编+重填词】差不多ACer"
+title:  "差不多ACer"
 date:	2023-06-17 00:00:00 +0800
 ---
 
 > 差不多的AcFun，是个差不多的圈。差不多的ACer们，过着差不多的每一天。
 
-## 基本资料
+## 简介
 
-* 作品类型：<font color="#194987">改编翻唱</font>
-* 完整Remix标题：<font color="#194987">差不多ACer</font>
-* 发布时间：<font color="#194987">2023年6月9日</font>
-* 歌曲风格：<font color="#194987">Dark Hip-Hop</font>
-
-| 原作 | 作词 | 作曲 | 重编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| [MC HOTDOG - 差不多先生](https://www.acfun.cn/v/ac39098696) | 原作：MC HOTDOG<br>重填词：Kuro Zim | 张震岳 | Kuro Zim | Kuro Zim | Kuro Zim | Kuro Zim | [AcFun](https://www.acfun.cn/v/ac41547790) |
+《差不多ACer》是本人以AcFun为主题，对歌曲《差不多先生》制作的重填词改编，于2023年6月9日发布在AcFun。
 
 ## 试听
 
 <audio controls>
 	<source src="/assets/audio/acer16.mp3" type="audio/mp3">
 </audio>
+
+[AcFun](https://www.acfun.cn/v/ac41547790)
 
 ## 歌词
 

@@ -1,27 +1,23 @@
 ---
 layout: post
-title:  "【改编】ホントウノワタシ (Remix ver.)"
+title:  "ホントウノワタシ (Kuro Zim's "Once Upon a Rainy Night" Remix)"
 date:	2022-10-05 00:00:00 +0800
 ---
 
 > 在很久前的雨夜，是你在歌中也唱起了我。
 
-## 基本资料
 
-* 作品类型：<font color="#194987">Remix</font>
-* 完整Remix标题：<font color="#194987">ホントウノワタシ (Kuro Zim's "Once Upon a Rainy Night" Remix)</font>
-* 发布时间：<font color="#194987">2022年10月4日</font>
-* 歌曲风格：<font color="#194987">Drum'n'Bass</font>
+## 简介
 
-| 原作 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| [種田梨沙 - ホントウノワタシ](https://y.qq.com/n/ryqq/songDetail/0033oCjs1i2oL4)  | 藤本記子 | 野井洋児 | Kuro Zim | 種田梨沙 + 洛天依JP | Kuro Zim | 百万现场公式(卡图)<br>Kuro Zim | [AcFun](https://www.acfun.cn/v/ac39037364)<br>[Bilibili](https://www.bilibili.com/video/BV1t84y1W71X/) |
+《ホントウノワタシ (Kuro Zim's "Once Upon a Rainy Night" Remix)》是本人对《偶像大师百万现场》歌曲《ホントウノワタシ》制作的同人Remix，最初于2022年10月4日发布在AcFun，后补档于Bilibili。
 
-## 试听
+## 歌曲
 
 <audio controls>
 	<source src="/assets/audio/kotohas2rmx.mp3" type="audio/mp3">
 </audio>
+
+[AcFun](https://www.acfun.cn/v/ac39037364) / [Bilibili](https://www.bilibili.com/video/BV1t84y1W71X/)
 
 ## 歌词
 

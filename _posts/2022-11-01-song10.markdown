@@ -1,32 +1,30 @@
 ---
 layout: post
-title:  "【歌曲】Untitled 3am"
+title:  "Untitled 3am - 凌晨三点的无题之歌"
 date:   2022-11-01 00:00:00 +0800
 ---
 
 >  相比于一首歌，更像某个孤独夜里的一页日记。
 
-## <font color="#ff0000">收听/收看前预警</font>
+## 简介
 
-* <font color="#ff0000"><b>本作时长过短（2分钟）。</b></font>
-* <font color="#ff0000"><b>本作使用的曲绘通过NAIFU AI绘画工具生成。</b></font>
+《Untitled 3am》是由本人制作的VOCALOID中文原创曲，最初于2022年10月31日发布在AcFun，由徵羽摩柯演唱。
 
 ## 基本资料
 
-* 作品类型：<font color="#194987">独立歌曲</font>
-* 作品代号：<font color="#194987">“作品10号”</font>
-* 发布时间：<font color="#194987">2022年10月31日</font>
-* 歌曲风格：<font color="#194987">Piano</font>
-
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
+| 作词 作曲 编曲 后期 MV制作 | 歌者 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 原作 | Kuro Zim | Kuro Zim | Kuro Zim | 徵羽摩柯 (VOCALOID4) | Kuro Zim | NAIFU AI (图像)<br>Kuro Zim | [AcFun](http://www.acfun.cn/v/39479070) |
+| Kuro Zim | 徵羽摩柯 (VOCALOID4) |
+
+* MV使用了NAIFU AI生成的曲绘，观看时请注意。
 
 ## 试听
 
 <audio controls>
 	<source src="/assets/audio/song10.mp3" type="audio/mp3">
 </audio>
+
+[AcFun](http://www.acfun.cn/v/39479070)
 
 ## 歌词
 

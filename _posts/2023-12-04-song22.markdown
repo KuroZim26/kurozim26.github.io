@@ -1,30 +1,27 @@
 ---
 layout: post
-title:  "【歌曲】梦里没有英雄"
+title:  "梦里没有英雄"
 date:   2023-12-04 23:00:00 +0800
 ---
 
 > 梦里没有英雄，只有赤裸裸的自己。你好，十年前的我。
 
-## 基本资料
+> 小萝北，嘿嘿，小萝北
 
-* 作品类型：<font color="#194987">独立歌曲</font>
-* 外文标题：<font color="#194987">Hero is Not in Dreams</font>
-* 作品代号：<font color="#194987">“作品22号”</font>
-* 发布时间：<font color="#194987">2023年12月04日</font>
-* 歌曲风格：<font color="#194987">Rock Pop</font>
+## 简介
 
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
+《梦里没有英雄》是由本人参与制作的中文原创歌曲，于2023年12月4日发布在AcFun，由兎乃演唱。
+
+| 作词 作曲 编曲 | 后期 | 曲绘 | MV制作 | 歌者 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 首发版 | Kuro Zim | Kuro Zim | Kuro Zim | 兎乃 | 莫顿 | 羽宫Hamiya (图像)<br>浅子Asako | [AcFun](https://www.acfun.cn/v/ac43138665) |
+| Kuro Zim | MortonWill莫顿 | 羽宮Hamiya | 浅子Asako | 兎乃 |
 
-## 试听
+## 歌曲
 
-### Demo ver. (feat. 赤羽)
-
-<audio controls>
-	<source src="/assets/audio/song22demo.wav" type="audio/wav">
-</audio>
+| 版本 | 试听或地址 |
+| :--: | :--: |
+| Demo版 |<audio controls><source src="/assets/audio/song22demo.wav" type="audio/wav"></audio> |
+| 正式版 |[AcFun](https://www.acfun.cn/v/ac43138665)|
 
 ## 歌词
 
