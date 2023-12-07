@@ -15,7 +15,7 @@ date:   2018-05-19 00:00:00 +0800
 ## Staff
 
 | 作词 作曲 编曲<br>MV制作 (2022版) | VOCALOID调声 (2018版) | VOCALOID版后期 (2018版) | 人声后期 (2018版) | 曲绘 MV制作 (2018版) | 歌者 |
-| :--: | :--: | :--: | :--: | :--: | 
+| :--: | :--: | :--: | :--: | :--: |  :--: | 
 | Kuro Zim | 黑方Serge | 大优君 | KmR | 久井茜 | 2018版：星尘 (VOCALOID4) / AUZ<br>2022版：洛天依 (ACE Studio) |
 
 * 2022版MV使用了NAIFU AI生成的曲绘，观看时请注意。
@@ -26,7 +26,7 @@ date:   2018-05-19 00:00:00 +0800
 
 | 版本 | 试听或地址 |
 | :--: | :--: |
-| 2018 星尘 ver | <audio controls><source src="/assets/audiosong05v18sd.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av23611305) |
+| 2018 星尘 ver | <audio controls><source src="/assets/audio/song05v18sd.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av23611305) |
 | 2018 AUZ ver | <audio controls><source src="/assets/audio/song05v18auz.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/BV1tp411d7p5) / [网易云音乐](https://music.163.com/song?id=563912845) |
 | 2022 Re:Faith ver | <audio controls><source src="/assets/audio/song05v22.mp3" type="audio/mp3"></audio><br>[AcFun (正作)](https://www.acfun.cn/v/ac40004919) / [Bilibili (伊拾七 Demo)](https://www.bilibili.com/video/BV14u411x7uG) |
 

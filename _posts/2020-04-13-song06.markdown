@@ -6,22 +6,23 @@ date:   2020-04-13 00:00:00 +0800
 
 > 感谢GRGE，中文EUROBEAT安排上了！
 
-## 基本资料
+## 简介
 
-* 作品类型：<font color="#194987">独立歌曲</font>
-* 作品代号：<font color="#194987">“作品6号”</font>
-* 发布时间：<font color="#194987">2020年4月12日</font>
-* 歌曲风格：<font color="#194987">EUROBEAT</font>
+《FASTER》是由本人制作的VOCALOID中文原创曲，最初于2020年4月12日发布在Bilibili，由乐正绫演唱。
 
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 原作 | Kuro Zim | Kuro Zim | Kuro Zim | 乐正绫 (VOCALOID3) | 泉Chuen (VOCALOID调声) | 陌阮 (立绘)<br>北洛辰、歪歪 (实景素材)<br>Kuro Zim | [Bilibili](https://www.bilibili.com/video/av625070837) |
+## Staff
 
-## 试听
+| 作词 作曲 编曲 MV制作 | VOCALOID调声 | 曲绘 | MV实景素材 | 歌者 |
+| :--: | :--: | :--: | :--: | :--: |
+| Kuro Zim | 泉Chuen | 陌阮 | 北洛辰 歪歪 Kuro Zim | 乐正绫 (VOCALOID3) |
+
+## 歌曲
 
 <audio controls>
 	<source src="/assets/audio/song06.mp3" type="audio/mp3">
 </audio>
+
+[Bilibili](https://www.bilibili.com/video/av625070837)
 
 ## 歌词
 
