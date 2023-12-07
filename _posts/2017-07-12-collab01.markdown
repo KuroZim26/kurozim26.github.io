@@ -6,9 +6,9 @@ date:   2017-07-12 00:00:00 +0800
 
 ## 简介
 
-《幸福的语言》是由本人与洛微联合制作的VOCALOID中文原创曲，最初于2017年7月12日发布在Bilibili，由<font color="#66ccff">洛天依 (VOCALOID)</font>演唱。
+《幸福的语言》是由本人与洛微联合制作的VOCALOID中文原创曲，最初于2017年7月12日发布在Bilibili，由洛天依 (VOCALOID)演唱。
 
-另有一个重制版本，于2022年12月17日发布在AcFun（本人）和Bilibili（洛微），由<font color="#66ccff">洛天依 (ACE Studio)</font>演唱。
+另有一个重制版本，于2022年12月17日发布在AcFun（本人）和Bilibili（洛微），由洛天依 (ACE Studio)演唱。
 
 ## Staff
 

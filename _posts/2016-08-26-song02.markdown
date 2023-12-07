@@ -8,7 +8,7 @@ date:   2016-08-26 00:00:00 +0800
 
 ## 简介
 
-《Hey Kuro》是由本人使用T.E.Zimmern名义制作的VOCALOID中文原创曲，最初于2016年8月26日发布在Bilibili，由<font color="#9999ff">星尘 (VOCALOID)</font>演唱。
+《Hey Kuro》是由本人使用T.E.Zimmern名义制作的VOCALOID中文原创曲，最初于2016年8月26日发布在Bilibili，由星尘 (VOCALOID)演唱。
 
 目前的公开版本发布于2018年8月12日。
 
