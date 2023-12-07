@@ -14,8 +14,8 @@ date:   2016-05-14 00:00:00 +0800
 
 ## Staff
 
-| 作词 作曲 MV制作<br>编曲 后期 (2022版) | 编曲 后期 (2016版) | 曲绘 (2016版) | 歌者 (2016版) | 歌者 (2022版) |
-| :--: | :--: | :--: | :--: |
+| 作词 作曲 MV制作<br>编曲 后期 (2022版) | 编曲 后期 (2016版) | 曲绘 (2016版) | 歌者 (2016版) | 歌者 (2022版)
+| :--: | :--: |
 | T.E.Zimmern<br>(Kuro Zim) | 神野凛_KmR | 红鸟Akane | 星尘 (VOCALOID4) | 洛天依 (ACE Studio) |
 
 * 2022版MV使用了NAIFU AI生成的曲绘，观看时请注意。
@@ -31,9 +31,9 @@ date:   2016-05-14 00:00:00 +0800
 
 ### 二次创作
 
-| 版本 | 试听或地址 |
-| :--: | :--: |
-| VOCALOID亚种翻调<br>by [白天不闹鬼](https://space.bilibili.com/3730646) | [Bilibili](https://www.bilibili.com/video/BV1Nx411v7Zy) |
+| 二次创作 | 相关链接 | 备注 |
+| :--: | :--: | :--: |
+| VOCALOID亚种翻调<br>by [白天不闹鬼](https://space.bilibili.com/3730646) | [Bilibili](https://www.bilibili.com/video/BV1Nx411v7Zy) | |
 
 ## 歌词
 

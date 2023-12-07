@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【歌曲】简单的歌"
+title:  "简单的歌 ~ A Simple Song ~"
 date:   2018-04-12 00:00:00 +0800
 ---
 
@@ -8,32 +8,20 @@ date:   2018-04-12 00:00:00 +0800
 
 > 让曾经那首简单的旋律，更加艳丽而无畏地绽放吧
 
-## 基本资料
+## 简介
 
-* 作品类型：<font color="#194987">独立歌曲</font>
-* 外文标题：<font color="#194987">A Simple Song</font>
-* 作品代号：<font color="#194987">“作品4号”</font>
-* 发布时间：<font color="#194987">2018年4月12日</font> / <font color="#194987">2020年4月12日</font>
-* 歌曲风格：<font color="#194987">Folk Pop / Ballad</font>
+《简单的歌》是由本人制作的VOCALOID中文原创曲，最初于2018年4月12日发布在Bilibili，由<font color="#ee0000">乐正绫 (VOCALOID)</font>演唱。
 
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 2018版<br>2018-04-12 | Kuro Zim | Kuro Zim | Kuro Zim | 乐正绫 (VOCALOID3) | DZ韦元子 (调声)<br>Kuro Zim | 歌渝 (图像)<br>Kuro Zim | [Bilibili](https://www.bilibili.com/video/av21928922)<br>[Bilibili音频区](https://www.bilibili.com/audio/au287986?type=3)<br>[网易云音乐](https://music.163.com/song?id=552136655) |
-| 2020版<br>2020-04-12 | 后夏 + Kuro Zim | Kuro Zim | Kuro Zim | 乐正绫 (VOCALOID3) | DZ韦元子 (调声) | 陽川 (图像)<br>Kuro Zim | [Bilibili](https://www.bilibili.com/video/av625116268) |
+另有一个重制版本“2020 Re:Sing ver.”，于2020年4月12日发布在Bilibili，由<font color="#ee0000">乐正绫 (VOCALOID)</font>演唱；另有一个合作衍生版本，详见《[我们的歌](/2018/05/29/collab04.html)》。
 
-## 试听
+## Staff
 
-### 2018版
+## 歌曲
 
-<audio controls>
-	<source src="/assets/audio/song04v18.mp3" type="audio/mp3">
-</audio>
-
-### 2020版
-
-<audio controls>
-	<source src="/assets/audio/song04v20.mp3" type="audio/mp3">
-</audio>
+| 版本 | 试听或地址 |
+| :--: | :--: |
+| 2018版 | <audio controls><source src="/assets/audio/song04v18.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av21928922) / [Bilibili音频区](https://www.bilibili.com/audio/au287986?type=3) / [网易云音乐](https://music.163.com/song?id=552136655) |
+| 2020版 | <audio controls><source src="/assets/audio/song04v20.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av625116268) |
 
 ## 歌词
 

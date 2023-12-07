@@ -1,27 +1,28 @@
 ---
 layout: post
-title:  "【歌曲/词曲合作】Purewhite Dream - Candlelight Ver."
+title:  "Purewhite Dream - Candlelight Ver."
 date:	2017-10-22 00:00:00 +0800
 ---
 
 >  永远的陪伴，就是最好的答案。
 
-## 基本资料
+## 简介
 
-* 作品类型：<font color="#194987">词曲合作</font>
-* 中文标题：<font color="#194987">纯白色的梦·烛光</font>
-* 发布时间：<font color="#194987">2017年10月22日</font>
-* 歌曲风格：<font color="#194987">Ballad</font>
+《Purewhite Dream - Candlelight Ver.》是由本人与洛微联合制作的VOCALOID中文原创曲，最初于2017年10月22日发布在Bilibili，由<font color="#9999ff">心华</font>演唱。
 
-| 版本 | 作词 | 作曲 | 编曲 | 歌者 | 后期 | MV制作 | 试听地址 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 原作 | 洛微 | Kuro Zim + 洛微 | Kuro Zim | 星尘 (VOCALOID4)<br>心华 (VOCALOID3) | 紫荆7x | 琉 (曲绘)<br>洛微 | [Bilibili](https://www.bilibili.com/video/av15639021?p=1)<br>[网易云音乐](https://music.163.com/song?id=516419100) |
+## Staff
 
-## 试听
+| 作词 副歌作曲 MV制作 | 主歌作曲 编曲 | 后期 | 曲绘 | 歌者 |
+| :--: | :--: | :--: | :--: | :--: |
+| 洛微 | Kuro Zim | 紫荆7x | 琉 | 星尘 (VOCALOID4)<br>心华 (VOCALOID3) |
+
+## 歌曲
 
 <audio controls>
 	<source src="/assets/audio/collab02.mp3" type="audio/mp3">
 </audio>
+
+[Bilibili](https://www.bilibili.com/video/av15639021?p=1) / [网易云音乐](https://music.163.com/song?id=516419100)
 
 ## 歌词
 
