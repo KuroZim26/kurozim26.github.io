@@ -10,12 +10,12 @@ date:	2023-06-02 00:00:00 +0800
 | :--: | :--: | :--: | :--: | :--: |
 | Prologue - After the Wind - | Ballad | 2017年5月6日 | <audio controls><source src="/assets/audio/mus01.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/BV1Gx411m7ZQ) | |
 | Reverso Dance! | Electronica | 2017年6月1日 | <audio controls><source src="/assets/audio/mus02.mp3" type="audio/mp3"></audio><br>[网易云音乐](https://music.163.com/song?id=481756877) | |
-| Silent Rave - Under the Cloud - | Hardcore | 2017年6月1日 | <audio controls><source src="/assets/audio/mus03.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac39753410)<br>[Bilibili](https://www.bilibili.com/video/BV1CJ411F7cj) / [网易云音乐](https://music.163.com/song?id=506826611) | |
+| Silent Rave - Under the Cloud - | Hardcore | 2017年6月1日 | <audio controls><source src="/assets/audio/mus03.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac39753410) / [Bilibili](https://www.bilibili.com/video/BV1CJ411F7cj) / [网易云音乐](https://music.163.com/song?id=506826611) | |
 | 夜的胡言乱语 (Beat Edit) | Electronic Hip-Hop Beat | 2017年6月1日 | <audio controls><source src="/assets/audio/mus04.mp3" type="audio/mp3"></audio><br>[网易云音乐](https://music.163.com/song?id=516406970) | |
 | Wishes in the Crystal Core | Electronical Pop | 2017年12月12日 | <audio controls><source src="/assets/audio/mus05.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac39753429) / [Bilibili](https://www.bilibili.com/video/BV11E411b7PQ) | 生日快乐歌的二创 |
 | Fetter Dance | Ethnic | 2018年12月13日 | <audio controls><source src="/assets/audio/mus06.mp3" type="audio/mp3"></audio><br>[Bilibili音频区](https://www.bilibili.com/audio/au1168619) | |
 | 暗夜前进 - Dark Night March - | RPG Style (Chiptune) | 2019年11月21日 | <audio controls><source src="/assets/audio/mus07.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/BV1HJ41127HP) | |
-| Chrono-Dash in the Moonlight | Midtempo Pop | 2019年11月22日 | <audio controls><source src="/assets/audio/mus08.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac40591147)<br>[Bilibili音频区](https://www.bilibili.com/audio/au1124963) | |
+| Chrono-Dash in the Moonlight | Midtempo Pop | 2019年11月22日 | <audio controls><source src="/assets/audio/mus08.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac40591147) / >[Bilibili音频区](https://www.bilibili.com/audio/au1124963) | |
 | Warmth to You | Piano | 2019年11月22日 | [Bilibili音频区](https://www.bilibili.com/audio/au1168527) | |
 | Fearless Blooming | Piano Breakbeat | 2019年11月23日 | <audio controls><source src="/assets/audio/mus10.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/BV1UJ411d7Sh) | |
 | monoCHROnicle | Hardcore | 2019年12月5日 | <audio controls><source src="/assets/audio/mus11.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/BV1MJ411i7rs) | [Faith (Remix)](https://www.bilibili.com/video/av84064114) |

@@ -10,7 +10,7 @@ date:   2023-12-04 23:00:00 +0800
 
 ## 简介
 
-《梦里没有英雄》是由本人参与制作的中文原创歌曲，于2023年12月4日发布在AcFun，由兎乃演唱。
+《梦里没有英雄》是由本人参与制作的中文原创歌曲，于2023年12月4日发布在AcFun，后于2023年12月6日补档于Bilibili，由兎乃演唱。
 
 | 作词 作曲 编曲 | 后期 | 曲绘 | MV制作 | 歌者 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
@@ -21,7 +21,7 @@ date:   2023-12-04 23:00:00 +0800
 | 版本 | 试听或地址 |
 | :--: | :--: |
 | Demo版 |<audio controls><source src="/assets/audio/song22demo.wav" type="audio/wav"></audio> |
-| 正式版 |[AcFun](https://www.acfun.cn/v/ac43138665)|
+| 正式版 |[AcFun](https://www.acfun.cn/v/ac43138665) / [Bilibili](https://www.bilibili.com/video/BV1Bu4y1V7oa)|
 
 ## 歌词
 
