@@ -8,17 +8,19 @@ date:   2022-12-11 00:00:00 +0800
 
 > 你精心维护的小小宇宙，绝不是毫无意义的。
 
+>我已不再恐惧，因为渺小中真的藏着伟大。
+
 ## 简介
 
 《小小的我》是由本人制作的VOCALOID中文原创曲，最初于2022年12月9日发布在AcFun，后于2022年12月10日发布在Bilibili，由徵羽摩柯演唱。
 
-本曲有一个重编+Self Cover版，发布于2023年5月18日。
+本曲有两个重编版，分别发布于2023年5月18日和2024年1月29日；最初版的MV于2023年12月中下旬进行了一次换源。
 
 ## Staff
 
-| 作词 作曲 编曲 后期 MV制作<br>歌者 (重制版) | 歌者 (原版) |
+| 作词 作曲 编曲 后期 全版本MV制作<br>歌者 (2023 Re1 Ver) | 歌者 (原版) | 词曲润色 歌者（Re2 Edition） | 后期（Re2 Edition） |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Kuro Zim | 徵羽摩柯 |
+| Kuro Zim | 徵羽摩柯 | 小子贼疯 | Mix一个旭 |
 
 ## 歌曲
 
@@ -27,9 +29,10 @@ date:   2022-12-11 00:00:00 +0800
 | 版本 | 试听或地址 |
 | :--: | :--: |
 | 原版 |<audio controls><source src="/assets/audio/song12v22.mp3" type="audio/mp3"></audio><br> [AcFun](https://www.acfun.cn/v/ac40082187) / [Bilibili](https://www.bilibili.com/video/BV1mP4y1Q7Yh/) |
-| 2023版 男声Demo | <audio controls><source src="/assets/audio/song12v23mdemo.mp3" type="audio/mp3"></audio> |
-| 2023版 Self Cover | [AcFun](https://www.acfun.cn/v/ac41390699) / [Bilibili](https://www.bilibili.com/video/BV1Lu411x7fK/) |
-| 2023版 女声Demo | <audio controls><source src="/assets/audio/song12v23fdemo.mp3" type="audio/mp3"></audio> |
+| 2023 Re1版 男声Demo | <audio controls><source src="/assets/audio/song12v23mdemo.mp3" type="audio/mp3"></audio> |
+| 2023 Re1版 Self Cover | [AcFun](https://www.acfun.cn/v/ac41390699) / [Bilibili](https://www.bilibili.com/video/BV1Lu411x7fK/) |
+| 2023 Re1版 女声Demo | <audio controls><source src="/assets/audio/song12v23fdemo.mp3" type="audio/mp3"></audio> |
+| Re:2 Edition | [AcFun](https://www.acfun.cn/v/ac43634103) / [Bilibili](https://www.bilibili.com/video/BV1ZV411Q7WK/)
 
 ### 二次创作
 
@@ -37,6 +40,10 @@ date:   2022-12-11 00:00:00 +0800
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
 | 片段清唱 by [一块肥猪肝](https://www.acfun.cn/u/4599324) | [AcFun](https://www.acfun.cn/v/ac40432618) | 视频中使用原MV截图 |
 | UTAU音源翻唱 by [菊粉·二学课代表](https://www.acfun.cn/u/684188)<br>音源：AC娘（未公开） | [AcFun](https://www.acfun.cn/v/ac40704707) | 直接使用原MV |
+
+## 歌词
+
+小子贼疯对于Re:2 Edition的歌词进行了小部分润色。
 
 <pre>
 那年的春季 雨淅淅沥沥 心里铺展着星空不管什么天气
@@ -65,9 +72,9 @@ date:   2022-12-11 00:00:00 +0800
 小小的心害怕着急雨 小小的我等待着放晴
 在流泪的午夜 也祈祷着安心睡去
 一个小小故事写在歌里 期望着谁的聆听
-渺小的曾经 已定格在曾经
+渺小的曾经 已(永远)定格在曾经
 
-小小的勇气根植在心里 小小的我会把爱铭记
+小小(的)勇气根植在心里 小小的我会把爱铭记
 感谢每一个你 完整我的存在意义
 每个小小灯火微微亮起 指引我小小的步履
 每一颗过眼的流星 带着心愿坠入小小的梦里
@@ -85,10 +92,11 @@ date:   2022-12-11 00:00:00 +0800
 * 提及的作品包括《幸福的语言》、《Hey Kuro》、《枕边的日记》（合作曲）、《次元情书 (可爱的你·重要的你)》、《Purewhite Dream》（合作曲）、《简单的歌》、《被复制的宝藏》（合作曲）、《幸福的信念》、《FASTER》、《Here I Am》、《NOW is the Time》、《昨日雨·今日晴》、《答案是爱》。
 2. 歌曲的旋律多次引用《昨日雨·今日晴》：第二段主歌部分旋律出自该曲前奏，最后一段的部分旋律和歌词出自该曲副歌。
 3. MV中出现了基于三首关键作品（《幸福的语言》、《次元情书 (可爱的你·重要的你)》、《幸福的信念》）的六个版本的曲拟人形象。
-4. 2022原版封面的构图是徵羽摩柯怀抱一只兔子，是对当时所参与的AcFun征稿活动“兔年大作战”的暗示。
+4. 2022最初版封面的构图是徵羽摩柯怀抱一只兔子，是对当时所参与的AcFun征稿活动“兔年大作战”的暗示。第一版MV换源后该封面不再使用，但原图仍可见于AcFun投稿2P的原版MV存档中。
 
 ### 其他
 
 * 本作是对本人到2022年年底为止的创作历程的总结曲。
 * 本作在AcFun和Bilibili的首发分别采用了不同的名义：AcFun侧曾参与2023年站内春节直播征稿“兔年大作战”（后通过删除活动Tag主动退出），而Bilibili侧则作为徵羽摩柯生日曲发布。
-* 2023版作为Self Cover版本，是本人首次全流程仅靠自己完成而不借助虚拟歌手和AI绘画的原创作品。投稿时参与了“ACFUN声唱2023云参赛”活动，但在FUN声唱赛季结束后移除了相关标识。
+* 2023 Re1版作为Self Cover版本，是本人首次全流程仅靠自己完成而不借助虚拟歌手和AI绘画的原创作品。投稿时参与了“ACFUN声唱2023云参赛”活动，但在FUN声唱赛季结束后移除了相关标识。
+* 2024 Re:2 Edition版的最终成稿与原版发布仅差一年零一个半月。
