@@ -32,7 +32,7 @@ date:   2022-12-11 00:00:00 +0800
 | 2023 Re1版 男声Demo | <audio controls><source src="/assets/audio/song12v23mdemo.mp3" type="audio/mp3"></audio> |
 | 2023 Re1版 Self Cover | [AcFun](https://www.acfun.cn/v/ac41390699) / [Bilibili](https://www.bilibili.com/video/BV1Lu411x7fK/) |
 | 2023 Re1版 女声Demo | <audio controls><source src="/assets/audio/song12v23fdemo.mp3" type="audio/mp3"></audio> |
-| Re:2 Edition | [AcFun](https://www.acfun.cn/v/ac43634103) / [Bilibili](https://www.bilibili.com/video/BV1ZV411Q7WK/)
+| Re:2 Edition | <audio controls><source src="/assets/audio/song12v24pikachu.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac43634103) / [Bilibili](https://www.bilibili.com/video/BV1ZV411Q7WK/)
 
 ### 二次创作
 
