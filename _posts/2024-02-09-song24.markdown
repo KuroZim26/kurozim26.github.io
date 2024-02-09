@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "无攻略 ~Play Without Playthrough~"
-date:   2024-02-09 00:00:00 +0800
+date:   2024-02-09 06:00:00 +0800
 ---
 
 > “A Gift Song for 2024”
 
 ## 简介
 
-《无攻略》是由本人制作的DeepVocal中文原创歌曲，于2024年2月8日晚在“2024 AcFun 新春庆典”直播晚会中首发，2024年2月9日在AcFun进行单品投稿。歌曲由夏叶子演唱。
+《无攻略》是由本人制作的DeepVocal中文原创歌曲，于2024年2月8日下午在“2024 AcFun 新春庆典”直播晚会暖场阶段首发，2024年2月9日在AcFun进行单品投稿。歌曲由夏叶子演唱。
 
 ## Staff
 
@@ -21,7 +21,7 @@ date:   2024-02-09 00:00:00 +0800
 | 版本 | 试听或地址 |
 | :--: | :--: |
 | 45s预告版 |[AcFun](https://www.acfun.cn/v/ac43435441) |
-| 正式版 |<audio controls><source src="/assets/audio/song24.mp3" type="audio/mp3"></audio>|
+| 正式版 |<audio controls><source src="/assets/audio/song24.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac43667235) |
 
 ## 歌词
 
