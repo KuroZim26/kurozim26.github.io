@@ -22,7 +22,7 @@ date:   2023-12-04 23:00:00 +0800
 
 | 版本 | 试听或地址 |
 | :--: | :--: |
-| Demo版 |<audio controls><source src="/assets/audio/song22demo.wav" type="audio/wav"></audio> |
+| Demo版（赤羽） |<audio controls><source src="/assets/audio/song22demo.wav" type="audio/wav"></audio> |
 | 正式版 |[AcFun](https://www.acfun.cn/v/ac43138665) / [Bilibili](https://www.bilibili.com/video/BV1Bu4y1V7oa)|
 
 ## 歌词
@@ -71,7 +71,7 @@ date:   2023-12-04 23:00:00 +0800
 
 ## 歌曲相关信息
 
-* 本作是继《幸福的信念》后，本人第二个首发人声版本的作品，也是第一首首发版本没有任何虚拟歌手的歌曲。
+* 本作是继《幸福的信念》后，本人第二个首发人声版本的作品，也是第一首不借助虚拟歌手完成首发的歌曲。
 * 这也是兎乃的第一个原创曲演唱的投稿，以生日稿件名义首发。
 * 本作的歌词是本人在五年前写下来的（但创作时曾被错认为十年前），在一定程度上可以看作本人最早开始创作，创作时间跨度最长的一首作品。
 

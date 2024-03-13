@@ -10,31 +10,33 @@ date:   2017-08-12 00:00:00 +0800
 
 >  就算可以给过去的自己打一通电话，但世界就能因为这通电话而天翻地覆吗？
 
+>  若你的吟唱能唤回沉眠于内心深处的美好，我的旋律就不是毫无意义。
+
 ## 简介
 
 《次元情书》是由本人制作的VOCALOID中文原创曲，最初于2017年8月12日发布在Bilibili，由星尘 (VOCALOID)演唱。
 
-本曲拥有两个重制版本，分别发布于2019年10月7日和2023年1月12日；另有一个日语填词版本，Demo版发布于2022年12月14日。
+本曲拥有两个重制版本，其中第二版发布于2019年10月7日，第三版原编曲完成于2022年，改词差分发布于2023年1月12日，原词差分发布于2024年2月14日；另有一个日语填词版本，基于第三版编曲制作的Demo版发布于2022年12月14日。
 
 ## Staff
 
 ### 歌曲制作
 
-| 中文作词 作曲 编曲<br>后期 (日语版·2022版) | 日语版歌词 | VOCALOID调声 后期 (2017版) | 后期 (2019版) |
-| :--: | :--: | :--: | :--: |
-| Kuro Zim | キノコp | 黑方Serge | DZ韦元子 |
+| 中文作词 作曲 编曲<br>后期 (日语版·2023版) | 日语版歌词 | VOCALOID调声 后期 (2017版) | 后期 (2019版) | UTAU调声 后期（2024版）|
+| :--: | :--: | :--: | :--: | :--: |
+| Kuro Zim | キノコp | 黑方Serge | DZ韦元子 | 菊粉·二学课代表 |
 
 ### 歌者
 
-| 2017版 | 2019版 | 日语Demo版 | 2022版 |
-|  :--: | :--: | :--: | :--: |
-| 星尘 (VOCALOID) | AUZ + 姝制 | 花隈千冬 (Synthesizer V) | 艾可 (Synthesizer V) |
+| 2017版 | 2019版 | 日语Demo版 | 2023版 | 2024版 |
+|  :--: | :--: | :--: | :--: | :--: |
+| 星尘 (VOCALOID) | AUZ + 姝制 | 花隈千冬 (Synthesizer V) | 艾可 (Synthesizer V) | AC娘本体-二代目音源 (UTAU) |
 
 ### MV制作相关
 
-| 曲绘 (2017版) | MV素材摄影 (2017版) | MV (2017版) | 曲绘 MV (2019版) | MV (日语Demo版 / 2022版)<br>MV素材摄影 (2022版) |
-| :--: | :--: | :--: | :--: | 
-| 阿鱼鱼w | 花桑puruKO | 墨涛 | AUZ | Kuro Zim |
+| 曲绘 (2017版) | MV素材摄影 (2017版) | MV (2017版) | 曲绘 MV (2019版) | 曲绘（2024版前半段）<br>MV (日语Demo版 / 2023版 / 2024版)<br>MV素材摄影 (2023版 / 2024版) | 曲绘提供（2024版后半段）|
+| :--: | :--: | :--: | :--: | :--: |  :--: |  
+| 阿鱼鱼w | 花桑puruKO | 墨涛 | AUZ | Kuro Zim | Area酱 |
 
 * 日语Demo版MV使用了NAIFU AI生成的曲绘，观看时请注意。
 
@@ -44,7 +46,8 @@ date:   2017-08-12 00:00:00 +0800
 | :--: | :--: |
 | 2017版 (Love Letter Across the Screen) | <audio controls><source src="/assets/audio/song03v17.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av13257396) / [Bilibili音频区](https://www.bilibili.com/audio/au326548?type=3) / [网易云音乐](https://music.163.com/song?id=497377154) |
 | 2019版 (To QY 2019 ver.) | <audio controls><source src="/assets/audio/song03v19.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av70396560) / [网易云音乐](https://music.163.com/song?id=1395620768) |
-| 2022重填版 (Re:Load ver.) | <audio controls><source src="/assets/audio/song03v22.mp3" type="audio/mp3"></audio><br> [AcFun](https://www.acfun.cn/v/ac40424042) / [Bilibili](https://www.bilibili.com/video/BV1WD4y1W7FR/) | 
+| 2023版 (Re:Load ver.)<br>（2022编曲原词版） | <audio controls><source src="/assets/audio/song03v22mod.mp3" type="audio/mp3"></audio><br> [Bilibili](https://www.bilibili.com/video/BV1WD4y1W7FR/) | 
+| 2024版 (2022编曲原词版) | <audio controls><source src="/assets/audio/song03v22acchan.mp3" type="audio/mp3"></audio><br> [AcFun](https://www.acfun.cn/v/ac43760242) | 
 | 日语Demo版 (次元の恋文～画面の彼方へ～) | <audio controls><source src="/assets/audio/jigennokoibumi.mp3" type="audio/mp3"></audio><br> [AcFun](https://www.acfun.cn/v/ac40963855_3) / [Bilibili](https://www.bilibili.com/video/BV1ZP4y1D74a) |
 
 ## 二次创作
@@ -58,9 +61,9 @@ date:   2017-08-12 00:00:00 +0800
 
 ## 歌词
 
-### 中文版
+### 中文版（原词）
 
-第一版和第二版歌词完全一样，第三版歌词在最后一段有改动。
+以下歌词适用于2017、2019、2024版。
 
 <pre>
 在零和一的王国　次元的漩涡
@@ -101,7 +104,9 @@ date:   2017-08-12 00:00:00 +0800
 辉煌的那一天　我们约定好要　再一次相拥
 </pre>
 
-第三版的最后一段歌词如下。
+### 中文版（Re:Load）片段
+
+2023版的最后一段歌词有改动，具体如下。
 
 <pre>
 流星划过　照亮我孤单的轮廓
@@ -192,9 +197,10 @@ date:   2017-08-12 00:00:00 +0800
 
 * 本作拥有三个不同版本的编曲，这是本人目前自编版本最多的原创作。
 * 本作也是本人第一首获得编曲重制的独立原创作。
-* 第一版是2017年的星尘生日纪念曲，也是第一首以虚拟歌姬生日为发布契机的独立作品；第二版则是AUZ为了纪念其已故的音乐老师QY而特意选曲翻唱的。第三版最初完稿于2022年9月，原来是与歌手栗七浔的合作曲（下文简称栗版），但由于合作关系切断，原版本被删除，因此本人在2023年初决定用Synthesizer V的艾可将该版本进行“填坑”。
-* 由于网易云政策限制，栗版音频无法按照其意愿下架，截至目前仍可在网易云音乐搜索到。
+* 第一版是2017年的星尘生日纪念曲，也是第一首以虚拟歌姬生日为发布契机的独立作品；第二版则是AUZ为了纪念其已故的音乐老师QY而特意选曲翻唱的。第三版最初完稿于2022年9月，原来是与歌手栗七浔的合作曲（下文简称栗版），但由于合作关系切断，原版本被删除，因此本人在2023年初决定用Synthesizer V的艾可将该版本进行“填坑”。由于不满意2023年的改词，同时恰逢合作者菊粉·二学课代表的AC娘二代目UTAU音源需要有一个配布曲来发布，因此本人在2024年情人节将2023改词版的AcFun侧投稿删除（Bilibili版保留），并投稿基于原歌词的AC娘UTAU调音版，简称2024版。
+* 由于网易云政策限制，栗版音频无法按照其意愿立即下架。
 * “可爱的你·重要的你”是本作在2017年初创时的原案歌名。
 * 第一版的编曲使用移动设备制作完成，宿主为Caustic 3。
+* AC娘本体已在其账号上转评了2024版的投稿，代表本曲以及对应的AC娘二代目UTAU音源已获得AC娘本体本人的认可。
 * 日语版歌词早在2018年前后就已形成，是本人在微博活跃期间，在与キノコp的交流中获得的。在2022年年末制作该日语版投稿的原因有二，一是想把这个版本的歌词见见天日，二是试验一下花隈千冬的具体歌唱效果。
 * 第一版的曲绘作者阿鱼鱼w在Cytoid谱面信息中被标记为“Sameki”，MV作者墨涛被标记为“AlfredMT”。

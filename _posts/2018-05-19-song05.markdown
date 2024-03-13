@@ -22,8 +22,6 @@ date:   2018-05-19 00:00:00 +0800
 
 ## 歌曲
 
-### 原作
-
 | 版本 | 试听或地址 |
 | :--: | :--: |
 | 2018 星尘 ver | <audio controls><source src="/assets/audio/song05v18sd.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av23611305) |

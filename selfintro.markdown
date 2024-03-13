@@ -27,8 +27,8 @@ permalink: /selfintro/
 ## 联系方式
 * __QQ__ 531312402
 * __邮箱__ 531312402@qq.com
-* __AcFun（主账号，发布音综内容）__ [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)
-* __AcFun（副账号，发布其他游戏相关内容，如明日方舟等）__ [中村特别行动队-NKMR](https://www.acfun.cn/u/2290378)
+* __AcFun（主账号，发布音乐相关内容和极少数方舟抽卡）__ [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)
+* __AcFun（副账号，发布非音乐相关内容，如明日方舟作战记录等）__ [中村特别行动队-NKMR](https://www.acfun.cn/u/2290378)
 * __Bilibili（当前使用，发布一些可以通发的内容）__ [KuroZim26-音符菌](https://space.bilibili.com/16228948)
 
 ## 友情链接
