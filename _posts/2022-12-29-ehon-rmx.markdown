@@ -1,24 +1,35 @@
 ---
 layout: post
-title:  "絵本 (Kuro Zim Remix)"
-date:	2022-12-29 00:00:00 +0800
+title:  "絵本"
+subtitle: "Kuro Zim's “Lost and Found” Remix"
+author: "Kuro Zim"
+categories: Remix歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_ehonrmx.jpg"
+  opacity: 0.24
+tags: 歌曲 Remix 偶像大师百万现场 北沢志保 同人
+sidebar: []
 ---
 
 > 丢掉无法超越的温暖回忆，是否就能相应地得到成长的补偿？
 
-## 简介
+## 基本信息
 
-《絵本 (Kuro Zim's "Lost and Found" Remix)》是本人对《偶像大师百万现场》歌曲《絵本》制作的同人Remix，最初于2022年12月28日发布在AcFun，后补档于Bilibili。
+**发布日期：** 2022年12月28日
 
-## 歌曲
+**原作词：** 坂井季乃
 
-<audio controls>
-	<source src="/assets/audio/ehonrmx.mp3" type="audio/mp3">
-</audio>
+**原作曲：** 增谷贤
 
-[AcFun](https://www.acfun.cn/v/ac40297608) / [Bilibili](https://www.bilibili.com/video/BV1Tg411t7Ks/)
+**原唱：** 北泽志保（CV：雨宫天） 
 
-## 歌词
+**Remix、MV制作：** Kuro Zim
+
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac40297608) / [Bilibili](https://www.bilibili.com/video/BV1Tg411t7Ks/)
+
+## 试听与歌词
+
+<audio controls><source src="/assets/audio/ehonrmx.mp3" type="audio/mp3"></audio>
 
 <pre>
 *守るべきものがあって　私は強くなりたいから
@@ -45,7 +56,7 @@ date:	2022-12-29 00:00:00 +0800
 笑うことを思い出した　絵本の中で見た笑顔 
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
 * 本Remix中运用了Native Instruments在2022年圣诞限时免费赠送的合成器音源Hypha。
-* Remix制作和发布当日刚好是本人与栗七浔绝交当日，因此命名为“Lost and Found”实际上也有“丢掉病态的人际关系，找到自己的正确位置”的暗示。
+* Remix制作和发布当日刚好是作者与栗七浔绝交当日，因此命名为“Lost and Found”实际上也有“丢掉病态的人际关系，找到自己的正确位置”的暗示。

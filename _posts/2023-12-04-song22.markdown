@@ -1,31 +1,37 @@
 ---
 layout: post
-title:  "梦里没有英雄"
-date:   2023-12-04 23:00:00 +0800
+title: "梦里没有英雄"
+subtitle: "No Heroes in Dreams"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song22usano.jpg"
+  opacity: 0.24
+tags: 歌曲 虚拟UP主 兎乃
+sidebar: []
 ---
 
-> 梦里没有英雄，只有赤裸裸的自己。你好，十年前的我。
+> 梦里没有英雄，只有赤裸裸的自己。
 
-> 小萝北，嘿嘿，小萝北
+## 基本信息
 
-## 简介
+**发布日期：** 2023年12月4日
 
-《梦里没有英雄》是由本人参与制作的中文原创歌曲，于2023年12月4日发布在AcFun，后于2023年12月6日补档于Bilibili，由兎乃演唱。
+**作词、作曲、编曲：** Kuro Zim
 
-## Staff
+**后期：** [MortonWill莫顿](https://www.acfun.cn/u/55519465)
 
-| 作词 作曲 编曲 | 后期 | 曲绘 | MV制作 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Kuro Zim | MortonWill莫顿 | 羽宮みこ | 浅子Asako | 兎乃 |
+**曲绘：** [羽宮みこ](https://www.acfun.cn/u/64396889)
 
-## 歌曲
+**MV制作：** [浅子Asako](https://www.acfun.cn/u/261980)
 
-| 版本 | 试听或地址 |
-| :--: | :--: |
-| Demo版（赤羽） |<audio controls><source src="/assets/audio/song22demo.wav" type="audio/wav"></audio> |
-| 正式版 |[AcFun](https://www.acfun.cn/v/ac43138665) / [Bilibili](https://www.bilibili.com/video/BV1Bu4y1V7oa)|
+**歌手：** [兎乃](https://www.acfun.cn/u/12648555)
 
-## 歌词
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac43138665) / [Bilibili](https://www.bilibili.com/video/BV1Bu4y1V7oa)
+
+## 试听与歌词
+
+<audio controls><source src="/assets/audio/song22usano.wav" type="audio/wav"></audio>
 
 <pre>
 那时的我很懵懂 爱编织绮丽的梦
@@ -69,12 +75,17 @@ date:   2023-12-04 23:00:00 +0800
 握紧拳头
 </pre>
 
-## 歌曲相关信息
+### Demo版
 
-* 本作是继《幸福的信念》后，本人第二个首发人声版本的作品，也是第一首不借助虚拟歌手完成首发的歌曲。
-* 这也是兎乃的第一个原创曲演唱的投稿，以生日稿件名义首发。
-* 本作的歌词是本人在五年前写下来的（但创作时曾被错认为十年前），在一定程度上可以看作本人最早开始创作，创作时间跨度最长的一首作品。
+Vocal by 赤羽 (Synthesizer V)
 
-## 歌曲相关内容
+<audio controls><source src="/assets/audio/song22demo.wav" type="audio/wav"></audio>
+
+## 杂谈
+
+* 本作是虚拟UP主兎乃的生日纪念曲，也是她出道以来第一次演唱原创新曲。
+* 本作的歌词写于2018年前后。
+
+### 文本记录
 
 * [本作的创作后记](https://www.acfun.cn/v/ac43138916)

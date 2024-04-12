@@ -1,28 +1,31 @@
 ---
 layout: post
-title:  "在地图尽头的城市 ~The City at the End of the Map~"
-date:   2024-01-29 08:14:00 +0800
+title: "在地图尽头的城市"
+subtitle: "The City at the End of the Map"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song23.jpg"
+  opacity: 0.24
+tags: 歌曲 DeepVocal 夏叶子 生日作
+sidebar: []
 ---
 
 > 绝对会有一天，能把悲伤化作往事，找回星空下自己的位置。
 
-## 简介
+## 基本信息
 
-《在地图尽头的城市》是由本人制作的DeepVocal中文原创歌曲，于2024年1月29日发布在AcFun和Bilibili，由夏叶子演唱。
+**发布日期：** 2024年1月29日
 
-## Staff
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim
 
-| 作词 作曲 编曲 后期 MV制作 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Kuro Zim | 夏叶子(DeepVocal) |
+**歌手：** 夏叶子 (DeepVocal)
 
-## 歌曲
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac43634034) / [Bilibili](https://www.bilibili.com/video/BV1kg4y1Y7Ay/)
 
-| 版本 | 试听或地址 |
-| :--: | :--: |
-| 正式版 |<audio controls><source src="/assets/audio/song23.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac43634034) / [Bilibili](https://www.bilibili.com/video/BV1kg4y1Y7Ay/)|
+## 试听与歌词
 
-## 歌词
+<audio controls><source src="/assets/audio/song23.mp3" type="audio/mp3"></audio>
 
 <pre>
 在地图尽头的城市
@@ -79,8 +82,7 @@ date:   2024-01-29 08:14:00 +0800
 下一章 又该如何注释
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
-* 本作是本人的27岁生日纪念作。
-* 标题“在地图尽头的城市”实际上是对本人家乡（也是工作后现居城市）黑龙江省黑河市的Neta，而MV中除开头“繁华城市的梦”文案处之外，其他所有实拍场景均采自黑河市。
-* 本作是本人第一首公开发布的夏叶子原创曲，但在完工时间上是第二首，内部代号也是Project 2402。
+* 本作是作者的27岁生日纪念作。
+* 本作的标题、内容和MV都与作者的家乡（以及工作后常驻的城市）黑龙江省黑河市紧密相关。

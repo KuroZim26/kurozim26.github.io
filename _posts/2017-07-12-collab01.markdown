@@ -1,29 +1,39 @@
 ---
 layout: post
-title:  "枕边的日记 ~Bedside Diary~"
-date:   2017-07-12 00:00:00 +0800
+title:  "枕边的日记"
+subtitle: "Bedside Diary"
+author: "Kuro Zim & 洛微"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_collabo01.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID ACE_Studio 洛天依 联合创作 洛天依生日曲 多版本
+sidebar: []
 ---
 
-## 简介
+> 明天就是定下的日期，在梦里是你欣慰的笑意。
 
-《枕边的日记》是由本人与洛微联合制作的VOCALOID中文原创曲，最初于2017年7月12日发布在Bilibili，由洛天依 (VOCALOID)演唱。
+## 基本信息
 
-另有一个重制版本，于2022年12月17日发布在AcFun（本人）和Bilibili（洛微），由洛天依 (ACE Studio)演唱。
+**最初发布日期：** 2017年7月12日
 
-## Staff
+**现行版发布日期：** 2022年12月17日
 
-| 作曲 编曲<br>后期 (2022版) | 作词<br>MV (2022版) | 后期 (2017版) | 曲绘 |
-| :--: | :--: | :--: | :--: |
-| Kuro Zim | 洛微 | 轩子 | 铮了个粽子 |
+**作词、MV制作：** 洛微
 
-## 歌曲
+**作曲、编曲、现行版后期：** Kuro Zim
 
-| 版本 | 试听或地址 |
-| :--: | :--: |
-| 2017版 | [Bilibili音频区](https://www.bilibili.com/audio/au37572)  |
-| 2022版 | <audio controls><source src="/assets/audio/collab01.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac39805031) / [Bilibili](https://www.bilibili.com/video/BV1av4y1m7Bk) |
+**最初版后期：** 轩子
 
-## 歌词
+**曲绘：** 铮了个粽子
+
+**歌手：** 洛天依 (VOCALOID3) → 洛天依 (ACE Studio)
+
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac39805031) / [Bilibili](https://www.bilibili.com/video/BV1av4y1m7Bk)
+
+## 试听与歌词
+
+<audio controls><source src="/assets/audio/collab01.mp3" type="audio/mp3"></audio>
 
 <pre>
 轻轻合上枕边的日记
@@ -52,9 +62,9 @@ date:   2017-07-12 00:00:00 +0800
 在梦里 是你欣慰的笑意 笑意
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
-* 本作是与洛微的第二次实质合作作品，也是第一首词曲合作作品。
+* 本作是Kuro Zim与洛微的第二次实质合作作品，也是第一首词曲合作作品。
 * 本作的重制版则是与洛微的最后一次实质合作。由于双方的意愿和共识，重制版的AcFun侧投稿中带有“受权发布”的标记。
 * 本作歌词实际上来源于2017年5月6日洛微发布的QQ空间说说，原文只有前四段。
-* 本作的第一版PV曾于2019年7月6日删除。具体的删除原因除了和洛微绝交后的怨念之外，实际上还有另外一个：前奏和尾奏出现的旋律实在是太像太像太像FREEDOM DiVE↓了。于是重制版便彻底重写了伴奏，改掉了这段太像FREEDOM DiVE↓的旋律。
+* 本作的第一版PV曾于2019年7月6日删除（[可从此处收听音频区存档](https://www.bilibili.com/audio/au37572)）。具体的删除原因除了和洛微绝交后的怨念之外，实际上还有另外一个：前奏和尾奏出现的旋律实在是太像太像太像FREEDOM DiVE↓了。于是重制版便彻底重写了伴奏，改掉了这段太像FREEDOM DiVE↓的旋律。

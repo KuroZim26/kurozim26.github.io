@@ -1,30 +1,31 @@
 ---
 layout: post
 title:  "赛博流浪者会流下电子眼泪吗？"
-date:   2023-09-02 00:00:00 +0800
+subtitle: "Will Cyber Strayers Shed Electronic Tears?"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song21.jpg"
+  opacity: 0.24
+tags: 歌曲 ACE_Studio 文栗
+sidebar: []
 ---
 
-> 我也渴望谁能把我救出这繁华陷阱，但无数次的挣扎后才知道，能把我救出来的，只有我自己残存的理性。<br>Will Cyber Strayers Shed Electronic Tears?
+> 我也渴望谁能把我救出这繁华陷阱，但无数次的挣扎后才知道，能把我救出来的，只有我自己残存的理性。
 
-## 简介
+## 基本信息
 
-《赛博流浪者会流下电子眼泪吗？》是由本人制作的ACE Studio中文原创曲，最初于2023年9月1日发布在AcFun和Bilibili，由文栗演唱。
+**发布日期：** 2023年9月1日
 
-## Staff
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim
 
-| 作词 作曲 编曲 后期 MV制作 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Kuro Zim | 文栗 (ACE Studio) |
+**歌手：** 文栗 (ACE Studio)
 
-## 歌曲
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac42229123) / [Bilibili](https://www.bilibili.com/video/BV18w411S75W/)
 
-<audio controls>
-	<source src="/assets/audio/song21.mp3" type="audio/mp3">
-</audio>
+## 试听与歌词
 
-[AcFun](https://www.acfun.cn/v/ac42229123) / [Bilibili](https://www.bilibili.com/video/BV18w411S75W/)
-
-## 歌词
+<audio controls><source src="/assets/audio/song21.mp3" type="audio/mp3"></audio>
 
 <pre>
 仿佛注视着万花筒里的奇观
@@ -76,15 +77,12 @@ date:   2023-09-02 00:00:00 +0800
 (启程逃亡之前 桌前的灯别忘了关)
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
-* 本作是我以“反思互联网社交中毒现象”为主题而创作出来的。
-* 本作投稿后，本人在文章区发布了本作的一些相关创作细节，详见[这里](https://www.acfun.cn/a/ac42188194)。
-* 本作在创作过程中经历了一次旋律改稿。由于初稿的旋律部分和[明日方舟危机合约寻昼行动主题曲](https://music.163.com/#/song?id=1922637266)太过相近，再加上该曲本身也是Synthwave，因此为了避免不必要的麻烦，我选择对初稿进行了旋律修改。
-* 本作的MV包含了自摄录素材和在VRChat的公开场景中录制的风景录像。
+* 本作在创作过程中经历了一次旋律改稿。由于初稿的旋律部分和[明日方舟危机合约寻昼行动主题曲](https://music.163.com/#/song?id=1922637266)太过相近，再加上该曲本身也是Synthwave，因此为了避免不必要的麻烦，作者选择对初稿进行了旋律修改。
 
-### PS:初稿版试听
+<audio controls><source src="/assets/audio/song21proto.mp3" type="audio/mp3"></audio>
 
-<audio controls>
-	<source src="/assets/audio/song21proto.mp3" type="audio/mp3">
-</audio>
+### 文本记录
+
+* [本作的创作说明](https://www.acfun.cn/a/ac42188194)

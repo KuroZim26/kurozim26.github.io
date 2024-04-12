@@ -1,32 +1,31 @@
 ---
 layout: post
 title:  "写给今天的歌"
-date:   2023-01-02 00:00:00 +0800
+subtitle: "Song for Today"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song13.jpg"
+  opacity: 0.24
+tags: 歌曲 ACE_Studio 波音律 洛天依 文栗 雀河 AI绘图警告
+sidebar: []
 ---
 
 >  唯一不变的是，你活在今天。
 
-## 简介
+## 基本信息
 
-《写给今天的歌》是由本人制作的ACE Studio中文原创曲，最初于2023年1月1日发布在AcFun和Bilibili，由波音律、洛天依、文栗、雀河演唱。
+**发布日期：** 2023年1月1日
 
-## Staff
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim
 
-| 作词 作曲 编曲 后期 MV制作 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Kuro Zim | 波音律 洛天依 文栗 雀河<br>(ACE Studio) |
+**歌手：** 波音律 洛天依 文栗 雀河 (ACE Studio) 
 
-* 封面使用了NAIFU AI生成的曲绘。
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac40320336) / [Bilibili](https://www.bilibili.com/video/BV1L84y1s7Gp)
 
-## 歌曲
+### 试听与歌词
 
-<audio controls>
-	<source src="/assets/audio/song13.mp3" type="audio/mp3">
-</audio>
-
-[AcFun](https://www.acfun.cn/v/ac40320336) / [Bilibili](https://www.bilibili.com/video/BV1L84y1s7Gp)
-
-## 歌词
+<audio controls><source src="/assets/audio/song13.mp3" type="audio/mp3"></audio>
 
 <pre>
 醒在梦碎之前 抬头仍看见蔚蓝的天
@@ -78,6 +77,6 @@ date:   2023-01-02 00:00:00 +0800
 就在 今天
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
-* 本作为2023年元旦特别纪念作，也是目前本人使用虚拟歌手数量最多的原创作品（4名）。
+* 本作为作者单次使用虚拟歌手数量最多的原创作品（4名）。

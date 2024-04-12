@@ -28,7 +28,8 @@ twitter_username:
 github_username:  
 
 # Build settings
-theme: minima
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
+remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
 - jekyll-feed
 

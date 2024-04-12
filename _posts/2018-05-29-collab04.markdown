@@ -1,30 +1,37 @@
 ---
 layout: post
 title:  "我们的歌"
-date:	2018-05-29 00:00:00 +0800
+subtitle: "Song of OURS"
+author: "❤Kuro Zim & 洛微 a.k.a. 幸语组_Shiakoto❤"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_collabo04.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 乐正绫 洛天依 联合创作
+sidebar: []
 ---
 
 >  就让这首我们的歌 一直循环下去 回响在你我心底
 
-## 简介
+## 基本信息
 
-《我们的歌》是由本人与洛微联合制作的VOCALOID中文原创衍生曲，基于《简单的歌》制作。最初于2018年5月29日发布在Bilibili，由洛天依和乐正绫演唱。
+**发布日期：** 2018年5月29日
 
-## Staff
+**作词、MV制作：** 洛微
 
-| 作词 MV制作 | 作曲 编曲 | 后期 | 曲绘 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: |
-| 洛微 | 小黑 (Kuro Zim) | DZ韦元子 | 铮了个粽子 | 洛天依 (VOCALOID4)<br>乐正绫 (VOCALOID3) |
+**作曲、编曲：** Kuro Zim (OT: 简单的歌)
 
-## 歌曲
+**后期：** DZ韦元子
 
-<audio controls>
-	<source src="/assets/audio/collab04.mp3" type="audio/mp3">
-</audio>
+**曲绘：** 铮了个粽子
 
-[Bilibili](https://www.bilibili.com/video/av24077110?p=1) / [网易云音乐](https://music.163.com/song?id=1985821598)
+**歌手：**  洛天依 (VOCALOID4) & 乐正绫 (VOCALOID3) 
 
-## 歌词
+**在线发布：** [Bilibili](https://www.bilibili.com/video/av24077110?p=1) / [网易云音乐](https://music.163.com/song?id=1985821598)
+
+## 试听与歌词
+
+<audio controls><source src="/assets/audio/collab04.mp3" type="audio/mp3"></audio>
 
 <pre>
 你　还记得吗　那一个晴朗的初夏
@@ -48,7 +55,6 @@ date:	2018-05-29 00:00:00 +0800
 一直循环下去　回响在你我心底
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
-* 本作是与洛微的第四次词曲合作，实际上是《[简单的歌](/2018/04/12/song04.html)》的重填词版。
-* 歌词说的是洛微对本人的情感——然后一个多月之后就发生了那场不可调和的永久性矛盾。
+本曲封面与原作《简单的歌（2018版）》互相对应。

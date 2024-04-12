@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "简单的歌 2020 Version"
+subtitle: "A Simple Song ~2020 Re:Sing ver."
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song04sp.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 乐正绫 乐正绫生日作 重制作 联合创作
+sidebar: []
+---
+
+> 让曾经那首简单的旋律，更加艳丽而无畏地绽放吧
+
+## 基本信息
+
+**发布日期：** 2018年4月12日
+
+**作词：** [后夏](https://space.bilibili.com/9863079)
+
+**作曲、编曲、MV制作：** Kuro Zim
+
+**VOCALOID调声&后期：** [DZ韦元子](https://space.bilibili.com/11589966)
+
+**歌手：** 乐正绫（VOCALOID3）
+
+**曲绘：** [陽川](https://space.bilibili.com/4047406)
+
+**在线发布：** [Bilibili](https://www.bilibili.com/video/av625116268)
+
+## 试听与歌词
+
+<audio controls><source src="/assets/audio/song04v20.mp3" type="audio/mp3">
+
+<pre>
+(尽管有时若即若离 但真的没关系)
+(尽管前方布满荆棘 我还默默陪着你)
+
+我 拾起这朵 遗忘了很多年的花
+拿出笔来 重新栽下 在旋律里茁壮成长
+等候 秋冬春夏 有耐心期待着发芽
+一首 简单的歌曲 轻声哼唱洁白无瑕
+反复 低语呢喃 黑白键五线谱皴擦
+绽放 淡妆浓抹 宫商角徵羽的风华
+
+也曾在微笑里哭泣 沉默不语欢欣
+也曾经在 披荆斩棘 黑夜中盲目追寻
+偶然一眼的突然清醒 打开珍贵记忆
+最后一首 简单的歌
+不仅仅献给你 也献给我自己
+
+也曾在微笑里哭泣 沉默不语欢欣
+也曾经在 披荆斩棘 黑夜中盲目追寻
+偶然一眼的突然清醒 打开珍贵记忆
+最后一首 简单的歌
+不仅仅献给你 也献给我自己
+
+也曾经把过去忘记 孤单陷入湍急
+也曾经把 胆怯隐匿 沉溺于无畏麻痹
+幸好拾起后能够开出 陌生熟悉旋律
+最后一首 简单的歌
+献给迷茫的你 给每一个的自己
+
+La la la...
+Woo...
+</pre>
+
+## 杂谈
+
+* 本曲视频时长4分12秒，Neta了乐正绫的生日，即“4月12日”。

@@ -1,25 +1,35 @@
 ---
 layout: post
-title:  "初恋バタフライ (Kuro Zim Remix)"
-date:	2023-04-20 00:00:00 +0800
+title:  "初恋バタフライ"
+subtitle: "Kuro Zim's “恋生夢蝶 / KOISEIMUCHOU” Remix"
+author: "Kuro Zim"
+categories: Remix歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_miyarmx.jpg"
+  opacity: 0.24
+tags: 歌曲 Remix 偶像大师百万现场 宫尾美也 同人
+sidebar: []
 ---
 
 > 不是HKT48那首！不是HKT48那首！不是HKT48那首！
 
+## 基本信息
 
-## 简介
+**发布日期：** 2023年4月20日
 
-《初恋バタフライ (Kuro Zim's "恋生夢蝶 / KOISEIMUCHOU" Remix)》是本人对《偶像大师百万现场》歌曲《初恋バタフライ》制作的同人Remix，最初于2023年4月20日发布在AcFun，后补档于Bilibili。
+**原作词：** 唐沢美帆
 
-## 试听
+**原作曲：** 石井健太郎・福富雅之
 
-<audio controls>
-	<source src="/assets/audio/miyarmx.mp3" type="audio/mp3">
-</audio>
+**原唱：** 宫尾美也（CV.桐谷蝶蝶）
 
-[AcFun](https://www.acfun.cn/v/ac41177658) / [Bilibili](https://www.bilibili.com/video/BV1rk4y1a7Rp/)
+**Remix、MV制作：** Kuro Zim
 
-## 歌词
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac41177658) / [Bilibili](https://www.bilibili.com/video/BV1rk4y1a7Rp/)
+
+## 试听与歌词
+
+<audio controls><source src="/assets/audio/miyarmx.mp3" type="audio/mp3"></audio>
 
 <pre>
 指折り数えているのは
@@ -102,7 +112,6 @@ date:	2023-04-20 00:00:00 +0800
 捕まえていて I miss you
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
-* 本Remix使用Bandlab制作完成。
-* “恋生梦蝶”这个名字是从“庄周梦蝶”这个词来的，因为觉得很如梦似幻于是就化用了一下。
+* 本Remix的副标题“恋生梦蝶”这个名字一定程度上衍生自“庄周梦蝶”。

@@ -1,0 +1,79 @@
+---
+layout: post
+title: "许我一场清醒梦"
+subtitle: "Grant me a Lucid Dream"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song25.jpg"
+  opacity: 0.24
+tags: 歌曲 SynthV 赤羽 艾可
+sidebar: []
+---
+
+> 在单色调的现实留一个喘息的空当，何错之有？
+
+## 基本信息
+
+**发布日期：** 2024年3月17日
+
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim
+
+**主唱歌手：** 艾可 (Synthesizer V Lite)
+
+**和声与Rap：** 赤羽 (Synthesizer V Lite)
+
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac44048868) / [Bilibili](https://www.bilibili.com/video/BV1xC411b79P/)
+
+## 试听与歌词
+
+<audio controls><source src="/assets/audio/song25.mp3" type="audio/mp3"></audio>
+
+<pre>
+疲惫的身体在求救
+像幽灵一般的游走
+汹涌的欲望和要求
+浑浊了心房和眼球
+
+出门是无尽的车流
+运输着繁华的泡沫
+需要一场清醒的梦
+驻足确认此刻拥有
+
+让我沉在这清醒梦 Wooh...
+调谐了心的频率 不再紧绷
+害怕的事没有发生 Wooh...
+微不足道的愿望 在悄悄成真
+
+是谁曾口出狂言把世界踏破 Huh
+转一圈之后失望地躺回了被窝
+太天真的我 太天真的要求
+不是我示弱 就算示弱又如何 Wow-oh
+一眼望尽的生活 难免的循环重播
+诗和远方的追求变成豆浆馍馍
+但又能如何 你也找不到本攻略书琢磨
+琢磨太多不如脑子空空 先做场大梦再说
+
+别人的幸福在闪烁
+充满着恶意警告我
+但又有谁能够夺走
+我不足挂齿的拥有
+
+让我沉在这清醒梦 Wooh...
+调谐了心的频率 不再紧绷
+害怕的事没有发生 Wooh...
+微不足道的愿望 在悄悄成真
+
+深埋在梦中……
+纯粹的笑容……Woh……
+别再去琢磨……还有没有此刻拥有……
+
+让我沉在这清醒梦 Wooh...
+就任凭眼泪流下 任它失控
+什么是完整的人生 Wooh... 不懂也不想懂
+无解也是答案 所以不再求证
+</pre>
+
+## 杂谈
+
+* 歌词“但又能如何 你也找不到本攻略书琢磨”直接对应了前作《无攻略》。

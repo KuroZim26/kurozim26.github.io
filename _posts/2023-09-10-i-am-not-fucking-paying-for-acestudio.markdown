@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "“破自行车”要靠租了？租不租看我！拒绝冲动消费！ "
+title:  "2023-09-10：“破自行车”要靠租了？租不租看我！拒绝冲动消费！ "
 date:   2023-09-10 11:50:00 +0800
+categories: 文章
+tags: 创作工具 ACE_Studio
 ---
 
 ## 说明
 
-这是在ACE Studio官方宣布公测期结束和今后的付费会员方案后，本人在AcFun和Bilibili发布的文章。
+[AcFun文章原文](https://www.acfun.cn/a/ac42307550) / [Bilibili专栏原文](https://www.bilibili.com/read/cv26430179/)
 
 * 由于AcFun和Bilibili的各自内容审核取向不同，两站版本的部分文字细节有差别。
 
@@ -87,6 +89,4 @@ ACE Studio作为订阅制的歌声合成软件（现在当然要这么讲了）�
 
 ## 相关链接
 
-* [AcFun文章原文](https://www.acfun.cn/a/ac42307550)
-* [Bilibili专栏原文](https://www.bilibili.com/read/cv26430179/)
 * [糖浆kosa - 谈谈我，我与信仰充值的一二事](https://www.bilibili.com/read/cv2987155/)

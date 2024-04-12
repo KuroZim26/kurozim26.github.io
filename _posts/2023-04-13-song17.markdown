@@ -1,32 +1,31 @@
 ---
 layout: post
 title:  "燃炬之途"
-date:   2023-04-13 00:00:00 +0800
+subtitle: "Trail of Blazing Torch"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song17.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 乐正绫 乐正绫生日纪念作 AI绘图警告
+sidebar: []
 ---
 
 > 沉沉长夜，以零为名之处，正是燃起一把火炬，动身出发之时。
 
-## 简介
+## 基本信息
 
-《燃炬之途》是由本人制作的VOCALOID中文原创曲，最初于2023年4月1日发布在AcFun，后于2023年4月12日发布在Bilibili，由乐正绫演唱。
+**发布日期：** 2023年4月1日（AcFun） / 2023年4月12日（Bilibili）
 
-## Staff
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim
 
-| 作词 作曲 编曲 后期 MV制作 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Kuro Zim | 乐正绫 (VOCALOID3) |
+**歌手：** 乐正绫 (VOCALOID3) 
 
-* AcFun侧MV使用了NAIFU AI生成的曲绘，观看时请注意。
+**在线发布：**[AcFun](https://www.acfun.cn/v/ac41019965) / [Bilibili](https://www.bilibili.com/video/BV1fX4y1r7NB)
 
-## 歌曲
+## 试听与歌词
 
-<audio controls>
-	<source src="/assets/audio/song17.mp3" type="audio/mp3">
-</audio>
-
-[AcFun](https://www.acfun.cn/v/ac41019965) / [Bilibili](https://www.bilibili.com/video/BV1fX4y1r7NB)
-
-## 歌词
+<audio controls><source src="/assets/audio/song17.mp3" type="audio/mp3"></audio>
 
 <pre>
 无主的情书 被雨打湿在 无主的废土
@@ -63,7 +62,7 @@ date:   2023-04-13 00:00:00 +0800
 站在这以零为名之处 向着地平线的方向 追逐
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
 ### 用典与Neta
 
@@ -71,9 +70,12 @@ date:   2023-04-13 00:00:00 +0800
 2. 本作在一定程度上受到了来自明日方舟的启发。
 * 标题及部分歌词来自危机合约第8赛季“寻昼行动”的蚀刻章相关文案。
 * 曲风受到了危机合约第12赛季“起源行动”的主题曲影响，但实际本作并非正统Metal。
-3. 本曲时长4分12秒，Neta了“4月12日”。
+3. 本曲时长4分12秒，Neta了乐正绫的生日，即“4月12日”。
 
 ### 其他
 
-* 本作为本人第四首，也是目前最后一首为乐正绫的“生日”而投稿的原创歌曲。但出于某些原因，本人选择在AcFun将本作作为一般核心作品发布，比Bilibili侧提前11天。
 * 本作的封面和MV不同程度地使用了AI生成的图像，其中两侧使用的封面均包括AI绘，但在MV中仅出现于AcFun投稿版本。
+
+### 文本记录
+
+[本作的创作后记](https://www.acfun.cn/a/ac41036766)

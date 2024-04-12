@@ -1,28 +1,31 @@
 ---
 layout: post
 title:  "Nocturnal Floor"
-date:   2023-01-23 00:00:00 +0800
+subtitle: "夜的舞池"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song15.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 徵羽摩柯 ACE_Studio Bianca
+sidebar: []
 ---
 
 >  如果感觉迷茫，那就在夜的舞台起舞吧。
 
-## 简介
+## 基本信息
 
-《Nocturnal Floor》是由本人制作的VOCALOID / ACE Studio中文原创曲，最初于2023年1月23日发布在AcFun和Bilibili，由徵羽摩柯演唱，Bianca (E02B)伴唱。
+**发布日期：** 2023年1月23日
 
-| 作词 作曲 编曲 后期 MV实景素材 MV制作 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Kuro Zim | 徵羽摩柯 (VOCALOID4)<br>Bianca a.k.a. E02B (ACE Studio) |
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim
 
-## 歌曲
+**歌手：** 徵羽摩柯 (VOCALOID4) / Bianca a.k.a. E02B (ACE Studio) 
 
-<audio controls>
-	<source src="/assets/audio/song15.mp3" type="audio/mp3">
-</audio>
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac40498459) / [Bilibili](https://www.bilibili.com/video/BV14M411t7n4/)
 
-[AcFun](https://www.acfun.cn/v/ac40498459) / [Bilibili](https://www.bilibili.com/video/BV14M411t7n4/)
+### 试听与歌词
 
-## 歌词
+<audio controls><source src="/assets/audio/song15.mp3" type="audio/mp3"></audio>
 
 <pre>
 Only you can make yourself ALIVE ALIVE
@@ -76,6 +79,7 @@ Only you can make it right
 这夜晚 就是你 的舞台
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
 * 本作是过往作品《FASTER》的精神续作，在内容上部分继承了《写给今天的歌》、《告别之夜》。
+* 本作封面素材是在武汉市实拍的，但路牌上的文字是PS上去的。

@@ -1,31 +1,31 @@
 ---
 layout: post
 title:  "昨日雨·今日晴"
-date:   2022-10-11 00:00:00 +0800
+subtitle: "When the Rain is Ending"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song09.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 徵羽摩柯
+sidebar: []
 ---
 
 >  写给那个等待着天晴，却又不只是在等待的我。
 
-## 简介
+## 基本信息
 
-《昨日雨·今日晴》是由本人制作的VOCALOID中文原创曲，最初于2022年10月10日发布在AcFun，由徵羽摩柯演唱。
+**发布日期：** 2022年10月10日
 
-## Staff
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim
 
-| 作词 作曲 编曲 后期 MV制作 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Kuro Zim | 徵羽摩柯 (VOCALOID4) |
+**歌手：** 徵羽摩柯 (VOCALOID4)
 
-* 歌曲使用了纯歌词MV。
+**在线发布：** [AcFun](http://www.acfun.cn/v/39138414) / [Bilibili](https://www.bilibili.com/video/BV1jW4y1K7Kj/)
 
-## 歌曲
+### 试听与歌词
 
-| 版本 | 试听或地址 |
-| :--: | :--: |
-| 男声公开投稿版 | <audio controls><source src="/assets/audio/song09.mp3" type="audio/mp3"></audio><br>[AcFun](http://www.acfun.cn/v/39138414) / [Bilibili补档](https://www.bilibili.com/video/BV1jW4y1K7Kj/) |
-| 女声Demo版 | <audio controls><source src="/assets/audio/song09fdemo.mp3" type="audio/mp3"></audio> |
-
-## 歌词
+<audio controls><source src="/assets/audio/song09.mp3" type="audio/mp3"></audio>
 
 <pre>
 倾盆的雨 淅淅沥沥
@@ -76,7 +76,7 @@ date:   2022-10-11 00:00:00 +0800
 而坚定的心 把悲伤丢在风里 在这里前进
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
 ### 用典及相关Neta
 
@@ -84,7 +84,3 @@ date:   2022-10-11 00:00:00 +0800
 * 歌词“放下了纸笔 停下手中温馨的枕边日记 迈出了步履”——《枕边的日记》
 * 歌词“把泪痕拭去 从那纯白梦境醒来的自己 手再次握紧”——《Purewhite Dream》
 2. 副歌吉他背景旋律和次元情书 3rd Edit的吉他背景旋律相近。
-
-### 其他
-
-* 本作是本人首次使用徵羽摩柯的VOCALOID原创曲。

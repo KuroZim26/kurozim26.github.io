@@ -1,34 +1,38 @@
 ---
 layout: post
 title:  "Hey Kuro"
-date:   2016-08-26 00:00:00 +0800
+author: "T.E.Zimmern (Kuro Zim)"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song02.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 星尘 星尘生日作
+sidebar: []
 ---
 
 >  曾经的约定，我还记着，但更想遇见，现在的你。
 
-## 简介
+## 基本信息
 
-《Hey Kuro》是由本人使用T.E.Zimmern名义制作的VOCALOID中文原创曲，最初于2016年8月26日发布在Bilibili，由星尘 (VOCALOID)演唱。
+**最初发布日期：** 2016年8月26日
 
-目前的公开版本发布于2018年8月12日。
+**现行版发布日期：** 2018年8月12日
 
-## Staff
+**作词、作曲：** T.E.Zimmern (Kuro Zim)
 
-以现行版为准。
+**编曲：** 泠魔Boy
 
-| 作词 作曲 | 编曲 | VOCALOID调声 后期 MV | 曲绘 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: |
-| T.E.Zimmern<br>(Kuro Zim) | 泠魔Boy | Luong<br>(Incubo泠蝶 / Unoge) | 九粮米液 | 星尘 (VOCALOID4)  |
+**VOCALOID调声&后期、MV制作：** Luong<br>(Incubo泠蝶 / Unoge)
 
-## 歌曲
+**曲绘：** 九粮米液
 
-<audio controls>
-	<source src="/assets/audio/song02.mp3" type="audio/mp3">
-</audio>
+**歌手：** 星尘 (VOCALOID4)
 
-[Bilibili MV](https://www.bilibili.com/video/av28911978?p=1) / [Bilibili音频区](https://www.bilibili.com/audio/au37981?type=3)
+**在线发布：** [Bilibili](https://www.bilibili.com/video/av28911978?p=1) / [Bilibili音频区](https://www.bilibili.com/audio/au37981?type=3)
 
-## 歌词
+## 试听与歌词
+
+<audio controls><source src="/assets/audio/song02.mp3" type="audio/mp3"></audio>
 
 ### 正式歌词
 
@@ -81,10 +85,7 @@ date:   2016-08-26 00:00:00 +0800
 太多的幸福要你知道 
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
 * 本曲初创顺序是第二首独立作。
-* Luong投稿的重制版作为2018年星尘生日曲而投稿，这也使本作成为了本人第二个在星尘生日当天投稿的作品。
-* 由于歌曲内容过于私人化，本人一直以来都将本曲作为最大黑历史。
-* 2016年的原版投稿被删除的原因实际上很复杂。原投稿的MV作者是洛微，因此原版实际上是本人与洛微的第一次实质合作。但本人在2018年7月和洛微发生不可调和的矛盾而绝交，在投稿时点对他仍然抱有极大的怨恨情绪，因此在我的怨念之中，我最终选择了删除该版本的《Hey Kuro》以及原版《枕边的日记》。
-* 但本人对外宣称的原稿删除原因（包括萌娘百科内容条目中）是卡Tag，即无论实际视频中有无Tag，在编辑稿件时都会被识别为"Tag不合格"，从而无法提交修改。
+* Luong投稿的重制版作为2018年星尘生日曲而投稿，这也使本作成为了Kuro Zim第二个在星尘生日当天投稿的作品。

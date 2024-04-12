@@ -1,31 +1,33 @@
 ---
 layout: post
-title:  "无攻略 ~Play Without Playthrough~"
-date:   2024-02-09 06:00:00 +0800
+title: "无攻略"
+subtitle: "Play Without Playthrough"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song24_aclim.jpg"
+  opacity: 0.24
+tags: 歌曲 DeepVocal 夏叶子 AcFun独家
+sidebar: []
 ---
 
 > 愿我们能在无攻略的生活中得到更多的快乐。
 
-> A Gift Song for 2024
+## 基本信息
 
-## 简介
+**先行首发日期：** 2024年2月8日（2024 AcFun新春庆典直播·暖场阶段）
 
-《无攻略》是由本人制作的DeepVocal中文原创歌曲，于2024年2月8日下午在“2024 AcFun 新春庆典”直播晚会暖场阶段首发，2024年2月9日在AcFun进行单品投稿。歌曲由夏叶子演唱。
+**正式发布日期：** 2024年2月9日
 
-## Staff
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim
 
-| 作词 作曲 编曲 后期 MV制作 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Kuro Zim | 夏叶子(DeepVocal) |
+**歌手：** 夏叶子 (DeepVocal)
 
-## 歌曲
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac43667235)
 
-| 版本 | 试听或地址 |
-| :--: | :--: |
-| 45s预告版 |[AcFun](https://www.acfun.cn/v/ac43435441) |
-| 正式版 |<audio controls><source src="/assets/audio/song24.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac43667235) |
+## 试听与歌词
 
-## 歌词
+<audio controls><source src="/assets/audio/song24.mp3" type="audio/mp3"></audio>
 
 <pre>
 如果 生活 可以 用寥寥几句说清
@@ -80,9 +82,13 @@ date:   2024-02-09 06:00:00 +0800
 始终 相信 没有攻略才最刺激
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
-* 本作是本人第一首制作完成的夏叶子原创曲，但由于AcFun相关活动的发布时间限制，在发布顺序上是第二首。
-* 在本作的MV中，本人首次将定格动画作为MV制作的一部分进行运用。
-* 本作预告片和MV中作为主角出现的玩偶是AC狮子娘摆件和LEGO™ Bionicle - 8903 Dekar。
-* 受活动发布影响，本曲目前仍然处于AcFun独家状态（目前已超过一个月），但已有将歌曲公开至其他平台的打算，实现方式可能是编曲重制优化。
+* 作为歌曲最初原案的预告版可查看[本视频](https://www.acfun.cn/v/ac43435441)。
+* 歌曲最初是为参加**2024 AcFun 新春庆典**征稿活动而制作的，实际完成时间在2024年1月。根据活动规则，单品必须在2月9日后才能公开发布，因此实际发布时间比《在地图尽头的城市》更早。
+* 由于活动稿件的性质，本歌曲在得到正式编曲重制之前会一直保持AcFun独家发布状态。
+* 预告片和MV中作为主角出现的玩偶是AC狮子娘摆件和LEGO™ Bionicle - 8903 Dekar。
+
+### 文本记录
+
+* [本作的创作后记](https://www.acfun.cn/a/ac43732815)

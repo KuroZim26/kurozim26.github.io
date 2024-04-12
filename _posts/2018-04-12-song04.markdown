@@ -1,37 +1,36 @@
 ---
 layout: post
-title:  "简单的歌 ~ A Simple Song ~"
-date:   2018-04-12 00:00:00 +0800
+title:  "简单的歌"
+subtitle: "A Simple Song"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song04.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 乐正绫 乐正绫生日作
+sidebar: []
 ---
 
 > 想用这首简单的歌，传达一份不简单的心意
 
-> 让曾经那首简单的旋律，更加艳丽而无畏地绽放吧
+## 基本信息
 
-## 简介
+**发布日期：** 2018年4月12日
 
-《简单的歌》是由本人制作的VOCALOID中文原创曲，最初于2018年4月12日发布在Bilibili，由乐正绫演唱。
+**作词、作曲、编曲、MV制作：** Kuro Zim
 
-另有一个重制版本“2020 Re:Sing ver.”，于2020年4月12日发布在Bilibili，由乐正绫演唱；另有一个合作衍生版本。
+**后期：** [DZ韦元子](https://space.bilibili.com/11589966)
 
-## Staff
+**歌手：** 乐正绫（VOCALOID3）
 
-| 作词 (2018版) 作曲 编曲 | 作词 (2020版) | 后期<br>VOCALOID调声 (2020版) | 曲绘 (2018版) | 曲绘 (2020版) | MV制作 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: |  :--: |  :--: | 
-| Kuro Zim | 后夏 | DZ韦元子 | 歌渝 | 陽川 | Kuro Zim | 乐正绫(VOCALOID) |
+**曲绘：** [歌渝](https://space.bilibili.com/17389346)
 
-## 歌曲
+**在线发布：** [Bilibili](https://www.bilibili.com/video/av21928922) / [Bilibili音频区](https://www.bilibili.com/audio/au287986?type=3) / [网易云音乐](https://music.163.com/song?id=552136655)
 
-| 版本 | 试听或地址 |
-| :--: | :--: |
-| 2018版 | <audio controls><source src="/assets/audio/song04v18.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av21928922) / [Bilibili音频区](https://www.bilibili.com/audio/au287986?type=3) / [网易云音乐](https://music.163.com/song?id=552136655) |
-| 2020版 | <audio controls><source src="/assets/audio/song04v20.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av625116268) |
 
-## 歌词
+## 试听与歌词
 
-两个版本的歌词不同，但本人仍将这两个版本视作同一首歌的不同衍生分支。
-
-### 2018版
+<audio controls><source src="/assets/audio/song04v18.mp3" type="audio/mp3"></audio>
 
 <pre>
 那一年的夏 头顶的太阳那么大
@@ -55,42 +54,6 @@ date:   2018-04-12 00:00:00 +0800
 La la la...
 </pre>
 
-### 2020版
+## 杂谈
 
-<pre>
-(尽管有时若即若离 但真的没关系)
-(尽管前方布满荆棘 我还默默陪着你)
-
-我 拾起这朵 遗忘了很多年的花
-拿出笔来 重新栽下 在旋律里茁壮成长
-等候 秋冬春夏 有耐心期待着发芽
-一首 简单的歌曲 轻声哼唱洁白无瑕
-反复 低语呢喃 黑白键五线谱皴擦
-绽放 淡妆浓抹 宫商角徵羽的风华
-
-也曾在微笑里哭泣 沉默不语欢欣
-也曾经在 披荆斩棘 黑夜中盲目追寻
-偶然一眼的突然清醒 打开珍贵记忆
-最后一首 简单的歌
-不仅仅献给你 也献给我自己
-
-也曾在微笑里哭泣 沉默不语欢欣
-也曾经在 披荆斩棘 黑夜中盲目追寻
-偶然一眼的突然清醒 打开珍贵记忆
-最后一首 简单的歌
-不仅仅献给你 也献给我自己
-
-也曾经把过去忘记 孤单陷入湍急
-也曾经把 胆怯隐匿 沉溺于无畏麻痹
-幸好拾起后能够开出 陌生熟悉旋律
-最后一首 简单的歌
-献给迷茫的你 给每一个的自己
-
-La la la...
-Woo...
-</pre>
-
-## 歌曲相关信息
-
-* 本作的两个版本均为为乐正绫的“生日”而投稿的原创歌曲，其中2020版的视频时长被控制在4分12秒，Neta了“4月12日”。
-* 加上由洛微以本曲旋律填词的合作曲《我们的歌》，本曲的旋律共有三种不同的歌词，这使本曲成为了目前本人唯一一首每一个版本的歌词都不一样的原创作品。
+* 加上由洛微以本曲旋律填词的合作曲《我们的歌》，本曲的旋律共有三种不同的歌词，这使本曲成为了目前作者的作品中歌词差分最多的一首。

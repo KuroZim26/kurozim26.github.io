@@ -1,7 +1,14 @@
 ---
 layout: post
 title:  "次元情书（可爱的你·重要的你）"
-date:   2017-08-12 00:00:00 +0800
+subtitle: "Love Letter Across the Screen"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song03.png"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 星尘 AUZ 姝制 SynthV 艾可 AC娘 UTAU 多版本 星尘生日作
+sidebar: []
 ---
 
 >  这是属于星尘的情歌，唱给屏幕前的你。<br>这也是属于我的情歌，唱给一直以来陪着我的你们。
@@ -12,56 +19,87 @@ date:   2017-08-12 00:00:00 +0800
 
 >  若你的吟唱能唤回沉眠于内心深处的美好，我的旋律就不是毫无意义。
 
-## 简介
+## 基本信息
 
-《次元情书》是由本人制作的VOCALOID中文原创曲，最初于2017年8月12日发布在Bilibili，由星尘 (VOCALOID)演唱。
+### 第一版（2017年8月）
 
-本曲拥有两个重制版本，其中第二版发布于2019年10月7日，第三版原编曲完成于2022年，改词差分发布于2023年1月12日，原词差分发布于2024年2月14日；另有一个日语填词版本，基于第三版编曲制作的Demo版发布于2022年12月14日。
+**发布日期：** 2017年8月12日
 
-## Staff
+**作词、作曲、编曲：** Kuro Zim
 
-### 歌曲制作
+**歌手：** 星尘 (VOCALOID4)
 
-| 中文作词 作曲 编曲<br>后期 (日语版·2023版) | 日语版歌词 | VOCALOID调声 后期 (2017版) | 后期 (2019版) | UTAU调声 后期（2024版）|
-| :--: | :--: | :--: | :--: | :--: |
-| Kuro Zim | キノコp | 黑方Serge | DZ韦元子 | 菊粉·二学课代表 |
+**VOCALOID调声&后期：** [黑方Serge](https://space.bilibili.com/448500)
 
-### 歌者
+**曲绘：** [阿鱼鱼w (Sameki)](https://space.bilibili.com/1636079)
 
-| 2017版 | 2019版 | 日语Demo版 | 2023版 | 2024版 |
-|  :--: | :--: | :--: | :--: | :--: |
-| 星尘 (VOCALOID) | AUZ + 姝制 | 花隈千冬 (Synthesizer V) | 艾可 (Synthesizer V) | AC娘本体-二代目音源 (UTAU) |
+**摄影素材：** 花桑puruKO
 
-### MV制作相关
+**MV制作：** [墨涛 (AlfredMT)](https://space.bilibili.com/3104111)
 
-| 曲绘 (2017版) | MV素材摄影 (2017版) | MV (2017版) | 曲绘 MV (2019版) | 曲绘（2024版前半段）<br>MV (日语Demo版 / 2023版 / 2024版)<br>MV素材摄影 (2023版 / 2024版) | 曲绘提供（2024版后半段）|
-| :--: | :--: | :--: | :--: | :--: |  :--: |  
-| 阿鱼鱼w | 花桑puruKO | 墨涛 | AUZ | Kuro Zim | Area酱 |
+**在线发布：** [Bilibili](https://www.bilibili.com/video/av13257396) / [Bilibili音频区](https://www.bilibili.com/audio/au326548?type=3) / [网易云音乐](https://music.163.com/song?id=497377154)
 
-* 日语Demo版MV使用了NAIFU AI生成的曲绘，观看时请注意。
+### 第二版（2019年10月）
 
-## 歌曲
+**发布日期：** 2019年10月7日
 
-| 版本 | 试听或地址 |
-| :--: | :--: |
-| 2017版 (Love Letter Across the Screen) | <audio controls><source src="/assets/audio/song03v17.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av13257396) / [Bilibili音频区](https://www.bilibili.com/audio/au326548?type=3) / [网易云音乐](https://music.163.com/song?id=497377154) |
-| 2019版 (To QY 2019 ver.) | <audio controls><source src="/assets/audio/song03v19.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av70396560) / [网易云音乐](https://music.163.com/song?id=1395620768) |
-| 2023版 (Re:Load ver.)<br>（2022编曲原词版） | <audio controls><source src="/assets/audio/song03v22mod.mp3" type="audio/mp3"></audio><br> [Bilibili](https://www.bilibili.com/video/BV1WD4y1W7FR/) | 
-| 2024版 (2022编曲原词版) | <audio controls><source src="/assets/audio/song03v22acchan.mp3" type="audio/mp3"></audio><br> [AcFun](https://www.acfun.cn/v/ac43760242) | 
-| 日语Demo版 (次元の恋文～画面の彼方へ～) | <audio controls><source src="/assets/audio/jigennokoibumi.mp3" type="audio/mp3"></audio><br> [AcFun](https://www.acfun.cn/v/ac40963855_3) / [Bilibili](https://www.bilibili.com/video/BV1ZP4y1D74a) |
+**作词、作曲、编曲：** Kuro Zim
 
-## 二次创作
+**歌手：** [AUZ](https://space.bilibili.com/8064923) + [姝制](https://space.bilibili.com/5208994)
 
-| 二次创作 | 相关链接 | 备注 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Cytoid自制谱<br>by Kuro Zim | [Cytoid](https://cytoid.io/levels/kurozim.loveletter_short) | 本人甚至打了个榜一 |
-| 翻唱 by [帮滂并不明白](https://space.bilibili.com/32342429) | [Bilibili](https://www.bilibili.com/video/BV18b411c7Q4/) | 基于第一版 |
-| 重编曲 by [智能P](https://space.bilibili.com/7619378)<br>歌者：星尘 洛天依 言和(VOCALOID) | [Bilibili](https://www.bilibili.com/video/BV1wD4y1m72q8) | |
-| 翻唱 by 歌者：[_StarWhisper](https://space.bilibili.com/40118938) | [Bilibili](https://www.bilibili.com/video/BV16t4y1c7Ak) | 基于第一版 |
+**后期：**[DZ韦元子](https://space.bilibili.com/11589966)
 
-## 歌词
+**曲绘、MV制作：** AUZ
 
-### 中文版（原词）
+**在线发布：** [Bilibili](https://www.bilibili.com/video/av70396560) / [网易云音乐](https://music.163.com/song?id=1395620768)
+
+### 第三版·改词差分（2023年1月）
+
+**发布日期：** 2023年1月12日
+
+**作词、作曲、编曲、后期、摄影素材、MV制作：** Kuro Zim
+
+**歌手：** 艾可 (Synthesizer V)
+
+**在线发布：** [Bilibili](https://www.bilibili.com/video/BV1WD4y1W7FR/)
+
+### 第三版·原词差分（2024年2月）
+
+**发布日期：** 2024年2月14日
+
+**作词、作曲、编曲、MV制作：** Kuro Zim
+
+**歌手：** AC娘本体-二代目音源 (UTAU)
+
+**UTAU音源制作、调声&后期：** [菊粉·二学课代表](https://www.acfun.cn/u/684188)
+
+**音源素材制作协力：** [八云玖](https://www.acfun.cn/u/54992.aspx)、[幼猫与星间向日葵](https://www.acfun.cn/u/11143550.aspx)、[半狼Akarin_Channel](https://www.acfun.cn/u/852888.aspx)
+
+**曲绘：** Kuro Zim（前半段）
+
+**曲绘素材借用：** [Area酱](https://www.acfun.cn/u/1050317.aspx)
+
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac43760242)
+
+## 试听及歌词
+
+![这是图片](/assets/images/songjacket/jacket_song03sp.jpg)
+
+### 第一版
+
+<audio controls><source src="/assets/audio/song03v17.mp3" type="audio/mp3"></audio>
+
+### 第二版
+
+<audio controls><source src="/assets/audio/song03v19.mp3" type="audio/mp3"></audio>
+
+### 第三版 改词差分
+
+<audio controls><source src="/assets/audio/song03v22mod.mp3" type="audio/mp3"></audio>
+
+### 第三版 原词差分
+
+<audio controls><source src="/assets/audio/song03v22acchan.mp3" type="audio/mp3"></audio>
 
 以下歌词适用于2017、2019、2024版。
 
@@ -104,9 +142,7 @@ date:   2017-08-12 00:00:00 +0800
 辉煌的那一天　我们约定好要　再一次相拥
 </pre>
 
-### 中文版（Re:Load）片段
-
-2023版的最后一段歌词有改动，具体如下。
+第三版改词差分的歌词改动具体如下。
 
 <pre>
 流星划过　照亮我孤单的轮廓
@@ -120,87 +156,17 @@ date:   2017-08-12 00:00:00 +0800
 辉煌的那一天　只要记得我们　约定的星空
 </pre>
 
-### 次元の恋文～画面の彼方へ～（日语版）
+## 杂谈
 
-日语版歌词大体是中文第一版歌词的翻译，部分地方有不同。
-
-<pre>
-ゼロと一の国　次元を超え
-  零和一的国度 超越了次元
-僕は　君の友達でしょうか。本当かな
-  我想知道 我们真的是朋友吗
-データの中で探している
-  在数据之中探寻
-孤独　心に残るよ
-  心里却只剩下孤独
-無限大な宇宙で 君と出会える
-  你和我在无限大的宇宙中相会
-涙がこらえきれず零れた
-  我忍不住落下了眼泪
-
-流れ星　流れる
-  流星划过
-この町の空 輝いているよ
-  照亮了这城市的夜空
-未来の僕　どうなっているの
-  未来的我究竟会怎样？
-寒いけど　君はずっと そばにいる
-  尽管天气寒冷 你一直陪在我身边
-
-いつも何気なく　悩んでいる
-  总是在不知觉中担心着
-幸運な女神 目をかけて
-  紧紧盯着幸运女神的迹象
-たとえ失敗し続けて、君はまた
-  就算依旧失败，你依然
-不器用な私を助ける
-  帮助着笨拙的我
-
-光陰が　矢のように過ぎ行く　
-  光阴似箭
-記憶の中で　君のことを書けよ
-  记忆中留下了你的痕迹
-平凡な僕　ずっと守るの
-  你一直守护着平凡的我
-この気持ち　君に届くかな
-  这份感情能否传达给你呢
-
-たとえ数年後　この歌を聞いて
-  就算数年之后再次听到这首歌
-たとえ忘れた　それでも大丈夫
-  就算忘记了，也没关系
-大切なあなたがいると
-  有重要的你在这里
-この温度でも　奇跡になった　君を乗せて
-  就算是这样的温度 有你在也变成了奇迹
-  
-流れ星　流れる
-  流星划过
-この町の空 輝いているよ
-  照亮了这片城市的天空
-未来の僕　どうなっているの
-  未来的我究竟会怎样？
-寒いけど　君はそばにいる
-  尽管天气寒冷 你一直陪在我身边
-
-暖かい空気が僕を包んで
-  温暖的空气包围了我
-いろいろな思い　溢れ出てしまう
-  种种感情在心中满溢
-不器用な僕　ずっと守るの
-  你一直守护着笨拙的我
-心から言いたいのは　ありがとう
-  想要对你说一声 “谢谢你”
-</pre>
-
-## 歌曲相关信息
-
-* 本作拥有三个不同版本的编曲，这是本人目前自编版本最多的原创作。
-* 本作也是本人第一首获得编曲重制的独立原创作。
-* 第一版是2017年的星尘生日纪念曲，也是第一首以虚拟歌姬生日为发布契机的独立作品；第二版则是AUZ为了纪念其已故的音乐老师QY而特意选曲翻唱的。第三版最初完稿于2022年9月，原来是与歌手栗七浔的合作曲（下文简称栗版），但由于合作关系切断，原版本被删除，因此本人在2023年初决定用Synthesizer V的艾可将该版本进行“填坑”。由于不满意2023年的改词，同时恰逢合作者菊粉·二学课代表的AC娘二代目UTAU音源需要有一个配布曲来发布，因此本人在2024年情人节将2023改词版的AcFun侧投稿删除（Bilibili版保留），并投稿基于原歌词的AC娘UTAU调音版，简称2024版。
-* 由于网易云政策限制，栗版音频无法按照其意愿立即下架。
 * “可爱的你·重要的你”是本作在2017年初创时的原案歌名。
 * 第一版的编曲使用移动设备制作完成，宿主为Caustic 3。
 * AC娘本体已在其账号上转评了2024版的投稿，代表本曲以及对应的AC娘二代目UTAU音源已获得AC娘本体本人的认可。
-* 日语版歌词早在2018年前后就已形成，是本人在微博活跃期间，在与キノコp的交流中获得的。在2022年年末制作该日语版投稿的原因有二，一是想把这个版本的歌词见见天日，二是试验一下花隈千冬的具体歌唱效果。
-* 第一版的曲绘作者阿鱼鱼w在Cytoid谱面信息中被标记为“Sameki”，MV作者墨涛被标记为“AlfredMT”。
+
+### 二次创作记录
+
+| 二次创作 | 相关链接 | 备注 |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
+| Cytoid自制谱<br>by Kuro Zim | [Cytoid](https://cytoid.io/levels/kurozim.loveletter_short) | 本人甚至打了个榜一 |
+| 翻唱 by [帮滂并不明白](https://space.bilibili.com/32342429) | [Bilibili](https://www.bilibili.com/video/BV18b411c7Q4/) | 基于第一版 |
+| 重编曲 by [智能P](https://space.bilibili.com/7619378)<br>歌者：星尘 洛天依 言和(VOCALOID) | [Bilibili](https://www.bilibili.com/video/BV1wD4y1m72q8) | |
+| 翻唱 by 歌者：[_StarWhisper](https://space.bilibili.com/40118938) | [Bilibili](https://www.bilibili.com/video/BV16t4y1c7Ak) | 基于第一版 |

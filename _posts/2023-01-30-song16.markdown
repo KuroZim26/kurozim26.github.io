@@ -1,32 +1,31 @@
 ---
 layout: post
 title:  "走吧，我们去流浪"
-date:   2023-01-30 00:00:00 +0800
+subtitle: "Let's Go for our Wanders"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song16.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 徵羽摩柯 ACE_Studio 文栗 Rap 生日作 AI绘图警告
+sidebar: []
 ---
 
 >  温柔只是无奈的伪装，敬请听好我未完成的乐章。
 
-## 简介
+## 基本信息
 
-《走吧，我们去流浪》是由本人制作的VOCALOID / ACE Studio中文原创曲，最初于2023年1月29日发布在AcFun和Bilibili，由徵羽摩柯和文栗演唱。
+**发布日期：** 2023年1月29日
 
-## Staff
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim
 
-| 作词 作曲 编曲 后期 MV制作 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Kuro Zim | 徵羽摩柯 (VOCALOID4)<br>文栗 (ACE Studio) |
+**歌手：** 徵羽摩柯 (VOCALOID4) / 文栗 (ACE Studio) 
 
-* MV使用了NAIFU AI生成的曲绘，观看时请注意。
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac40526272) / [Bilibili](https://www.bilibili.com/video/BV1c84y1L7td/)
 
-## 歌曲
+## 试听与歌词
 
-<audio controls>
-	<source src="/assets/audio/song16.mp3" type="audio/mp3">
-</audio>
-
-[AcFun](https://www.acfun.cn/v/ac40526272) / [Bilibili](https://www.bilibili.com/video/BV1c84y1L7td/)
-
-## 歌词
+<audio controls><source src="/assets/audio/song16.mp3" type="audio/mp3"></audio>
 
 <pre>
 捡起 久违的张狂（张狂）
@@ -167,9 +166,7 @@ WOH!!!!
 我们去流浪 我们去流浪
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
-* 本作是本人的第一首真正意义上的原创说唱。
-* 本作也是本人的26岁生日纪念作。
+* 本作是作者的26岁生日纪念作。
 * 本作的第一段Verse在内容和书写背景上和此前的《告别之夜》有关联。
-* 本作时长6分55秒（音频文件），是本人目前时间最长的原创曲。

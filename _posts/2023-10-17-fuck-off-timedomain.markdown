@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "关于停用时域科技相关软件的具体说明"
-date:	2023-10-17 00:00:00 +0800
+title: "2023-10-17：关于停用时域科技相关软件的具体说明"
+date: 2023-10-17 00:00:00 +0800
+categories: 文章
+tags: 创作工具 ACE_Studio
 ---
 
-## 说明
-
-本人此前已声明不会为ACE Studio盲目消费，而ACE Studio正式宣布付费化更新后，本人经过评估决定以后不再使用ACE Studio以及时域科技相关软件。
+[AcFun文章原文](https://www.acfun.cn/a/ac42674303)
 
 ## 正文
 
@@ -45,7 +45,3 @@ Synthesizer V、Cevio等卖的是技术，VOCALOID卖的是雅马哈的品牌。
 ## 余谈
 
 在本文发布后，时域科技后续又宣布了Pocket Singer的两个重要更新：11月中旬的模型更新和12月的付费化更新。
-
-## 相关链接
-
-* [AcFun文章原文](https://www.acfun.cn/a/ac42674303)

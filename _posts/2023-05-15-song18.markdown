@@ -1,31 +1,34 @@
 ---
 layout: post
 title:  "LOVE is My Key"
-date:   2023-05-15 00:00:00 +0800
+subtitle: "献给七年来的挣扎与交战"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song18.jpg"
+  opacity: 0.24
+tags: 歌曲 Rap 自唱 ACE_Studio 波音律
+sidebar: []
 ---
 
 >  Love is the Key, 试图在旋律和节奏之中编织理想。<br>Love is my Key, 试图在挣扎与交战之中寻求答案。<br>还能坚持下来吗？在这无法调和的内心交战之中。<br>
 若能，至少不要再以“幸福”的名义欺骗自己。
 
-## 简介
+## 基本信息
 
-《LOVE is My Key》是由本人制作并演唱的中文原创说唱曲（Hook使用了虚拟歌手），最初于2023年5月13日发布在AcFun和Bilibili。
+**发布日期：** 2023年5月13日
 
-## Staff
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim
 
-| 作词 作曲 编曲 后期 MV制作 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Kuro Zim | Kuro Zim (Verse)<br>波音律 (ACE Studio) (Hook) |
+**Rap部分歌手：** Kuro Zim
 
-## 歌曲
+**Hook部分歌手：** 波音律 (ACE Studio) 
 
-<audio controls>
-	<source src="/assets/audio/song18.mp3" type="audio/mp3">
-</audio>
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac41350810) / [Bilibili](https://www.bilibili.com/video/BV1K24y1K7tc/)
 
-[AcFun](https://www.acfun.cn/v/ac41350810) / [Bilibili](https://www.bilibili.com/video/BV1K24y1K7tc/)
+## 试听与歌词
 
-## 歌词
+<audio controls><source src="/assets/audio/song18.mp3" type="audio/mp3"></audio>
 
 <pre>
 - Intro -
@@ -171,20 +174,18 @@ Swing to the beat, Love is my key
 
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
 ### 用典和勘误
 
 1. 歌词“日常一成不变 跟随着我和你 循环到忘记 那是连续发生的奇迹”，Neta了日本动漫《[日常](https://kodansha.us/series/nichijou/)》的主题概括句：“我们所经历的每个平凡的日常，也许就是连续发生的奇迹。”（日々私たちが過ごしている日常は、実は、奇跡の連続なのかもしれない。）
 2. 歌词“空白的时光 是否可以看作Leap”中的单词“Leap”实际上应该是“Gap”，想表达的本意是学生毕业后，就业前的空档时间。
 3. 歌词“或许选择忘记 才可以解放自己”化用自林俊杰《忘记》歌词“难道说选择了忘记而解放了自己”。
-4. 歌词“早就习惯把自己看作一无所有 唯一朋友只有半瓶兑了水的酒”来源于本人的真实事件：2022年10月初，栗七浔发布《次元情书》翻唱版（由于私人原因，AcFun侧已删除投稿）后，本人为了庆祝作品发布而喝了半瓶牛栏山陈酿，把自己喝坏了。
+4. 歌词“早就习惯把自己看作一无所有 唯一朋友只有半瓶兑了水的酒”来源于作者本人的真实事件：2022年10月初，栗七浔发布《次元情书》翻唱版（由于私人原因，AcFun侧已删除投稿）后，作者为了庆祝作品发布而喝了半瓶牛栏山陈酿，把自己喝坏了。
 5. 歌词“就算是海面上那自由的鸟 也会想着 去码头 整点薯条”化用自互联网名梗，原作来源于加拿大漫画家乔舒亚·巴克曼（Joshua Barkman）创作的网络漫画系列《False Knees（我能有什么坏心思呢）》中的第319篇《What fries ahead》。
 6. Verse 3的最后四行化用自食指的现代诗《[相信未来](https://baike.baidu.com/item/%E7%9B%B8%E4%BF%A1%E6%9C%AA%E6%9D%A5/56396?)》第一节，在该段前也明示了“食指的诗句”。
 7. 歌词“这超现实的笔画只为我们存在”化用自林俊杰《子弹列车》歌词“爱这个字 变超现实的笔画 它是少数人才有的密码”。
 
 ### 其他
 
-* 本作是为纪念个人原创活动7周年而制作的特别作品。
-* 尽管内容上使用了《答案是爱》的副歌部分作为Hook，但本作本质上属于完全新作。
-* 本作是本人第一次在歌曲中尝试真人和虚拟歌手合唱的形式。
+* 本作是为纪念作者原创活动7周年而制作的特别作品。尽管内容上使用了《答案是爱》的副歌部分作为Hook，但本作本质上属于完全新作。

@@ -1,33 +1,31 @@
 ---
 layout: post
 title:  "告别之夜"
-date:   2023-01-07 00:00:00 +0800
+subtitle: "Night of Farewells"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song14.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 洛天依 SynthV SOLARIA AI绘图警告 Jumpscare警告
+sidebar: []
 ---
 
 >  Say a goodbye to my memories.
 
-## 简介
+## 基本信息
 
-《告别之夜》是由本人制作的ACE Studio / Synthsizer V中文原创曲，最初于2023年1月6日发布在AcFun和Bilibili，由洛天依演唱，SOLARIA伴唱。
+**发布日期：** 2023年1月6日
 
-## Staff
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim
 
-| 作词 作曲 编曲 后期 MV制作 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Kuro Zim | 洛天依 (ACE Studio)<br>SOLARIA (Synthesizer V) |
+**歌手：** 洛天依 (ACE Studio) / SOLARIA (Synthesizer V)
 
-* <font color="#ff0000"><b>本作音频存在Jumpscare要素（女孩惨叫声、玻璃碎裂声）。</b>
-* MV使用了NAIFU AI生成的曲绘，观看时请注意。
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac40363793) / [Bilibili](https://www.bilibili.com/video/BV1bR4y1m7wN/)
 
-## 歌曲
+### 试听与歌词
 
-<audio controls>
-	<source src="/assets/audio/song14.mp3" type="audio/mp3">
-</audio>
-
-[AcFun](https://www.acfun.cn/v/ac40363793) / [Bilibili](https://www.bilibili.com/video/BV1bR4y1m7wN/)
-
-## 歌词
+<audio controls><source src="/assets/audio/song14.mp3" type="audio/mp3"></audio>
 
 <pre>
 已经是凌晨一点 倔强的大脑始终不肯入眠
@@ -123,7 +121,7 @@ NO WAY
 那就头也不回
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
 ### 用典及隐藏信息
 
@@ -145,8 +143,3 @@ NO WAY
 3. 电话拨号段实际上是受到周杰伦《蓝色风暴》的编曲方式启发。
 4. 歌词“如果某天 必须要说再见 不如干脆 忘掉 能再见”启发自林俊杰的《黑夜问白天》。
 5. 歌曲的主题和部分立绘的关键词设计基本来自林俊杰歌曲《黑暗骑士》所附的微电影。
-
-### 其他
-
-* 本作是本人首次尝试中途变换曲风的作品。
-* 全曲创作背景与2022年年末与栗的绝交有关。

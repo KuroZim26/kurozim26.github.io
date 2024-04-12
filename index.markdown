@@ -3,14 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: 主页
-
+title: 首页
+banner: "/assets/images/banners/home.jpeg"
 ---
 
 ## Hi There, This is Kuro Zim.
 
-一个再普通不过，却永远不甘心的人。
-
-![这是图片](/assets/img/Misaki.png "我来陪你完成这个童话故事吧")
-
-> ……わかった、いーよ。そのうち飽きるかもだけど、まあそれまでは、あんたのおとぎばなしに付き合う 
+欢迎来到Kuro Zim的创作档案储藏室。这里存放了Kuro迄今为止各种形式的创作成果。

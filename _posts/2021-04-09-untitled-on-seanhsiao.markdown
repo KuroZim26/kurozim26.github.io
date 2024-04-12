@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "不需要标题了"
+title:  "2021-04-09：不需要标题了"
 date:   2021-04-09 11:51:00 +0800
+categories: 文章
+tags: 文章 个人安排 失格艺人 争议事件
 ---
 
-## 说明
-
-这是在Bilibili肖战开屏事件发生后，本人在Bilibili账号上发布的无限期停止活动宣言。
+[Bilibili专栏原文](https://www.bilibili.com/read/cv10732214/)
 
 ## 正文
 
@@ -33,7 +33,3 @@ date:   2021-04-09 11:51:00 +0800
 哪怕真的复出了也不可能以Kuro Zim的名号继续了不是？
 
 我的理智因为接触的事情太多而接近被消灭的边缘，是时候及时止损了。
-
-## 正文
-
-[Bilibili专栏原文](https://www.bilibili.com/read/cv10732214/)

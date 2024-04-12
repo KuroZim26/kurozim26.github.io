@@ -1,30 +1,36 @@
 ---
 layout: post
-title:  "FASTER "
-date:   2020-04-13 00:00:00 +0800
+title:  "FASTER"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song06.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 乐正绫 乐正绫生日纪念作
+sidebar: []
 ---
 
 > 感谢GRGE，中文EUROBEAT安排上了！
 
-## 简介
+## 基本信息
 
-《FASTER》是由本人制作的VOCALOID中文原创曲，最初于2020年4月12日发布在Bilibili，由乐正绫演唱。
+**发布日期：** 2020年4月12日
 
-## Staff
+**作词、作曲、编曲、MV制作：** Kuro Zim
 
-| 作词 作曲 编曲 MV制作 | VOCALOID调声 | 曲绘 | MV实景素材 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: |
-| Kuro Zim | 泉Chuen | 陌阮 | 北洛辰 歪歪 Kuro Zim | 乐正绫 (VOCALOID3) |
+**VOCALOID调声：** 泉Chuen
 
-## 歌曲
+**曲绘：** 陌阮
 
-<audio controls>
-	<source src="/assets/audio/song06.mp3" type="audio/mp3">
-</audio>
+**摄影素材：** 北洛辰 歪歪 Kuro Zim
 
-[Bilibili](https://www.bilibili.com/video/av625070837)
+**歌手：** 乐正绫 (VOCALOID3) 
 
-## 歌词
+**在线发布：**[Bilibili](https://www.bilibili.com/video/av625070837)
+
+## 试听与歌词
+
+<audio controls><source src="/assets/audio/song06.mp3" type="audio/mp3"></audio>
 
 <pre>
 这城市律动的速度　和我的心跳在同步
@@ -76,7 +82,6 @@ date:   2020-04-13 00:00:00 +0800
 从名为回忆的牢笼　全速逃出
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
-* 本作为本人第三首为乐正绫的“生日”而投稿的原创歌曲，因此时长被控制在4分12秒，Neta了“4月12日”。
-* 本作的制作过程参考了GRGE的Eurobeat教程。
+* 本曲时长4分12秒，Neta了乐正绫的生日，即“4月12日”。

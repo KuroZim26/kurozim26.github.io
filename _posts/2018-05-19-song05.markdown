@@ -1,43 +1,67 @@
 ---
 layout: post
-title:  "幸福的信念 ~Faith of Happiness~"
-date:   2018-05-19 00:00:00 +0800
+title:  "幸福的信念"
+subtitle: "Faith of Happiness"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song05a.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 星尘 AUZ ACE_Studio 洛天依 多版本 AI绘图警告
+sidebar: []
 ---
 
 > 如果说2016年处女作的主题是传递幸福，2017年次元情书的主题是感谢，那么今年这首曲子的主题，无疑就是抓住现在的幸福。
 
-## 简介
+## 基本信息
 
-《幸福的信念》是由本人制作的中文原创曲，最初于2018年5月19日发布在Bilibili，采取双本家发布方式。其中VOCALOID版由星尘 (VOCALOID)演唱，人声版由AUZ演唱。
+### 2018双本家版
 
-另有一个重制版本“2022 Re:Faith ver.”，于2022年12月2日发布在AcFun，由洛天依 (ACE Studio)演唱。
+**发布日期：** 2018年5月19日
 
-## Staff
+**作词、作曲、编曲：** Kuro Zim
 
-| 作词 作曲 编曲<br>MV制作 (2022版) | VOCALOID调声 (2018版) | VOCALOID版后期 (2018版) | 人声后期 (2018版) | 曲绘 MV制作 (2018版) | 歌者 |
-| :--: | :--: | :--: | :--: | :--: |  :--: | 
-| Kuro Zim | 黑方Serge | 大优君 | KmR | 久井茜 | 2018版：星尘 (VOCALOID4) / AUZ<br>2022版：洛天依 (ACE Studio) |
+**VOCALOID本家：** 星尘 (VOCALOID4)
 
-* 2022版MV使用了NAIFU AI生成的曲绘，观看时请注意。
+**VOCALOID调声：** [黑方Serge](https://space.bilibili.com/448500)
 
-## 歌曲
+**VOCALOID版后期：** [KmR](https://space.bilibili.com/802881)
 
-| 版本 | 试听或地址 |
-| :--: | :--: |
-| 2018 星尘 ver | <audio controls><source src="/assets/audio/song05v18sd.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av23611305) |
-| 2018 AUZ ver | <audio controls><source src="/assets/audio/song05v18auz.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/BV1tp411d7p5) / [网易云音乐](https://music.163.com/song?id=563912845) |
-| 2022 Re:Faith ver | <audio controls><source src="/assets/audio/song05v22.mp3" type="audio/mp3"></audio><br>[AcFun (正作)](https://www.acfun.cn/v/ac40004919) / [Bilibili (伊拾七 Demo)](https://www.bilibili.com/video/BV14u411x7uG) |
+**人声本家：** [AUZ](https://space.bilibili.com/8064923)
 
-## 二次创作
+**人声后期：** 大优君
 
-| 二次创作 | 相关链接 | 备注 |
-| :--: | :--: | :--: |
-| 舞蹈<br>by [水陌坠](https://space.bilibili.com/1502603) | [Bilibili](https://www.bilibili.com/video/BV19p411d7df) | 原创编舞 |
-| Cytoid自制谱<br>by Kuro Zim | [Cytoid (VOCALOID ver)](https://cytoid.io/levels/faithofhappiness)<br>[Cytoid (AUZ ver)](https://cytoid.io/levels/foh.vocalistfull)
-| 翻唱<br>by [某个不愿透露姓名的人](https://www.acfun.cn/u/684188) | [Bilibili](https://www.bilibili.com/video/BV12t411D7nM) |  |
-| 剧情微电影<br>by [霞幻Tani在日本](https://space.bilibili.com/16510497)<br>副导演：Alfabarh      领衔主演：兔叽 | [Bilibili](https://www.bilibili.com/video/BV1kx41197xf) | 作为UP主的毕业设计投稿 |
+**曲绘、MV制作：** [久井茜](https://space.bilibili.com/3435572)
 
-## 歌词
+**在线发布（VOCALOID本家）：** [Bilibili](https://www.bilibili.com/video/av23611305)
+
+**在线发布（人声本家）：** [Bilibili](https://www.bilibili.com/video/BV1tp411d7p5) / [网易云音乐](https://music.163.com/song?id=563912845)
+
+### 2022版
+
+**发布日期：** 2022年12月2日（AcFun）
+
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim
+
+**歌手：** 洛天依 (ACE Studio)
+
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac40004919) / [Bilibili (伊拾七 补档Demo版)](https://www.bilibili.com/video/BV14u411x7uG)
+
+## 试听与歌词
+
+![这是图片](/assets/images/songjacket/jacket_song05b.jpg)
+
+### 2018 星尘 ver.
+
+<audio controls><source src="/assets/audio/song05v18sd.mp3" type="audio/mp3"></audio>
+
+### 2018 AUZ ver.
+
+<audio controls><source src="/assets/audio/song05v18auz.mp3" type="audio/mp3"></audio>
+
+### 2022 ver.
+
+<audio controls><source src="/assets/audio/song05v22.mp3" type="audio/mp3"></audio>
 
 <pre>
 你眼中的我 带着一成不变的笑颜
@@ -78,13 +102,21 @@ date:   2018-05-19 00:00:00 +0800
 那过去不必再纠结 别放开你对幸福的信念 (Yeah~)
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
-* 本作实际上是本人的原创活动两周年纪念曲，在当时被定位为《幸福的语言》、《次元情书》的精神续作。
-* 本作的2018版是本人第一首也是目前唯一一首带人声本家投稿的VOCALOID曲。
+* 本作实际上是Kuro Zim的原创活动两周年纪念曲，在当时被定位为《幸福的语言》、《次元情书》的精神续作。
 
-## 歌曲相关内容
+### 文本记录
 
 > 如果让我重新理解和描述一下《幸福的信念》这首歌，我想我会说，这是一首略带「一脚跨出大门不再回头」味道的曲子——在那之后经历的一年多的空窗期，可能多少都和这首歌的完工有关系。如果说它有没有成为我真正想要表达想要完成的那一首，那答案绝对是否定的——严格来说，用作曲表达思想这件事其实应该算是没有止境和上限的，无论这首如何好，最好的却永远是尚未诞生的下一首吧。之所以突然提起来这首，是有感于团子姐再次把这首歌放到动态里分享出来。真的很感谢，团子姐真的是一个只要是用心做过的东西就会无比爱惜的人，单是这一点我就觉得，她是真正值得我去珍惜的优秀创作者——至少说现在最起码从想法上就认真面对作品的人真的不多了。谢谢你，再次谢谢你。 
 
 * [本作的创作背景和歌词解说（萌娘百科搬运档）](https://zh.moegirl.org.cn/%E5%B9%B8%E7%A6%8F%E7%9A%84%E4%BF%A1%E5%BF%B5#%E6%AD%8C%E6%9B%B2%E5%88%9B%E4%BD%9C%E8%83%8C%E6%99%AF)
+
+### 二次创作记录
+
+| 二次创作 | 相关链接 | 备注 |
+| :--: | :--: | :--: |
+| 舞蹈<br>by [水陌坠](https://space.bilibili.com/1502603) | [Bilibili](https://www.bilibili.com/video/BV19p411d7df) | 原创编舞 |
+| Cytoid自制谱<br>by Kuro Zim | [Cytoid (VOCALOID ver)](https://cytoid.io/levels/faithofhappiness)<br>[Cytoid (AUZ ver)](https://cytoid.io/levels/foh.vocalistfull)
+| 翻唱<br>by [某个不愿透露姓名的人](https://www.acfun.cn/u/684188) | [Bilibili](https://www.bilibili.com/video/BV12t411D7nM) |  |
+| 剧情微电影<br>by [霞幻Tani在日本](https://space.bilibili.com/16510497)<br>副导演：Alfabarh      领衔主演：兔叽 | [Bilibili](https://www.bilibili.com/video/BV1kx41197xf) | 作为UP主的毕业设计投稿 |

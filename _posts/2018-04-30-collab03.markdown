@@ -1,30 +1,38 @@
 ---
 layout: post
 title:  "被复制的宝藏"
-date:	2018-04-30 00:00:00 +0800
+subtitle: "Dublicated Treasure"
+author: "Kuro Zim × 洛微"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_collabo03.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 心华 星尘 联合创作
+sidebar: []
 ---
 
 >  新年快乐周大主教，祝你回归a股顺利，再见——黄旭东
 
-## 简介
+## 基本信息
 
-《被复制的宝藏》是由本人与洛微联合制作的VOCALOID中文原创曲，最初于2018年4月30日发布在Bilibili，由星尘和心华演唱。
+**发布日期：** 2018年4月30日
 
-## Staff
+**作词、MV制作：** 洛微
 
-| 作词 MV制作 | 作曲 编曲 | 后期 | 曲绘 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: |
-| 洛微 | 小黑 (Kuro Zim) | 紫荆7x | 铮了个粽子 + 雨兮 | 星尘 (VOCALOID4)<br>心华 (VOCALOID3) |
+**作曲、编曲：** Kuro Zim a.k.a. 小黑
+
+**后期：** 紫荆7x
+
+**曲绘：** 铮了个粽子 + 雨兮
+
+**歌手：**  星尘 (VOCALOID4)<br>心华 (VOCALOID3)
+
+**在线发布：** [Bilibili](https://www.bilibili.com/video/av22724448?p=1) / [网易云音乐](https://music.163.com/song?id=549768692)
+
 
 ## 歌曲
 
-<audio controls>
-	<source src="/assets/audio/collab03.mp3" type="audio/mp3">
-</audio>
-
-[Bilibili](https://www.bilibili.com/video/av22724448?p=1) / [网易云音乐](https://music.163.com/song?id=549768692)
-
-## 歌词
+<audio controls><source src="/assets/audio/collab03.mp3" type="audio/mp3"></audio>
 
 <pre>
 听说曾经你就是个流氓
@@ -58,9 +66,9 @@ date:	2018-04-30 00:00:00 +0800
 
 ## 歌曲相关信息
 
-* 本作是本人与洛微的第三次词曲合作，创作背景是2018年2月20日360旗下快视频盗取Bilibili用户账号及投稿的恶性事件。
+* 本作是Kuro Zim与洛微的第三次词曲合作，创作背景是2018年2月20日360旗下快视频盗取Bilibili用户账号及投稿的恶性事件。
 * 本作在洛微的企划作品中属于罕见的电音曲目。
 
-## 相关资料
+### 相关文字记录
 
 * [洛微发布的创作后记](https://www.bilibili.com/read/cv440367/)

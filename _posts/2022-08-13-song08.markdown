@@ -1,28 +1,30 @@
 ---
 layout: post
 title:  "NOW is the Time"
-date:   2022-08-13 00:00:00 +0800
+author: "Kuro Zim a.k.a. H1kawa26"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song08.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 星尘 星尘生日作
+sidebar: []
 ---
 
 >  五年前那个只会写抒情歌曲的我已经不复存在了。
 
-## 简介
+## 基本信息
 
-《Here I Am.》是由本人使用H1kawa26_名义制作的VOCALOID中文原创曲，最初于2022年7月12日发布在AcFun，由星尘演唱。
+**发布日期：** 2022年8月12日
 
-| 作词 作曲 编曲 后期 MV制作 | 歌者 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| H1kawa26_<br>(Kuro Zim) | 星尘 (VOCALOID4) |
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim a.k.a. H1kawa26_
 
-## 试听
+**歌手：** 星尘 (VOCALOID4)
 
-<audio controls>
-	<source src="/assets/audio/song08.mp3" type="audio/mp3">
-</audio>
+**在线发布：** [AcFun](http://www.acfun.cn/v/36373326)
 
-[AcFun](http://www.acfun.cn/v/36373326)
+## 试听与歌词
 
-## 歌词
+<audio controls><source src="/assets/audio/song08.mp3" type="audio/mp3"></audio>
 
 <pre>
 灼热的天 暴露空气中的心已开始冒烟
@@ -88,5 +90,4 @@ date:   2022-08-13 00:00:00 +0800
 
 ## 歌曲相关信息
 
-* 本作是目前为止本人最后一首用VOCALOID星尘制作的歌曲，也是第三首以星尘生日名义投稿的歌曲。
 * 本作最初是为ACFun官方举办的音乐舞蹈征稿活动“BELIEVE - 我与ACFun”制作的，活动结束后转为正常投稿名义。尽管当时的想法是制作活动指定推荐歌曲《BELIEVE》的Remix版，但由于实力不足，因此暂时搁置。而《BELIEVE》Remix于2023年6月正式制作完成并发布。

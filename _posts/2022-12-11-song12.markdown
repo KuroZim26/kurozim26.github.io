@@ -1,7 +1,14 @@
 ---
 layout: post
-title:  "小小的我 ~Greatness within Tinyness~"
-date:   2022-12-11 00:00:00 +0800
+title:  "小小的我"
+subtitle: "Greatness within Tinyness"
+author: "Kuro Zim"
+categories: 歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_song12.jpg"
+  opacity: 0.24
+tags: 歌曲 VOCALOID 徵羽摩柯 徵羽摩柯生日作 小子贼疯 自唱 多版本 AI绘图警告
+sidebar: []
 ---
 
 > 小小的我不再渺小，因为有每一个你，完整了我的存在意义。
@@ -10,40 +17,45 @@ date:   2022-12-11 00:00:00 +0800
 
 > 我已不再恐惧，因为渺小中真的藏着伟大。
 
-## 简介
+## 基本信息
 
-《小小的我》是由本人制作的VOCALOID中文原创曲，最初于2022年12月9日发布在AcFun，后于2022年12月10日发布在Bilibili，由徵羽摩柯演唱。
+### 第一版（2022年12月）
 
-本曲有两个重编版，分别发布于2023年5月18日和2024年1月29日；最初版的MV于2023年12月中下旬进行了一次换源。
+**发布日期：** 2022年12月9日（AcFun）2022年12月10日（Bilibili）
 
-## Staff
+**作词、作曲、编曲、后期、MV制作：** Kuro Zim
 
-| 作词 作曲 编曲 后期 全版本MV制作<br>歌者 (2023 Re1 Ver) | 歌者 (原版) | 词曲润色 歌者（Re2 Edition） | 后期（Re2 Edition） |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Kuro Zim | 徵羽摩柯 | 小子贼疯 | Mix一个旭 |
+**歌手：** 徵羽摩柯（VOCALOID4）
 
-## 歌曲
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac40082187) / [Bilibili](https://www.bilibili.com/video/BV1mP4y1Q7Yh/)
 
-### 原作
+### 第二版（2023年5月）
 
-| 版本 | 试听或地址 |
-| :--: | :--: |
-| 原版 |<audio controls><source src="/assets/audio/song12v22.mp3" type="audio/mp3"></audio><br> [AcFun](https://www.acfun.cn/v/ac40082187) / [Bilibili](https://www.bilibili.com/video/BV1mP4y1Q7Yh/) |
-| 2023 Re1版 男声Demo | <audio controls><source src="/assets/audio/song12v23mdemo.mp3" type="audio/mp3"></audio> |
-| 2023 Re1版 Self Cover | [AcFun](https://www.acfun.cn/v/ac41390699) / [Bilibili](https://www.bilibili.com/video/BV1Lu411x7fK/) |
-| 2023 Re1版 女声Demo | <audio controls><source src="/assets/audio/song12v23fdemo.mp3" type="audio/mp3"></audio> |
-| Re:2 Edition | <audio controls><source src="/assets/audio/song12v24pikachu.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac43634103) / [Bilibili](https://www.bilibili.com/video/BV1ZV411Q7WK/)
+**发布日期：** 2023年5月18日
 
-### 二次创作
+**作词、作曲、编曲、歌手、后期、MV制作：** Kuro Zim
 
-| 二次创作 | 相关链接 | 备注 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 片段清唱 by [一块肥猪肝](https://www.acfun.cn/u/4599324) | [AcFun](https://www.acfun.cn/v/ac40432618) | 视频中使用原MV截图 |
-| UTAU音源翻唱 by [菊粉·二学课代表](https://www.acfun.cn/u/684188)<br>音源：AC娘本体一代目(UTAU) | [AcFun](https://www.acfun.cn/v/ac40704707) | 直接使用原MV |
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac41390699) / [Bilibili](https://www.bilibili.com/video/BV1Lu411x7fK/)
 
-## 歌词
+### 第三版（2024年1月）
 
-小子贼疯对于Re:2 Edition的歌词进行了小部分润色。
+**发布日期：** 2024年1月29日
+
+**作词、作曲、编曲、MV制作：** Kuro Zim
+
+**歌手：** [小子贼疯](https://www.acfun.cn/u/15232)
+
+**后期：** Mix一个旭
+
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac43634103) / [Bilibili](https://www.bilibili.com/video/BV1ZV411Q7WK/)
+
+## 试听与歌词
+
+![这是图片](/assets/images/songjacket/jacket_song12sp.jpg "第三版特制封面")
+
+<audio controls><source src="/assets/audio/song12v24pikachu.mp3" type="audio/mp3"></audio>
+
+所有版本均使用同一份歌词，但小子贼疯对于第三版的歌词进行了小部分润色。鉴于该版本收听效果最佳，因此这里以该版本为主。
 
 <pre>
 那年的春季 雨淅淅沥沥 心里铺展着星空不管什么天气
@@ -84,11 +96,21 @@ date:   2022-12-11 00:00:00 +0800
 
 </pre>
 
-## 歌曲相关信息
+### 第一版
+
+<audio controls><source src="/assets/audio/song12v22.mp3" type="audio/mp3"></audio>
+
+### 第二版 Demo
+
+<audio controls><source src="/assets/audio/song12v23mdemo.mp3" type="audio/mp3"></audio>
+
+<audio controls><source src="/assets/audio/song12v23fdemo.mp3" type="audio/mp3"></audio>
+
+## 杂谈
 
 ### 用典和相关Neta
 
-1. 本作最后一段前的歌词全部是对本人过往作品（截至2022年12月前的大部分独立作品和合作作品）的提及和暗示，而第一版MV的曲绘内容也与对应的作品主题有所对应。
+1. 本作最后一段前的歌词全部是对作者过往作品（截至2022年12月前的大部分独立作品和合作作品）的提及和暗示，而第一版MV的曲绘内容也与对应的作品主题有所对应。
 * 提及的作品包括《幸福的语言》、《Hey Kuro》、《枕边的日记》（合作曲）、《次元情书 (可爱的你·重要的你)》、《Purewhite Dream》（合作曲）、《简单的歌》、《被复制的宝藏》（合作曲）、《幸福的信念》、《FASTER》、《Here I Am》、《NOW is the Time》、《昨日雨·今日晴》、《答案是爱》。
 2. 歌曲的旋律多次引用《昨日雨·今日晴》：第二段主歌部分旋律出自该曲前奏，最后一段的部分旋律和歌词出自该曲副歌。
 3. 第一版MV中出现了基于三首关键作品（《幸福的语言》、《次元情书 (可爱的你·重要的你)》、《幸福的信念》）的六个版本的曲拟人形象。
@@ -97,7 +119,16 @@ date:   2022-12-11 00:00:00 +0800
 
 ### 其他
 
-* 本作是对本人到2022年年底为止的创作历程的总结曲。
+* 本作是对作者到2022年年底为止的创作历程的总结曲。
 * 本作在AcFun和Bilibili的首发分别采用了不同的名义：AcFun侧曾参与2023年站内春节直播征稿“兔年大作战”（后通过删除活动Tag主动退出），而Bilibili侧则作为徵羽摩柯生日曲发布。
-* 2023 Re1版作为Self Cover版本，是本人首次全流程仅靠自己完成而不借助虚拟歌手和AI绘画的原创作品。投稿时参与了“ACFUN声唱2023云参赛”活动，但在FUN声唱赛季结束后移除了相关标识。
-* 2024 Re:2 Edition版的最终成稿与原版发布仅差一年零一个半月。
+
+### 文本记录
+
+[第三版制作心得感想](https://www.acfun.cn/a/ac43189092)
+
+### 二次创作记录
+
+| 二次创作 | 相关链接 | 备注 |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
+| 片段清唱 by [一块肥猪肝](https://www.acfun.cn/u/4599324) | [AcFun](https://www.acfun.cn/v/ac40432618) | 视频中使用原MV截图 |
+| UTAU音源翻唱 by [菊粉·二学课代表](https://www.acfun.cn/u/684188)<br>音源：AC娘本体一代目(UTAU) | [AcFun](https://www.acfun.cn/v/ac40704707) | 直接使用原MV |

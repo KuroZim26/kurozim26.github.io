@@ -1,22 +1,25 @@
 ---
-layout: page
-title: 关于本站
-permalink: /about/
+layout: about
+title: 关于
 ---
 
-> 在荒芜之时存新生之念，在终焉之地奏起源之歌。 
+## 关于本人
 
-## 基本情况和致谢
+在下Kuro Zim，一个再普通不过的小小创作者。曾经在中文VOCALOID圈流浪多年，如今脱离圈子，与来自互联网与生活的种种挑战对线中。
 
-本站点由[Kuro Zim](https://www.acfun.cn/u/30346233)基于[jekyll](https://github.com/jekyll/jekyll)在Github Pages搭建，采用Jekyll的默认主题[minima](https://github.com/jekyll/minima)进行内容组织。
+来到这里的各位可以用以下方式联系到我，或添加游戏好友。
 
-对本站的部分组织方案参考了以下网站，在此表示感谢。
+| **QQ** | 531312402 |
+| **邮箱** | 531312402@qq.com<br>kurozim17419@gmail.com |
+| **AcFun** | 主活跃账号：[KuroZim26-音符菌](https://www.acfun.cn/u/30346233)<br>副账号：[中村特别行动队-NKMR](https://www.acfun.cn/u/2290378)
+| **Bilibili** | [KuroZim26-音符菌](https://space.bilibili.com/16228948) |
+| **明日方舟（官服）** | 廿六音府#1762<br>好友码：349165310 |
 
-[Just Call Me Jax  - 个性化 Jekyll 博客](https://jaxvanyang.github.io/jekyll/personalize/2021/11/23/personalize-jekyll-blog.html)
+## 关于本站
 
-## 站点更新和计划
+本站点由[Kuro Zim](https://www.acfun.cn/u/30346233)基于[jekyll](https://github.com/jekyll/jekyll)在Github Pages搭建。
 
-目前站点主体已经构建完毕，现阶段随着实际内容的更新进行跟进和修改。网站主题等美化部分可能要在很久之后，想起来再去更新。
+于2024年4月12日改用[YAT](https://github.com/jeffreytse/jekyll-theme-yat)主题重新排版并组织内容。
 
 ## 关于我与萌娘百科
 
@@ -24,7 +27,7 @@ permalink: /about/
 
 虽然本人作为优编（巡查豁免）而拥有白嫖会员权益（所谓特殊贡献用户组）的资格，但萌娘百科早已不是最初的那个“百科”了。商业力量介入后，Mediawiki的自由精神就荡然无存。如果要列举具体表现的话——萌百官方强推的新版“劝退”首页，根本就不是基于MediaWiki构建的。当然这只是其中的最小一部分。
 
-![这是图片](/assets/img/mgpdmirror.png "来自镜像站的提示")
+![](/assets/images/mgpdmirror.png){: .center-block :}
 
 再反思一下我自己的行为——萌娘百科的用户页，实际上不应该纯粹地作为“个人主页”。从2016年斗胆给自己的歌曲写下萌娘百科介绍页以来，我在互联网上的个人自述很大程度上都是基于萌娘百科实现的。但现实告诉我，这样的“个人主页”并不稳固，想要真正对个人资料拥有完整的掌控权，最安全的方法就是把它们存到本地。如果非要向外展示，最好也是找一个自己能够充分掌控内容的地方。所以在多种个人主页搭建方案中兜兜转转，最终选择了Github Pages作为我搭建个人主页的平台。这种手段并不能完美实现我最初设想的“展示音频创作”的目的，但有一个记录和存放的地方，就已经足够了。
 
@@ -35,12 +38,8 @@ permalink: /about/
 * [萌百文字存档 - 最终历史版本](https://zh.moegirl.org.cn/index.php?title=User:T.E.Zimmern/%E6%96%87%E5%AD%97%E5%AD%98%E6%A1%A3&oldid=67402500)
 * [作品名录 - 最终历史版本](https://zh.moegirl.org.cn/index.php?title=User:T.E.Zimmern/%E4%BD%9C%E5%93%81%E5%90%8D%E5%BD%95&oldid=69990060)
 
-## 致各位
+## 后记
 
-![这是图片](/assets/img/AshitaENoProgram.png "Tomorrow Program")
+![这是图片](/assets/images/AshitaENoProgram.png "Tomorrow Program")
 
-__台本のない未来　リハなんてない明日って番組　生放送を作っていこう　段取るのは...キミだよ__
-
-没有为未来准备的台本 明天是没有彩排的节目 每天都是现场直播 做了这一切安排的人就是...你啊
-
-——《Tomorrow Program》トゥインクルリズム
+>**台本のない未来**<br>没有为未来准备的台本<br>**リハなんてない明日って番組**<br>明天是没有彩排的节目<br>**生放送を作っていこう**<br>每天都是现场直播<br>**段取るのは...キミだよ**<br>做了这一切安排的人就是...你啊<br>——[《Tomorrow Program》トゥインクルリズム](https://music.163.com/#/song?id=549309012)

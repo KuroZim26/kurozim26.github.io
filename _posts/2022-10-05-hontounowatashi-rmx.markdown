@@ -1,25 +1,37 @@
 ---
 layout: post
-title:  "ホントウノワタシ (Kuro Zim Remix)"
-date:	2022-10-05 00:00:00 +0800
+title:  "ホントウノワタシ"
+subtitle: "Kuro Zim's “Once Upon a Rainy Night” Remix"
+author: "Kuro Zim"
+categories: Remix歌曲
+banner: 
+  image: "/assets/images/songjacket/jacket_kotohas2rmx.jpg"
+  opacity: 0.24
+tags: 歌曲 Remix 偶像大师百万现场 田中琴叶 同人 洛天依 声优梗
+sidebar: []
 ---
 
 > 在很久前的雨夜，是你在歌中也唱起了我。
 
+## 基本信息
 
-## 简介
+**发布日期：** 2022年10月4日
 
-《ホントウノワタシ (Kuro Zim's "Once Upon a Rainy Night" Remix)》是本人对《偶像大师百万现场》歌曲《ホントウノワタシ》制作的同人Remix，最初于2022年10月4日发布在AcFun，后补档于Bilibili。
+**原作词：** 藤本記子
 
-## 歌曲
+**原作曲：** 野井洋児
 
-<audio controls>
-	<source src="/assets/audio/kotohas2rmx.mp3" type="audio/mp3">
-</audio>
+**原唱：** 田中琴叶（CV：种田梨沙）  
 
-[AcFun](https://www.acfun.cn/v/ac39037364) / [Bilibili](https://www.bilibili.com/video/BV1t84y1W71X/)
+**Remix、MV制作：** Kuro Zim
 
-## 歌词
+**Remix伴唱：** 洛天依 (VOCALOID4 JPN)
+
+**在线发布：** [AcFun](https://www.acfun.cn/v/ac39037364) / [Bilibili](https://www.bilibili.com/video/BV1t84y1W71X/)
+
+## 试听与歌词
+
+<audio controls><source src="/assets/audio/kotohas2rmx.mp3" type="audio/mp3"></audio>
 
 <pre>
 「大丈夫　君は強い人だから」と
@@ -74,7 +86,7 @@ date:	2022-10-05 00:00:00 +0800
 ずっと　信じてゆける　私だから
 </pre>
 
-## 歌曲相关信息
+## 杂谈
 
 * 本Remix是田中琴叶生日纪念作。
 * 过渡段的念白出自手游《偶像大师 百万现场 剧场时光》（MLTD）中，田中琴叶的角色语音。
