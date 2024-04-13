@@ -78,4 +78,4 @@ sidebar: []
 
 ### 文本记录
 
-[本作的创作后记](https://www.acfun.cn/a/ac41036766)
+本作的创作后记：[AcFun文章](https://www.acfun.cn/a/ac41036766) / [Bilibili专栏](https://www.bilibili.com/read/cv22885588/)
