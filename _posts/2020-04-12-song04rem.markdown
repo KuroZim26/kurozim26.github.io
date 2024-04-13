@@ -31,7 +31,7 @@ sidebar: []
 
 ## 试听与歌词
 
-<audio controls><source src="/assets/audio/song04v20.mp3" type="audio/mp3">
+<audio controls><source src="/assets/audio/song04v20.mp3" type="audio/mp3"></audio>
 
 <pre>
 (尽管有时若即若离 但真的没关系)
