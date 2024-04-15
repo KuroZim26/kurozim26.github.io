@@ -81,7 +81,7 @@ Vocal by 赤羽 (Synthesizer V)
 
 <audio controls><source src="/assets/audio/song22demo.wav" type="audio/wav"></audio>
 
-## 杂谈
+## 杂记
 
 * 本作是虚拟UP主兎乃的生日纪念曲，也是她出道以来第一次演唱原创新曲。
 * 本作的歌词写于2018年前后。

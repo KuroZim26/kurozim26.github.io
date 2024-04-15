@@ -7,13 +7,15 @@ categories: 歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_song11_ritsu.jpg"
   opacity: 0.24
-tags: 歌曲 ACE_Studio 波音律 虚拟UP主 茗魂 AI绘图警告
+tags: 歌曲 ACE_Studio 波音律 虚拟UP主 茗魂 朱聂 AI绘图警告
 sidebar: []
 ---
 
 >  始终坚信着，爱的美好，是足以穿破黑夜的内心之光。
 
 ## 基本信息
+
+<font color="#8b0000">**提示：**本曲存在使用AI技术生成曲绘的[次要版本](https://www.acfun.cn/v/ac40963855_2)。</font>
 
 ### 波音律版
 
@@ -31,7 +33,9 @@ sidebar: []
 
 **作词、作曲、编曲、MV制作：** Kuro Zim
 
-**歌手：** 茗魂
+**歌手：** [茗魂](https://www.acfun.cn/u/17912421)
+
+>**特别说明：**作为虚拟UP主的茗魂已于2024年3月末在AcFun和Bilibili毕业，并在AcFun以原账号转生为ChaosLive旗下的企业势虚拟UP主朱聂（在Bilibili侧为换号转生），其[自我介绍视频](https://www.acfun.cn/v/ac44324547)已用画面的形式明确提及“茗魂”作为前世的存在（0:25 - 0:30）。
 
 **后期：** [梁梓逸](https://www.acfun.cn/u/33999892)
 
@@ -100,7 +104,7 @@ sidebar: []
 <audio controls><source src="/assets/audio/song11ritsu.mp3" type="audio/mp3"></audio>
 <audio controls><source src="/assets/audio/song11willy.mp3" type="audio/mp3"></audio>
 
-## 杂谈
+## 杂记
 
 ### 用典及Neta
 
@@ -111,12 +115,7 @@ sidebar: []
 
 * 茗魂版性质上是生日纪念作，但该翻唱实际上在2022年11月23日歌曲首发时就已列入其翻唱计划。
 * 本作的MV和封面于2023年8月10日（即茗魂版发布当日）进行了一次换源，换源版本包括AcFun / Bilibili发布的波音律版。该MV与茗魂版MV在内容上基本相同，但茗魂版MV增加了一些独有要素。
-* 使用AI绘的最初版MV仍存在于文栗版的在线公开投稿中([详见此处](https://www.acfun.cn/v/ac40963855_2))。
 
 ### 相关文字记录
 
 [这首好听啊！有这么优秀的原创编曲人在a站做dd，多来点关注呜呜呜](https://www.acfun.cn/moment/am2996695)
-
-### 备注
-
-茗魂目前已毕业，并以原账号转生为ChaosLive旗下的企业势虚拟UP主[朱聂](https://www.acfun.cn/u/17912421)。

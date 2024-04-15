@@ -7,7 +7,7 @@ categories: 歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_song18.jpg"
   opacity: 0.24
-tags: 歌曲 Rap 自唱 ACE_Studio 波音律
+tags: 歌曲 Rap 自唱 ACE_Studio 波音律 衍生作品
 sidebar: []
 ---
 
@@ -174,7 +174,7 @@ Swing to the beat, Love is my key
 
 </pre>
 
-## 杂谈
+## 杂记
 
 ### 用典和勘误
 

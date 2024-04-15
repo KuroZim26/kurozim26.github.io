@@ -7,7 +7,7 @@ categories: 歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_song20.png"
   opacity: 0.24
-tags: 歌曲 Rap 自唱 ACE_Studio 文栗 云灏 然糊糊
+tags: 歌曲 Rap 自唱 ACE_Studio 文栗 云灏 然糊糊 衍生作品
 sidebar: []
 ---
 
@@ -127,7 +127,7 @@ You gonna die
 好吗
 </pre>
 
-## 杂谈
+## 杂记
 
 ### 用典
 

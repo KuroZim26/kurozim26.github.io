@@ -7,7 +7,7 @@ categories: 歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_song04sp.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID 乐正绫 乐正绫生日作 重制作 联合创作
+tags: 歌曲 VOCALOID 乐正绫 乐正绫生日作 重制作 联合创作 多版本
 sidebar: []
 ---
 
@@ -66,6 +66,6 @@ La la la...
 Woo...
 </pre>
 
-## 杂谈
+## 杂记
 
 * 本曲视频时长4分12秒，Neta了乐正绫的生日，即“4月12日”。

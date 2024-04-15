@@ -6,13 +6,15 @@ categories: 歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_song19.png"
   opacity: 0.24
-tags: 歌曲 Pocket_Singer ACE_Studio 实验性作品
+tags: 歌曲 Pocket_Singer ACE_Studio 实验性作品 AI绘图警告
 sidebar: []
 ---
 
 >  一首极为简单的晚安曲。
 
 ## 基本信息
+
+<font color="#8b0000">**提示：**本曲封面和主体曲绘使用AI技术生成。</font>
 
 **发布日期：** 2023年5月28日
 
@@ -41,7 +43,7 @@ sidebar: []
 于是静静躺在孤单的夜空
 </pre>
 
-## 杂谈
+## 杂记
 
 * 本作时长1分6秒（音频长度），全部使用移动设备完成，属于实验性作品。
 1. 歌唱音频采用Pocket Singer（[App Store 日区](https://apps.apple.com/jp/app/pocket-singer-%E3%83%9E%E3%82%A4%E3%82%AA%E3%83%AA%E3%82%AD%E3%83%A3%E3%83%A9-%E6%AD%8C%E3%81%88%E3%81%BE%E3%81%99/id1665512424) / [Google Play](https://play.google.com/store/apps/details?id=com.accidental.ocsinger&pli=1)）生成。

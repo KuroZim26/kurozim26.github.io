@@ -27,7 +27,6 @@ sidebar: []
 
 <audio controls><source src="/assets/audio/song11jpdemo.mp3" type="audio/mp3"></audio>
 
-
 <pre>
 悪夢から目覚めて、呼吸はまだ乱れる
 	从噩梦中醒来，呼吸还很紊乱
@@ -93,6 +92,6 @@ sidebar: []
 	你一定会找到这个答案
 </pre>
 
-## 杂谈
+## 杂记
 
 * 日语版恰好在原作中文版投稿一周年当日投稿。

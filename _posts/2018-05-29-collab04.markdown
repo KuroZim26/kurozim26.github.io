@@ -7,7 +7,7 @@ categories: 歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_collabo04.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID 乐正绫 洛天依 联合创作
+tags: 歌曲 VOCALOID 乐正绫 洛天依 联合创作 多版本 衍生作品
 sidebar: []
 ---
 
@@ -55,6 +55,6 @@ sidebar: []
 一直循环下去　回响在你我心底
 </pre>
 
-## 杂谈
+## 杂记
 
 本曲封面与原作《简单的歌（2018版）》互相对应。
