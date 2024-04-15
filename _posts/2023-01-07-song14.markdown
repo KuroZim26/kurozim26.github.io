@@ -15,11 +15,13 @@ sidebar: []
 
 ## 基本信息
 
-<font color="#8b0000">**提示：**本曲封面和主体曲绘使用AI技术生成。</font>
+<font color="#8b0000">提示：本曲封面和主体曲绘使用AI技术生成。</font>
 
-<font color="#8b0000">**警告：**本曲存在Jumpscare（具体表现为高分贝叫声采样）。</font>
+<font color="#ff0000">警告：本曲存在Jumpscare（具体表现为高分贝叫声采样）。</font>
 
 **发布日期：** 2023年1月6日
+
+**风格与曲速：** 62BPM → 124BPM / Retro Pop + Dark Acid Electro
 
 **作词、作曲、编曲、后期、MV制作：** Kuro Zim
 

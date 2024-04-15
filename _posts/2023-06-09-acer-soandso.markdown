@@ -17,6 +17,8 @@ sidebar: []
 
 **发布日期：** 2023年6月9日
 
+**风格与曲速：** 88BPM / Dark Ambient Hip-Hop
+
 **原作曲：** 张震岳
 
 **重填词、重编曲、演唱、MV制作：** Kuro Zim

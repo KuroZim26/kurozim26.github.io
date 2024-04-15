@@ -19,11 +19,13 @@ sidebar: []
 
 ## 基本信息
 
-<font color="#8b0000">**提示：**本曲存在使用AI技术生成曲绘的[次要版本](https://www.acfun.cn/v/ac400821875_2)。</font>
+<font color="#8b0000">提示：本曲存在使用AI技术生成曲绘的</font>[次要版本](https://www.acfun.cn/v/ac400821875_2)<font color="#8b0000">。</font>
 
 ### 第一版（2022年12月）
 
 **发布日期：** 2022年12月9日（AcFun）2022年12月10日（Bilibili）
+
+**风格与曲速：** 75BPM / Pop
 
 **作词、作曲、编曲、后期、MV制作：** Kuro Zim
 
@@ -37,6 +39,8 @@ sidebar: []
 
 **发布日期：** 2023年5月18日
 
+**风格与曲速：** 75BPM / Dreamy Pop
+
 **作词、作曲、编曲、歌手、后期、MV制作：** Kuro Zim
 
 **在线发布：** [AcFun](https://www.acfun.cn/v/ac41390699) / [Bilibili](https://www.bilibili.com/video/BV1Lu411x7fK/)
@@ -44,6 +48,8 @@ sidebar: []
 ### 第三版（2024年1月）
 
 **发布日期：** 2024年1月29日
+
+**风格与曲速：** 75BPM / Rock Pop
 
 **作词、作曲、编曲、MV制作：** Kuro Zim
 

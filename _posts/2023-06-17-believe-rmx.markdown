@@ -17,6 +17,8 @@ sidebar: []
 
 **发布日期：** 2023年6月16日
 
+**风格与曲速：** 154BPM / Happy Hardcore + Neurofunk
+
 **原作词：** [妖狐公子](https://www.acfun.cn/u/16073533.aspx)
 
 **原作曲：** [炎羽瑾](https://www.acfun.cn/u/1064245.aspx)、[小勒个朵](https://www.acfun.cn/u/14335477.aspx)

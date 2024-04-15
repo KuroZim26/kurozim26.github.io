@@ -15,9 +15,11 @@ sidebar: []
 
 ## 基本信息
 
-<font color="#8b0000">**提示：**本曲的封面，以及AcFun侧的主体曲绘使用AI技术生成。</font>
+<font color="#8b0000">提示：本曲的封面，以及AcFun侧的主体曲绘使用AI技术生成。</font>
 
 **发布日期：** 2023年4月1日（AcFun） / 2023年4月12日（Bilibili）
+
+**风格与曲速：** 72BPM / Rock Pop
 
 **作词、作曲、编曲、后期、MV制作：** Kuro Zim
 
