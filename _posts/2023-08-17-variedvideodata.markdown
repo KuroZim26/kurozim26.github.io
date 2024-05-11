@@ -43,13 +43,21 @@ tags: 资料整合
 | ホントウノワタシ | [種田梨沙 - ホントウノワタシ](https://y.qq.com/n/ryqq/songDetail/0033oCjs1i2oL4) | 花隈千冬 (Synthesizer V) | [AcFun](https://www.acfun.cn/v/ac39983033) |
 | 说好不阳 | [周杰伦 - 说好不哭 (with 五月天阿信)](https://y.qq.com/n/ryqq/songDetail/001qvvgF38HVc4)<br>填词：Kuro Zim | 徵羽摩柯 (VOCALOID)<br>文栗 (ACE Studio) | [AcFun](https://www.acfun.cn/v/ac40224516) |
 | Sing a Wing Song | [種田梨沙 - Sing a Wing Song](https://music.163.com/#/song?id=2003293900) | 花隈千冬 (Synthesizer V) | [AcFun](https://www.acfun.cn/v/ac40436097) |
-| 没有情人的情人节 (ft. Bongo Cat) | [孟庭苇 - 没有情人的情人节](https://music.163.com/#/song?id=276734)<br>重编曲：Kuro Zim | 艾可 (Synthesizer V) | [AcFun](https://www.acfun.cn/v/ac40654639) [Bilibili](https://www.bilibili.com/video/BV1114y1c77y/) 
+| 没有情人的情人节 (ft. Bongo Cat) | [孟庭苇 - 没有情人的情人节](https://music.163.com/#/song?id=276734)<br>重编曲：Kuro Zim | 艾可 (Synthesizer V) | [AcFun](https://www.acfun.cn/v/ac40654639) [Bilibili](https://www.bilibili.com/video/BV1114y1c77y/) |
 | アライブファクター | [今井麻美 / 田所あずさ - アライブファクター](https://music.163.com/#/song?id=38014491) | 花隈千冬 (Synthesizer V)<br>波音律 (ACE Studio) | [AcFun](https://www.acfun.cn/v/ac40963855_4) |
-| 脑天直击未公开片段，但是Pocket Singer | [脑天直击未公开片段](https://www.bilibili.com/video/BV1gu411Z7Bo/?spm_id_from=333.788.video.desc.click) | Pocket Singer自制歌手 | [Bilibili](https://www.bilibili.com/video/BV1FX4y1J7E6/)
+| 脑天直击未公开片段，但是Pocket Singer | [脑天直击未公开片段](https://www.bilibili.com/video/BV1gu411Z7Bo/?spm_id_from=333.788.video.desc.click) | Pocket Singer自制歌手 | [Bilibili](https://www.bilibili.com/video/BV1FX4y1J7E6/) |
+| 上赛法则 | [DECO*27 / 初音ミク - ゴーストルール](https://music.163.com/#/song?id=432486470) | 夏叶子 (DeepVocal)<br>和声：起氏双子（DeepVocal） | [AcFun](https://www.acfun.cn/v/ac44380377) / [Bilibili](https://www.bilibili.com/video/BV1AZ421J7U1/) 
 
 ## 二、音乐综合创作
 
-### 1. 器乐向改编
+### 1. 非正式原创
+
+| 标题 | 链接 |
+| 四个原创短片段 | [Bilibili](https://www.bilibili.com/video/BV1oJ411271c/) | 
+| NOW is the Time 30分钟循环版 | [AcFun](https://www.acfun.cn/v/ac36767192) |
+| 肛门紧缩术，但AI不使用 | [AcFun](https://www.acfun.cn/v/ac44218520) / [Bilibili](https://www.bilibili.com/video/BV1fZ421q7Lx/) |
+
+### 2. 器乐改编
 
 | 歌曲 | 乐器 | 试听链接 |
 | :--: | :--: | :--: |
@@ -69,7 +77,7 @@ tags: 资料整合
 | Kuro Zim - 答案是爱 | FamiStudio (副歌Loop) | [AcFun](https://www.acfun.cn/v/ac42478969) |
 | [ストレイライト - Timeless Shooting Star](https://y.qq.com/n/ryqq/songDetail/001PUnGa0H4MHo) | FamiStudio (Game Size) | [AcFun](https://www.acfun.cn/v/ac42513598) |
 
-### 2. Remix
+### 3. Remix与Bootleg
 
 | 标题与曲风 | 原作 | 试听链接 | 备注 |
 | :--: | :--: | :--: | :--: |
@@ -80,19 +88,19 @@ tags: 资料整合
 | **BELIEVE**<br>Kuro Zim's "Remorseless Believer" Remix<br>*Happy Hardcore + Neurofunk* | [AC娘本体 - BELIEVE](https://music.163.com/#/song?id=2006511096)<br>[Kira_辣椒酱 - BELIEVE](https://www.acfun.cn/v/ac35706345) | [AcFun](https://www.acfun.cn/v/ac41596894) | |
 | **小超快跑**<br>Kuro Zim's "ManiAc-Funkot:177" Remix<br>*Funkot + α* | [AC娘本体 - 小超快跑](https://music.163.com/#/song?id=2006520835) | [AcFun](https://www.acfun.cn/v/ac44215187) |
 
-### 3. Mashup / 原曲串烧 / DJ组曲
+### 4. Mashup / 原曲串烧 / DJ组曲
 
 | 标题 | 试听链接 |
 | :--: | :--: |
-| Rhythm Gaming Mashup Vol.1 (180 BPM) | [AcFun](https://www.acfun.cn/v/ac37140315) [Bilibili](https://www.bilibili.com/video/BV1hE41187Gv/) |
-| 我的P*P六单为什么一股MTT味儿？ | [AcFun](https://www.acfun.cn/v/ac40578268) [Bilibili](https://www.bilibili.com/video/BV1gE411x72a/) |	
+| Rhythm Gaming Mashup Vol.1 (180 BPM) | [AcFun](https://www.acfun.cn/v/ac37140315) / [Bilibili](https://www.bilibili.com/video/BV1hE41187Gv/) |
+| 我的P*P六单为什么一股MTT味儿？ | [AcFun](https://www.acfun.cn/v/ac40578268) / [Bilibili](https://www.bilibili.com/video/BV1gE411x72a/) |	
 | OTAKU is LIFE ~Hige Driver连续等式Mashup~ | [AcFun](https://www.acfun.cn/v/ac36870359) |
-| EVERYONE! IS! WELCOME!! | [AcFun](https://www.acfun.cn/v/ac39167479) [Bilibili](https://www.bilibili.com/video/BV1eX4y1Q7NT/) |
+| EVERYONE! IS! WELCOME!! | [AcFun](https://www.acfun.cn/v/ac39167479) / [Bilibili](https://www.bilibili.com/video/BV1eX4y1Q7NT/) |
 | 赝波行动，但是要素过多 | [AcFun](https://www.acfun.cn/v/ac42101945) |
 | 俺たちのR@inbow!! | [AcFun](https://www.acfun.cn/v/ac43788647) |
 | Kuro Zim 2023 年终总结Mix  | [AcFun](https://www.acfun.cn/v/ac43282635) |
 
-### 4. 鬼畜 / 音MAD
+### 5. 鬼畜 / 音MAD
 
 | 作品 | 原作 | 素材 | 试听链接 |
 | :--: | :--: | :--: | :--: |
@@ -104,34 +112,45 @@ tags: 资料整合
 | Let's go，但是小超快跑 | [AC娘本体 - 小超快跑](https://www.acfun.cn/v/ac39835686) | Let's go (Stylophone) | [AcFun](https://www.acfun.cn/v/ac41367690) |
 | OVERMASTER，但是金坷垃 | [プロジェクト・フェアリー - オーバーマスター (M@STER VERSION)](https://music.163.com/#/song?id=22795611) | 金坷垃 | [AcFun](https://www.acfun.cn/v/ac43663343)<br>[Bilibili](https://www.bilibili.com/video/BV19x4y1Z7ma/) |
 
-## 三、基于Suno AI平台的自生成音乐片段
+## 三、以非词曲作者身份参与制作的他人作品
 
-| 标题 | 试听链接 |
-| :--: | :--: |
-| 你让我用AI我是拒绝的（两则）| [AcFun]()<br>[Bilibili](https://www.bilibili.com/video/BV1ct42137bh/) |
-| 用AI打开疯狂星期四 | [Bilibili](https://www.bilibili.com/video/BV1oH4y1H7Lh/) | 
-| 2024音游愚人节现状 | [AcFun](https://www.acfun.cn/v/ac44200612) |
+| 原作者 - 作品 | 担当职能 | 试听链接 |
+| :--: | :--: | :--: |
+| 洛微 - 彼岸蔷薇 (Demo ver.) | 编曲 | [Bilibili](https://www.bilibili.com/video/BV15W411A7hK/) |
+| DZ韦元子 - 光（ft. 星尘)(Cover 陈粒) | MV制作 | [Bilibili](https://www.bilibili.com/video/BV1DE411S7ds/) |
+| DZ韦元子 - 少年 (ft. 星尘)(Cover 梦然) | MV制作 | [Bilibili](https://www.bilibili.com/video/BV1hf4y117ge)<br>考虑到该稿制作时本人处于比较窘迫的状态，因此本人选择在该稿件中匿名 |
+| 西园寺hihumi - 地球儀 (Cover 米津玄师) | 简单修对与后期 | Coming soon |
 
-## 四、音乐软件相关功能测试和评测
+## 四、音乐相关的技术衍生
+
+### 1. 音乐软件相关功能测试和评测
 
 | 相关软件 | 相关视频 |
 | :--: | :--: |
-| ACE Studio | 1.7.2版本的干声转换功能测试 / [AcFun](https://www.acfun.cn/v/ac41508160) <br>[Bilibili](https://www.bilibili.com/video/BV1bh4y1d7Sn/) 
-| Pocket Singer | 1.3.0版本更新前后合成对比 / [AcFun](https://www.acfun.cn/v/ac41451770)
-| X Studio | 网易版下载体验 + 和其他同级软件的对比 / [AcFun](https://www.acfun.cn/v/ac41610118) [Bilibili](https://www.bilibili.com/video/BV1Dk4y1n7gA/) |
+| ACE Studio | 1.7.2版本的干声转换功能测试 <br> [AcFun](https://www.acfun.cn/v/ac41508160)  / [Bilibili](https://www.bilibili.com/video/BV1bh4y1d7Sn/) 
+| Pocket Singer | 1.3.0版本更新前后合成对比 <br> [AcFun](https://www.acfun.cn/v/ac41451770)
+| X Studio | 网易版下载体验 + 和其他同级软件的对比 <br> [AcFun](https://www.acfun.cn/v/ac41610118) / [Bilibili](https://www.bilibili.com/video/BV1Dk4y1n7gA/) |
+
+### 2. 基于AI平台的自生成音乐片段
+
+| 标题 | 试听链接 |
+| :--: | :--: |
+| Suno: 你让我用AI我是拒绝的（两则）| [AcFun](https://www.acfun.cn/v/ac44160796)<br>[Bilibili](https://www.bilibili.com/video/BV1ct42137bh/) |
+| Suno: 用AI打开疯狂星期四 | [Bilibili](https://www.bilibili.com/video/BV1oH4y1H7Lh/) | 
+| Suno: 2024音游愚人节现状 | [AcFun](https://www.acfun.cn/v/ac44200612) |
+| Suno & Udio: 对比 | [AcFun](https://www.acfun.cn/v/ac44343633) / [Bilibili](https://www.bilibili.com/video/BV11r421G7pd/) |
 
 ## 五、其他难以定性的音乐综合视频
 
 | 标题 | 链接 |
 | :--: | :--: |
-| 四个原创短片段 | [Bilibili](https://www.bilibili.com/video/BV1oJ411271c/) | 
 | 百万现场歌曲与音游梗的结合：Shooting Stars × 浴霸 | [AcFun](https://www.acfun.cn/v/ac32614874) |
-| NOW is the Time 30分钟循环版 | [AcFun](https://www.acfun.cn/v/ac36767192) |
 | 百万现场歌曲与Minecraft梗的结合：Glow Map | [AcFun](https://www.acfun.cn/v/ac36810051) |
 | 片段：雾雨魔理沙 x 伊吹翼 | [AcFun](https://www.acfun.cn/v/ac39077462) |
-| 《次元情书》《幸福的信念》《小小的我》不同版本编曲XFD | [AcFun](https://www.acfun.cn/v/ac41561575) |
+| 编曲历史XFD：《次元情书》《幸福的信念》《小小的我》 | [AcFun](https://www.acfun.cn/v/ac41561575) |
+| 预告：Nocturnal Floor | [AcFun](https://www.acfun.cn/v/ac40484922) / [Bilibili](https://www.bilibili.com/video/BV1U14y1M7ps/)
 | Remix预告：BELIEVE | [AcFun](https://www.acfun.cn/v/ac41588601) |
-| 肛门紧缩术，但AI不使用 | [AcFun](https://www.acfun.cn/v/ac44218520)<br>[Bilibili](https://www.bilibili.com/video/BV1fZ421q7Lx/) |
+| 明日方舟GMV：夢にかけるRainbow | [AcFun](https://www.acfun.cn/v/ac44438609) / [Bilibili](https://www.bilibili.com/video/BV1wE421578Q/)<br>本视频实际是基于明日方舟和偶像大师百万现场同声优角色的二创，由于AB两站分区机制不同，本视频在A站属于手游区，在B站属于GMV区 |
 
 ## 六、音乐游戏玩家合作视频
 
