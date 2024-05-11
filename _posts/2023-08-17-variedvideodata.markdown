@@ -119,7 +119,7 @@ tags: 资料整合
 | 洛微 - 彼岸蔷薇 (Demo ver.) | 编曲 | [Bilibili](https://www.bilibili.com/video/BV15W411A7hK/) |
 | DZ韦元子 - 光（ft. 星尘)(Cover 陈粒) | MV制作 | [Bilibili](https://www.bilibili.com/video/BV1DE411S7ds/) |
 | DZ韦元子 - 少年 (ft. 星尘)(Cover 梦然) | MV制作 | [Bilibili](https://www.bilibili.com/video/BV1hf4y117ge)<br>考虑到该稿制作时本人处于比较窘迫的状态，因此本人选择在该稿件中匿名 |
-| 西园寺hihumi - 地球儀 (Cover 米津玄师) | 简单修对与后期 | Coming soon |
+| 西园寺hihumi - 地球儀 (Cover 米津玄师) | 简单修对与后期 | [AcFun](https://www.acfun.cn/v/ac44510403) / [Bilibili](https://www.bilibili.com/video/BV1wi421X7Je/) |
 
 ## 四、音乐相关的技术衍生
 
