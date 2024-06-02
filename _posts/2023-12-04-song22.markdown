@@ -33,7 +33,9 @@ sidebar: []
 
 ## 试听与歌词
 
-<audio controls><source src="/assets/audio/song22usano.wav" type="audio/wav"></audio>
+**正式版：** <audio controls><source src="/assets/audio/song22usano.wav" type="audio/wav"></audio>
+
+**赤羽Demo版:** <audio controls><source src="/assets/audio/song22demo.wav" type="audio/wav"></audio>
 
 <pre>
 那时的我很懵懂 爱编织绮丽的梦
@@ -76,18 +78,3 @@ sidebar: []
 无论多么沉重 从回忆里挣脱
 握紧拳头
 </pre>
-
-### Demo版
-
-Vocal by 赤羽 (Synthesizer V)
-
-<audio controls><source src="/assets/audio/song22demo.wav" type="audio/wav"></audio>
-
-## 杂记
-
-* 本作是虚拟UP主兎乃的生日纪念曲，也是她出道以来第一次演唱原创新曲。
-* 本作的歌词写于2018年前后。
-
-### 文本记录
-
-* [本作的创作后记](https://www.acfun.cn/v/ac43138916)

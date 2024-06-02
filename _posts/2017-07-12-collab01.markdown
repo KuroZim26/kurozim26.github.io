@@ -31,7 +31,7 @@ sidebar: []
 
 **歌手：** 洛天依 (VOCALOID3) → 洛天依 (ACE Studio)
 
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac39805031) / [Bilibili](https://www.bilibili.com/video/BV1av4y1m7Bk)
+**在线发布：** [初版 - Bilibili音频区](https://www.bilibili.com/audio/au37572) / [重制版 - AcFun](https://www.acfun.cn/v/ac39805031) / [重制版 - Bilibili](https://www.bilibili.com/video/BV1av4y1m7Bk)
 
 ## 试听与歌词
 
@@ -63,9 +63,3 @@ sidebar: []
 明天就是定下的日期
 在梦里 是你欣慰的笑意 笑意
 </pre>
-
-## 杂记
-
-* 本作是Kuro Zim与洛微的第二次实质合作作品，也是第一首词曲合作作品；本作的重制版则是与洛微的最后一次实质合作。由于双方的意愿和共识，重制版的AcFun侧投稿中带有“受权发布”的标记。
-* 本作歌词实际上来源于2017年5月6日洛微发布的QQ空间说说，原文只有前四段。
-* 本作的第一版PV于2019年7月6日被作者删除（[可从此处收听音频区存档](https://www.bilibili.com/audio/au37572)）。该版本被删除的原因有二：一是合作方个人关系破裂，二是原曲的部分段落与既有曲目《FREEDOM DiVE↓》存在高度相似。

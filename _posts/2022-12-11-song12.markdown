@@ -19,9 +19,9 @@ sidebar: []
 
 ## 基本信息
 
-<font color="#8b0000">提示：本曲存在使用AI技术生成曲绘的</font>[次要版本](https://www.acfun.cn/v/ac400821875_2)<font color="#8b0000">。</font>
-
 ### 第一版（2022年12月）
+
+【阅览注意：该版本的MV曾经使用了AI生成的绘图，目前可在AcFun投稿的2P看到。】
 
 **发布日期：** 2022年12月9日（AcFun）2022年12月10日（Bilibili）
 
@@ -35,7 +35,7 @@ sidebar: []
 
 ### 第二版（2023年5月）
 
-<font color="#8b0000">**提示：**该版本封面使用AI技术生成。</font>
+【阅览注意：该版本的封面中使用了AI生成的绘图。】
 
 **发布日期：** 2023年5月18日
 
@@ -61,11 +61,11 @@ sidebar: []
 
 ## 试听与歌词
 
+### 小子贼疯版
+
 ![这是图片](/assets/images/songjacket/jacket_song12sp.jpg "第三版特制封面")
 
 <audio controls><source src="/assets/audio/song12v24pikachu.mp3" type="audio/mp3"></audio>
-
-所有版本均使用同一份歌词，但小子贼疯对于第三版的歌词进行了小部分润色。鉴于该版本收听效果最佳，因此这里以该版本为主。
 
 <pre>
 那年的春季 雨淅淅沥沥 心里铺展着星空不管什么天气
@@ -94,47 +94,31 @@ sidebar: []
 小小的心害怕着急雨 小小的我等待着放晴
 在流泪的午夜 也祈祷着安心睡去
 一个小小故事写在歌里 期望着谁的聆听
-渺小的曾经 已(永远)定格在曾经
+渺小的曾经 已永远定格在曾经
 
-小小(的)勇气根植在心里 小小的我会把爱铭记
+小小勇气根植在心里 小小的我会把爱铭记
 感谢每一个你 完整我的存在意义
 每个小小灯火微微亮起 指引我小小的步履
 每一颗过眼的流星 带着心愿坠入小小的梦里
 不再用渺小来形容今天的自己
 怀抱小小的期许 把所有悲伤 和怯懦丢进风里
 唱着心中的感激 坚定地前进
-
 </pre>
 
-### 第一版
+### 原词曲版
 
-<audio controls><source src="/assets/audio/song12v22.mp3" type="audio/mp3"></audio>
+**第一版：** <audio controls><source src="/assets/audio/song12v22.mp3" type="audio/mp3"></audio>
 
-### 第二版 Demo
+**第二版男声Demo：** <audio controls><source src="/assets/audio/song12v23mdemo.mp3" type="audio/mp3"></audio>
 
-<audio controls><source src="/assets/audio/song12v23mdemo.mp3" type="audio/mp3"></audio>
+**第二版女声Demo：** <audio controls><source src="/assets/audio/song12v23fdemo.mp3" type="audio/mp3"></audio>
 
-<audio controls><source src="/assets/audio/song12v23fdemo.mp3" type="audio/mp3"></audio>
+该版本的歌词与小子贼疯版存在细微差别（原版→润色后版本）：
 
-## 杂记
-
-### 用典和相关Neta
-
-1. 本作最后一段前的歌词全部是对作者过往作品（截至2022年12月前的大部分独立作品和合作作品）的提及和暗示，而第一版MV的曲绘内容也与对应的作品主题有所对应。
-* 提及的作品包括《幸福的语言》、《Hey Kuro》、《枕边的日记》（合作曲）、《次元情书 (可爱的你·重要的你)》、《Purewhite Dream》（合作曲）、《简单的歌》、《被复制的宝藏》（合作曲）、《幸福的信念》、《FASTER》、《Here I Am》、《NOW is the Time》、《昨日雨·今日晴》、《答案是爱》。
-2. 歌曲的旋律多次引用《昨日雨·今日晴》：第二段主歌部分旋律出自该曲前奏，最后一段的部分旋律和歌词出自该曲副歌。
-3. 第一版MV中出现了基于三首关键作品（《幸福的语言》、《次元情书 (可爱的你·重要的你)》、《幸福的信念》）的六个版本的曲拟人形象。
-4. 2022最初版封面的构图是徵羽摩柯怀抱一只兔子，是对当时所参与的AcFun征稿活动“兔年大作战”的暗示。第一版MV换源后该封面不再使用，但原图仍可见于AcFun投稿2P的原版MV存档中。
-5. 换源版MV中的文案与第一版MV基本对应，而使用同一工程模板的小子贼疯版MV，其文案则是新写。
-
-### 其他
-
-* 本作是对作者到2022年年底为止的创作历程的总结曲。
-* 本作在AcFun和Bilibili的首发分别采用了不同的名义：AcFun侧曾参与2023年站内春节直播征稿“兔年大作战”（后通过删除活动Tag主动退出），而Bilibili侧则作为徵羽摩柯生日曲发布。
-
-### 文本记录
-
-[第三版制作心得感想](https://www.acfun.cn/a/ac43189092)
+<pre>
+1. 渺小的曾经 已定格在曾经 → 渺小的曾经 已永远定格在曾经
+2. 小小的勇气根植在心里 小小的我会把爱铭记 → 小小勇气根植在心里 小小的我会把爱铭记
+</pre>
 
 ## 二次创作记录
 

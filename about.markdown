@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 关于
+title: 关于本人
 ---
 
 ## 关于本人
@@ -11,15 +11,19 @@ title: 关于
 
 | **QQ** | 531312402 |
 | **邮箱** | 531312402@qq.com<br>kurozim17419@gmail.com |
-| **AcFun** | 主活跃账号：[KuroZim26-音符菌](https://www.acfun.cn/u/30346233)<br>副账号：[中村特别行动队-NKMR](https://www.acfun.cn/u/2290378)
+| **AcFun** | [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)
 | **Bilibili** | [KuroZim26-音符菌](https://space.bilibili.com/16228948) |
 | **明日方舟（官服）** | 廿六音府#1762<br>好友码：349165310 |
+
+更多联系方式可能会在以后的日子里解锁。
 
 ## 关于本站
 
 本站点由[Kuro Zim](https://www.acfun.cn/u/30346233)基于[jekyll](https://github.com/jekyll/jekyll)在Github Pages搭建。
 
-于2024年4月12日改用[YAT](https://github.com/jeffreytse/jekyll-theme-yat)主题重新排版并组织内容。
+2024年4月12日，改用[YAT](https://github.com/jeffreytse/jekyll-theme-yat)主题重新排版并组织内容。
+
+2024年6月2日，对收录内容进行大幅度调整，暂时移除所有文档备份内容。这些内容中有相当一部分都是车轱辘话和自我中心言论，对个人创作可能已经造成了相当程度的干扰。
 
 ## 关于我与萌娘百科
 

@@ -15,9 +15,9 @@ sidebar: []
 
 ## 基本信息
 
-<font color="#8b0000">提示：本曲存在使用AI技术生成曲绘的</font>[次要版本](https://www.acfun.cn/v/ac40963855_2)<font color="#8b0000">。</font>
+### 波音律/文栗版
 
-### 波音律版
+【阅览注意：原MV中使用了AI生成的绘图。但波音律版已在2023年8月10日换源为AI不使用的MV，但文栗版MV依旧存在AI。】
 
 **发布日期：** 2022年11月23日
 
@@ -27,7 +27,7 @@ sidebar: []
 
 **歌手：** 波音律 (ACE Studio)
 
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac39905155) / [Bilibili](https://www.bilibili.com/video/BV1AG4y1d7ug)
+**在线发布：** [波音律版 - AcFun](https://www.acfun.cn/v/ac39905155) / [波音律版 - Bilibili](https://www.bilibili.com/video/BV1AG4y1d7ug) / [文栗版 - AcFun](https://www.acfun.cn/v/ac40963855_2)
 
 ### 茗魂版
 
@@ -49,7 +49,11 @@ sidebar: []
 
 ![这是图片](/assets/images/songjacket/jacket_song11_minghun.jpg)
 
-<audio controls><source src="/assets/audio/song11minghun.mp3" type="audio/mp3"></audio>
+**茗魂 ver.** <audio controls><source src="/assets/audio/song11minghun.mp3" type="audio/mp3"></audio>
+
+**波音律 ver.** <audio controls><source src="/assets/audio/song11ritsu.mp3" type="audio/mp3"></audio>
+
+**文栗 ver.** <audio controls><source src="/assets/audio/song11willy.mp3" type="audio/mp3"></audio>
 
 <pre>
 独自一人在幸福城外
@@ -103,23 +107,6 @@ sidebar: []
 解放了自己 才抵达未来
 </pre>
 
-### 波音律 / 文栗版
-
-<audio controls><source src="/assets/audio/song11ritsu.mp3" type="audio/mp3"></audio>
-<audio controls><source src="/assets/audio/song11willy.mp3" type="audio/mp3"></audio>
-
-## 杂记
-
-### 用典及Neta
-
-* 本作很大程度上是受到食指现代诗《[相信未来](https://baike.baidu.com/item/%E7%9B%B8%E4%BF%A1%E6%9C%AA%E6%9D%A5/56396?)》的启发的，包括主题、部分歌词和歌词韵脚。
-* 本曲间奏的旋律部分来自个人原创乐曲《monoCHROnicle》，并加以修改。
-
-### 其他
-
-* 茗魂版性质上是生日纪念作，但该翻唱实际上在2022年11月23日歌曲首发时就已列入其翻唱计划。
-* 本作的MV和封面于2023年8月10日（即茗魂版发布当日）进行了一次换源，换源版本包括AcFun / Bilibili发布的波音律版。该MV与茗魂版MV在内容上基本相同，但茗魂版MV增加了一些独有要素。
-
-### 相关文字记录
+## 相关文字记录
 
 [这首好听啊！有这么优秀的原创编曲人在a站做dd，多来点关注呜呜呜](https://www.acfun.cn/moment/am2996695)

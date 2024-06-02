@@ -2,7 +2,7 @@
 layout: post
 title:  "BELIEVE"
 subtitle: "Kuro Zim's “Remorseless Believer” Remix"
-author: "Kuro Zim"
+author: "Remixed by Kuro Zim"
 categories: Remix歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_believermx.jpg"

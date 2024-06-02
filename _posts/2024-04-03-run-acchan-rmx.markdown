@@ -2,7 +2,7 @@
 layout: post
 title:  "小超快跑"
 subtitle: "Kuro Zim's “ManiAc-Funkot:177” Remix"
-author: "Kuro Zim"
+author: "Remixed by Kuro Zim"
 categories: Remix歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_acchanrunrmx.jpg"
@@ -19,7 +19,7 @@ sidebar: []
 
 **风格与曲速：** 177BPM / Funkot + α
 
-**原作词：** [AC娘本体](https://www.acfun.cn/u/23682490.aspx)
+**原作词：** [AC娘本体](https://www.acfun.cn/u/23682490)
 
 **原作曲：** Y.D.
 
@@ -29,7 +29,7 @@ sidebar: []
 
 **歌手：** 艾可（Synthesizer V）
 
-**喊麦音源：** [MC石头](https://www.acfun.cn/u/233486.aspx)
+**喊麦音源：** [MC石头](https://www.acfun.cn/u/233486)
 
 **在线发布：** [AcFun](https://www.acfun.cn/v/ac44215187)
 
@@ -112,15 +112,3 @@ Give me five 好吧那认栽
 钞票不是万能的 祝愿你开心祝你快乐
 诸位朋友 兄弟 好好地活着！
 </pre>
-
-## 杂记
-
-### 用典与Neta
-
-* MV开头的“滋……叮”字幕来自AcFun官方独家片头的音效。
-* Remix副标题中的“ManiAc-Funkot”藏有“AcFun”；177既代表本曲BPM数值，也Neta了AcFun17周年庆祝征稿活动。
-* 第二段主歌乱入的音乐盒段落实际上包含了《小小的我》前奏旋律。
-
-### 其他
-
-* AC娘本体已在其账号上转评了本作的投稿，一定程度上已获得官方认可。

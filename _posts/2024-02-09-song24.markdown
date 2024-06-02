@@ -7,7 +7,7 @@ categories: 歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_song24_aclim.jpg"
   opacity: 0.24
-tags: 歌曲 DeepVocal 夏叶子 AcFun独家（暂时）
+tags: 歌曲 DeepVocal 夏叶子 AcFun首发
 sidebar: []
 ---
 
@@ -83,14 +83,3 @@ sidebar: []
 依旧 持续 相信 下一关会更刺激
 始终 相信 没有攻略才最刺激
 </pre>
-
-## 杂记
-
-* 作为歌曲最初原案的预告版可查看[本视频](https://www.acfun.cn/v/ac43435441)。
-* 歌曲最初是为参加**2024 AcFun 新春庆典**征稿活动而制作的，实际完成时间在2024年1月。根据活动规则，单品必须在2月9日后才能公开发布，因此实际发布时间比《在地图尽头的城市》更早。
-* 由于活动稿件的性质，本歌曲在得到正式编曲重制之前会一直保持AcFun独家发布状态。
-* 预告片和MV中作为主角出现的玩偶是AC狮子娘摆件和LEGO™ Bionicle - 8903 Dekar。
-
-### 文本记录
-
-* [本作的创作后记](https://www.acfun.cn/a/ac43732815)
