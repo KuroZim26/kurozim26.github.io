@@ -7,7 +7,7 @@ categories: 歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_song03.png"
   opacity: 0.24
-tags: 歌曲 VOCALOID 星尘 AUZ 姝制 SynthV 艾可 AC娘 UTAU 多版本 星尘生日作
+tags: 歌曲 VOCALOID 星尘 AUZ 姝制 SynthV 艾可 AC娘 UTAU
 sidebar: []
 ---
 
@@ -21,93 +21,24 @@ sidebar: []
 
 ## 基本信息
 
-### 第一版（2017年8月）
+**作词、作曲：** Kuro Zim
 
-**发布日期：** 2017年8月12日
+## 歌曲和二次创作
 
-**风格与曲速：** 75BPM / Pop
+| 版本 | 试听与链接 | 备注 |
+| :--: | :--: | :--: |
+| 2017 星尘 ver. | <audio controls><source src="/assets/audio/song03v17.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av13257396) / [Bilibili音频区](https://www.bilibili.com/audio/au326548?type=3) / [网易云音乐](https://music.163.com/song?id=497377154) | 使用VOCALOID星尘的初版<br>编曲：Kuro Zim<br>VOCALOID调声&后期：[黑方Serge](https://space.bilibili.com/448500)<br>**曲绘：** [阿鱼鱼w (Sameki)](https://space.bilibili.com/1636079)<br>**摄影素材：** 花桑puruKO<br>**MV制作：** [墨涛 (AlfredMT)](https://space.bilibili.com/3104111) |
+| 翻唱版 1 | [Bilibili](https://www.bilibili.com/video/BV18b411c7Q4/) | 二次创作·翻唱<br>歌者：[帮滂并不明白](https://space.bilibili.com/32342429) |
+| 翻唱版 2 | [Bilibili](https://www.bilibili.com/video/BV16t4y1c7Ak) | 二次创作·翻唱<br>歌者：[_StarWhisper](https://space.bilibili.com/40118938) |
+| 重编曲版 | [Bilibili](https://www.bilibili.com/video/BV1wD4y1m72q8) | 二次创作·重编曲<br>曲师：[智能P](https://space.bilibili.com/7619378)<br>歌者：星尘 洛天依 言和(VOCALOID) |
+| 音乐游戏自制谱面 | [Cytoid](https://cytoid.io/levels/kurozim.loveletter_short) | 二次创作<br>谱面由曲作者自制 |
+| 2019 2nd ver. | <audio controls><source src="/assets/audio/song03v19.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av70396560) / [网易云音乐](https://music.163.com/song?id=1395620768) | 由[AUZ](https://space.bilibili.com/8064923)与[姝制](https://space.bilibili.com/5208994)演唱的第二版<br>后期：[DZ韦元子](https://space.bilibili.com/11589966)<br>曲绘、MV制作：AUZ |
+| 2022 3rd ver.B | <audio controls><source src="/assets/audio/song03v22mod.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/BV1WD4y1W7FR/) | 使用Synthesizer V试用版艾可的第三版改词差分<br>编曲、后期、摄影素材、MV制作：Kuro Zim |
+| 2024 3rd ver.A | <audio controls><source src="/assets/audio/song03v22acchan.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac43760242) | 使用AC娘本体二代目UTAU音源的第三版原词差分<br>编曲、MV制作：Kuro Zim<br>UTAU音源制作、调声&后期：[菊粉·二学课代表](https://www.acfun.cn/u/684188)<br>音源素材制作协力：[八云玖](https://www.acfun.cn/u/54992.aspx)、[幼猫与星间向日葵](https://www.acfun.cn/u/11143550.aspx)、[半狼Akarin_Channel](https://www.acfun.cn/u/852888.aspx)<br>曲绘：Kuro Zim（前半段） / [Area酱](https://www.acfun.cn/u/1050317.aspx)（后半段）
 
-**作词、作曲、编曲：** Kuro Zim
-
-**歌手：** 星尘 (VOCALOID4)
-
-**VOCALOID调声&后期：** [黑方Serge](https://space.bilibili.com/448500)
-
-**曲绘：** [阿鱼鱼w (Sameki)](https://space.bilibili.com/1636079)
-
-**摄影素材：** 花桑puruKO
-
-**MV制作：** [墨涛 (AlfredMT)](https://space.bilibili.com/3104111)
-
-**在线发布：** [Bilibili](https://www.bilibili.com/video/av13257396) / [Bilibili音频区](https://www.bilibili.com/audio/au326548?type=3) / [网易云音乐](https://music.163.com/song?id=497377154)
-
-### 第二版（2019年10月）
-
-**发布日期：** 2019年10月7日
-
-**风格与曲速：** 75BPM / Pop
-
-**作词、作曲、编曲：** Kuro Zim
-
-**歌手：** [AUZ](https://space.bilibili.com/8064923) + [姝制](https://space.bilibili.com/5208994)
-
-**后期：**[DZ韦元子](https://space.bilibili.com/11589966)
-
-**曲绘、MV制作：** AUZ
-
-**在线发布：** [Bilibili](https://www.bilibili.com/video/av70396560) / [网易云音乐](https://music.163.com/song?id=1395620768)
-
-### 第三版·改词差分（2023年1月）
-
-**发布日期：** 2023年1月12日
-
-**风格与曲速：** 75BPM / Pop
-
-**作词、作曲、编曲、后期、摄影素材、MV制作：** Kuro Zim
-
-**歌手：** 艾可 (Synthesizer V)
-
-**在线发布：** [Bilibili](https://www.bilibili.com/video/BV1WD4y1W7FR/)
-
-### 第三版·原词差分（2024年2月）
-
-**发布日期：** 2024年2月14日
-
-**风格与曲速：** 75BPM / Pop
-
-**作词、作曲、编曲、MV制作：** Kuro Zim
-
-**歌手：** AC娘本体-二代目音源 (UTAU)
-
-**UTAU音源制作、调声&后期：** [菊粉·二学课代表](https://www.acfun.cn/u/684188)
-
-**音源素材制作协力：** [八云玖](https://www.acfun.cn/u/54992.aspx)、[幼猫与星间向日葵](https://www.acfun.cn/u/11143550.aspx)、[半狼Akarin_Channel](https://www.acfun.cn/u/852888.aspx)
-
-**曲绘：** Kuro Zim（前半段）
-
-**曲绘素材借用：** [Area酱](https://www.acfun.cn/u/1050317.aspx)
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac43760242)
-
-## 试听及歌词
+## 歌词
 
 ![这是图片](/assets/images/songjacket/jacket_song03sp.jpg)
-
-### 第一版
-
-<audio controls><source src="/assets/audio/song03v17.mp3" type="audio/mp3"></audio>
-
-### 第二版
-
-<audio controls><source src="/assets/audio/song03v19.mp3" type="audio/mp3"></audio>
-
-### 第三版 改词差分
-
-<audio controls><source src="/assets/audio/song03v22mod.mp3" type="audio/mp3"></audio>
-
-### 第三版 原词差分
-
-<audio controls><source src="/assets/audio/song03v22acchan.mp3" type="audio/mp3"></audio>
 
 以下歌词适用于2017、2019、2024版。
 
@@ -163,12 +94,3 @@ sidebar: []
 谢谢重要的你　陪伴过懵懂的我
 辉煌的那一天　只要记得我们　约定的星空
 </pre>
-
-## 二次创作记录
-
-| 二次创作 | 相关链接 | 备注 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Cytoid自制谱<br>by Kuro Zim | [Cytoid](https://cytoid.io/levels/kurozim.loveletter_short) | 本人甚至打了个榜一 |
-| 翻唱 by [帮滂并不明白](https://space.bilibili.com/32342429) | [Bilibili](https://www.bilibili.com/video/BV18b411c7Q4/) | 基于第一版 |
-| 重编曲 by [智能P](https://space.bilibili.com/7619378)<br>歌者：星尘 洛天依 言和(VOCALOID) | [Bilibili](https://www.bilibili.com/video/BV1wD4y1m72q8) | |
-| 翻唱 by 歌者：[_StarWhisper](https://space.bilibili.com/40118938) | [Bilibili](https://www.bilibili.com/video/BV16t4y1c7Ak) | 基于第一版 |

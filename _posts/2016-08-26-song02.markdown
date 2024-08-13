@@ -6,7 +6,7 @@ categories: 歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_song02.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID 星尘 星尘生日作
+tags: 歌曲 VOCALOID 星尘
 sidebar: []
 ---
 
@@ -14,29 +14,15 @@ sidebar: []
 
 ## 基本信息
 
-**最初发布日期：** 2016年8月26日
-
-**现行版发布日期：** 2018年8月12日
-
-**风格与曲速：** 118BPM / Pop
-
 **作词、作曲：** T.E.Zimmern (Kuro Zim)
 
-**编曲：** 泠魔Boy
+## 歌曲
 
-**VOCALOID调声&后期、MV制作：** Luong<br>(Incubo泠蝶 / Unoge)
+| 版本 | 试听与链接 | 备注 |
+| :--: | :--: | :--: |
+| 2018 星尘 ver. | <audio controls><source src="/assets/audio/song02.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/av28911978?p=1) / [Bilibili音频区](https://www.bilibili.com/audio/au37981?type=3) | 编曲：泠魔Boy<br>VOCALOID调声&后期、MV制作：Luong<br>(Incubo泠蝶 / Unoge)<br>曲绘：九粮米液 |
 
-**曲绘：** 九粮米液
-
-**歌手：** 星尘 (VOCALOID4)
-
-**在线发布：** [Bilibili](https://www.bilibili.com/video/av28911978?p=1) / [Bilibili音频区](https://www.bilibili.com/audio/au37981?type=3)
-
-## 试听与歌词
-
-<audio controls><source src="/assets/audio/song02.mp3" type="audio/mp3"></audio>
-
-### 正式歌词
+## 歌词
 
 <pre>
 嘿　Kuro　现在的你还好吗
@@ -66,9 +52,7 @@ sidebar: []
 嘿　Kuro　我的心只想让你知道
 </pre>
 
-### 原案段落差分
-
-以下为原案中的一段歌词差分，从未正式使用。
+以下为原案中的一段歌词差分，未在歌曲中正式使用，但词格符合原版的一段主歌+一段副歌。
 
 <pre>
 嘿 Kuro 还在责备自己吗

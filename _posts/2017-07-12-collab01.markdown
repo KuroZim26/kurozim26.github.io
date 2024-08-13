@@ -7,7 +7,7 @@ categories: 歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_collabo01.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID ACE_Studio 洛天依 联合创作 洛天依生日曲 多版本
+tags: 歌曲 VOCALOID ACE_Studio 洛天依 联合创作
 sidebar: []
 ---
 
@@ -15,27 +15,18 @@ sidebar: []
 
 ## 基本信息
 
-**最初发布日期：** 2017年7月12日
+**作曲：** Kuro Zim
 
-**现行版发布日期：** 2022年12月17日
+**作词：** 洛微
 
-**风格与曲速：** 87BPM / Piano
+## 歌曲
 
-**作词、MV制作：** 洛微
+| 版本 | 试听与链接 | 备注 |
+| :--: | :--: | :--: |
+| 2017 原版 | [Bilibili音频区](https://www.bilibili.com/audio/au37572) | 使用VOCALOID版洛天依的原版<br>后期：轩子 |
+| 2022 重制版 | <audio controls><source src="/assets/audio/collab01.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac39805031) / [Bilibili](https://www.bilibili.com/video/BV1av4y1m7Bk) | 使用ACE Studio版洛天依的重制/重发布版：编曲、后期：Kuro Zim<br>曲绘：铮了个粽子<br>MV制作：洛微 |
 
-**作曲、编曲、现行版后期：** Kuro Zim
-
-**最初版后期：** 轩子
-
-**曲绘：** 铮了个粽子
-
-**歌手：** 洛天依 (VOCALOID3) → 洛天依 (ACE Studio)
-
-**在线发布：** [初版 - Bilibili音频区](https://www.bilibili.com/audio/au37572) / [重制版 - AcFun](https://www.acfun.cn/v/ac39805031) / [重制版 - Bilibili](https://www.bilibili.com/video/BV1av4y1m7Bk)
-
-## 试听与歌词
-
-<audio controls><source src="/assets/audio/collab01.mp3" type="audio/mp3"></audio>
+## 歌词
 
 <pre>
 轻轻合上枕边的日记
