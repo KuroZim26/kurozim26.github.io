@@ -139,6 +139,7 @@ title: 作品清单
 | EVERYONE! IS! WELCOME!! | [AcFun](https://www.acfun.cn/v/ac39167479) / [Bilibili](https://www.bilibili.com/video/BV1eX4y1Q7NT/) |
 | 赝波行动，但是要素过多 | [AcFun](https://www.acfun.cn/v/ac42101945) |
 | 俺たちのR@inbow!! | [AcFun](https://www.acfun.cn/v/ac43788647) |
+| Criminally Dinner～生存者には勝者である～ | [AcFun](https://www.acfun.cn/v/ac46068204) / [Bilibili](https://www.bilibili.com/video/BV1QhYpedEKx/) |
 
 ### 2.鬼畜 / 音MAD
 
@@ -150,7 +151,8 @@ title: 作品清单
 | Eternal Harmony<br>ft. 616JINRIKI ALLSTARS | [諏訪彩花 / 愛美 / 今井麻美 / 郁原ゆう / 末柄里恵 - Eternal Harmony](https://music.163.com/#/song?id=29418352) | 全明星 | [AcFun](https://www.acfun.cn/v/ac37672122) |
 | Neru VS Nerune ～ネルとネルネのアンビバレント！～ | [諏訪彩花 / 稲川英里 / 南早紀 / 浜崎奈々 / たかはし智秋 - Vacation VS Summer ～ナツとヤスミのアンビバレント!～](https://music.163.com/#/song?id=2007319575) | 日本“ねるねるねるね”糖果广告<br>旺旺碎冰冰广告 | [AcFun](https://www.acfun.cn/v/ac39564113) |
 | Let's go，但是小超快跑 | [AC娘本体 - 小超快跑](https://www.acfun.cn/v/ac39835686) | Let's go (Stylophone) | [AcFun](https://www.acfun.cn/v/ac41367690) |
-| OVERMASTER，但是金坷垃 | [プロジェクト・フェアリー - オーバーマスター (M@STER VERSION)](https://music.163.com/#/song?id=22795611) | 金坷垃 | [AcFun](https://www.acfun.cn/v/ac43663343)<br>[Bilibili](https://www.bilibili.com/video/BV19x4y1Z7ma/) |
+| OVERMASTER，但是金坷垃 | [プロジェクト・フェアリー - オーバーマスター (M@STER VERSION)](https://music.163.com/#/song?id=22795611) | 金坷垃 | [AcFun](https://www.acfun.cn/v/ac43663343) / [Bilibili](https://www.bilibili.com/video/BV19x4y1Z7ma/) |
+| Mystic Light Quest，但是金坷垃 | [塞壬唱片-MSR (Prod. KOTONOHOUSE, RANASOL) ft. Machico - Mystic Light Quest](https://music.163.com/#/song?id=2612747239) | 金坷垃、一只大哈鱼 | [AcFun](https://www.acfun.cn/v/ac46033936) / [Bilibili](https://www.bilibili.com/video/BV1MVveedEK9/) |
 
 ### 3.其他难以分类的综合二创
 
@@ -180,7 +182,9 @@ title: 作品清单
 | :--: | :--: |
 | Suno: 你让我用AI我是拒绝的（两则）| [AcFun](https://www.acfun.cn/v/ac44160796)<br>[Bilibili](https://www.bilibili.com/video/BV1ct42137bh/) |
 | Suno: 用AI打开疯狂星期四 | [Bilibili](https://www.bilibili.com/video/BV1oH4y1H7Lh/) | 
+| Suno: 用AI再次打开疯狂星期四 | [AcFun](https://www.acfun.cn/v/ac44883284) |
 | Suno: 2024音游愚人节现状 | [AcFun](https://www.acfun.cn/v/ac44200612) |
 | Suno & Udio: 对比 | [AcFun](https://www.acfun.cn/v/ac44343633) / [Bilibili](https://www.bilibili.com/video/BV11r421G7pd/) |
 | Suno：促融共竞 | [AcFun](https://www.acfun.cn/v/ac44573428) / [Bilibili](https://www.bilibili.com/video/BV13H4y137wt/) |
-| Suno：吐槽DNF手游的病毒营销 | [AcFun](https://www.acfun.cn/v/ac44607451) / [Bilibili](https://www.bilibili.com/video/BV1jJ4m1P7HP/)|
+| Suno：我要玩最热无终奇语 | [AcFun](https://www.acfun.cn/v/ac45374408) / [Bilibili](https://www.bilibili.com/video/BV12W421R7XG/) |
+| Suno：我要看夏活前瞻直播 | [AcFun](https://www.acfun.cn/v/ac45472647) |
