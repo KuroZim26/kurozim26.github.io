@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: playlist
 title: 作品清单
-permalink: /playlist/
 ---
 
 本页面为Kuro自2016年5月14日以来，发布在各平台上的各类和音乐直接相关的投稿列表。
