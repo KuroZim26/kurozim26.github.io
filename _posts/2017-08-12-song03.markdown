@@ -36,7 +36,7 @@ sidebar: []
 
 2024版（原词·AC娘音源）：
 
-<audio controls><source src="/assets/audio/song03v22acchan.mp3" type="audio/mp3">
+<audio controls><source src="/assets/audio/song03v22acchan.mp3" type="audio/mp3"></audio>
 
 ## 歌词
 
