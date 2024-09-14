@@ -17,7 +17,7 @@ sidebar: []
 
 <audio controls><source src="/assets/audio/song11jpdemo.mp3" type="audio/mp3"></audio>
 
-## 试听与歌词
+## 歌词
 
 词曲、翻译：Kuro Zim
 
