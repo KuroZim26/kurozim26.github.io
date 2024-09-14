@@ -13,7 +13,7 @@ sidebar: []
 
 > 日本語苦手でも、ちゃんとやってきた！
 
-## 基本信息
+## 歌曲
 
 <audio controls><source src="/assets/audio/song11jpdemo.mp3" type="audio/mp3"></audio>
 
