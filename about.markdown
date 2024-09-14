@@ -37,8 +37,7 @@ title: 关于本人
 
 * [萌百编辑档案馆 - 最终历史版本](https://zh.moegirl.org.cn/index.php?title=User:T.E.Zimmern/萌百编辑档案馆&oldid=6127797)
 * [脑洞区域 - 最终历史版本](https://zh.moegirl.org.cn/index.php?title=User:T.E.Zimmern/%E8%84%91%E6%B4%9E%E5%8C%BA%E5%9F%9F&oldid=6983787_)
-* [萌百文字存档 - 最终历史版本](https://zh.moegirl.org.cn/index.php?title=User:T.E.Zimmern/%E6%96%87%E5%AD%97%E5%AD%98%E6%A1%A3&oldid=67402500)
-* [作品名录 - 最终历史版本](https://zh.moegirl.org.cn/index.php?title=User:T.E.Zimmern/%E4%BD%9C%E5%93%81%E5%90%8D%E5%BD%95&oldid=69990060)
+* 管理层可能是看到我在Github Pages上重新整理了作品名录，因此已经把作品名录和文档合集都删除掉了，真有你们的啊。
 
 ## 后记
 
