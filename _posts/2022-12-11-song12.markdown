@@ -21,7 +21,7 @@ sidebar: []
 
 第一版（2022年12月）
 
-<audio controls><source src="/assets/audio/song12v22.mp3" type="audio/mp3">
+<audio controls><source src="/assets/audio/song12v22.mp3" type="audio/mp3"></audio>
 
 第二版（2023年5月）男声Demo
 
