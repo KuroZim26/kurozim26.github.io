@@ -18,7 +18,7 @@ sidebar: []
 
 <audio controls><source src="/assets/audio/song18.mp3" type="audio/mp3"></audio>
 
-## 试听与歌词
+## 歌词
 
 词曲：Kuro Zim
 
