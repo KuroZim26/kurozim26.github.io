@@ -5,6 +5,10 @@ title: 关于本人
 
 ## 关于本人
 
+![NewHead](/assets/images/NewHead.jpeg)
+
+> 头像原案：Picrew（[五百式立ち絵メーカー](https://picrew.me/ja/image_maker/625876)） / 绘制：[光临Welcome](https://www.acfun.cn/u/69794016)
+
 在下Kuro Zim，一个再普通不过的小小创作者。曾经在中文VOCALOID圈流浪多年，如今脱离圈子，与来自互联网与生活的种种挑战对线中。
 
 来到这里的各位可以用以下方式联系到我，或添加游戏好友。
@@ -21,7 +25,7 @@ title: 关于本人
 
 2024年4月12日，改用[YAT](https://github.com/jeffreytse/jekyll-theme-yat)主题重新排版并组织内容。
 
-2024年6月2日，对收录内容进行大幅度调整，暂时移除所有文档备份内容。这些内容中有相当一部分都是车轱辘话和自我中心言论，对个人创作可能已经造成了相当程度的干扰。
+2024年6月2日，对收录内容进行大幅度调整。
 
 ## 关于我与萌娘百科
 
@@ -37,7 +41,7 @@ title: 关于本人
 
 * [萌百编辑档案馆 - 最终历史版本](https://zh.moegirl.org.cn/index.php?title=User:T.E.Zimmern/萌百编辑档案馆&oldid=6127797)
 * [脑洞区域 - 最终历史版本](https://zh.moegirl.org.cn/index.php?title=User:T.E.Zimmern/%E8%84%91%E6%B4%9E%E5%8C%BA%E5%9F%9F&oldid=6983787_)
-* 管理层可能是看到我在Github Pages上重新整理了作品名录，因此已经把作品名录和文档合集都删除掉了，真有你们的啊。
+* 管理层可能是看到我在Github Pages上重新整理了作品名录，因此已经把萌百上面的作品名录和文档合集都删除掉了，真有你们的啊。
 
 ## 后记
 
