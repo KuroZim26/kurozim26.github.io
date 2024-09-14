@@ -13,7 +13,7 @@ sidebar: []
 
 > 无论相伴同行还是品尝孤独，我们都是无悔的信徒。
 
-## 基本信息
+## 歌曲
 
 <audio controls><source src="/assets/audio/believermx.mp3" type="audio/mp3"></audio>
 
