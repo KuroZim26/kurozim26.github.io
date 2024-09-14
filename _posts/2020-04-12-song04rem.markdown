@@ -3,37 +3,23 @@ layout: post
 title:  "简单的歌 2020 Version"
 subtitle: "A Simple Song ~2020 Re:Sing ver."
 author: "Kuro Zim"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song04sp.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID 乐正绫 乐正绫生日作 重制作 联合创作 多版本
+tags: 原创作品 合作作品 2020年重制作品
 sidebar: []
 ---
 
 > 让曾经那首简单的旋律，更加艳丽而无畏地绽放吧
 
-## 基本信息
-
-**发布日期：** 2018年4月12日
-
-**风格与曲速：** 68BPM / Emotional Folk
-
-**作词：** [后夏](https://space.bilibili.com/9863079)
-
-**作曲、编曲、MV制作：** Kuro Zim
-
-**VOCALOID调声&后期：** [DZ韦元子](https://space.bilibili.com/11589966)
-
-**歌手：** 乐正绫（VOCALOID3）
-
-**曲绘：** [陽川](https://space.bilibili.com/4047406)
-
-**在线发布：** [Bilibili](https://www.bilibili.com/video/av625116268)
-
-## 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/song04v20.mp3" type="audio/mp3"></audio>
+
+## 歌词
+
+作词：后夏 / 作曲：Kuro Zim
 
 <pre>
 (尽管有时若即若离 但真的没关系)
@@ -67,7 +53,3 @@ sidebar: []
 La la la...
 Woo...
 </pre>
-
-## 杂记
-
-* 本曲视频时长4分12秒，Neta了乐正绫的生日，即“4月12日”。

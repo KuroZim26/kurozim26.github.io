@@ -3,33 +3,23 @@ layout: post
 title: "无攻略"
 subtitle: "Play Without Playthrough"
 author: "Kuro Zim"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song24_aclim.jpg"
   opacity: 0.24
-tags: 歌曲 DeepVocal 夏叶子 AcFun首发
+tags: 原创作品 2024年作品
 sidebar: []
 ---
 
 > 愿我们能在无攻略的生活中得到更多的快乐。
 
-## 基本信息
-
-**先行首发日期：** 2024年2月8日（2024 AcFun新春庆典直播·暖场阶段）
-
-**正式发布日期：** 2024年2月9日
-
-**风格与曲速：** 160BPM / Rock Pop
-
-**作词、作曲、编曲、后期、MV制作：** Kuro Zim
-
-**歌手：** 夏叶子 (DeepVocal)
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac43667235)
-
-## 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/song24.mp3" type="audio/mp3"></audio>
+
+## 歌词
+
+词曲：Kuro Zim
 
 <pre>
 如果 生活 可以 用寥寥几句说清

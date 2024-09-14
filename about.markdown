@@ -10,12 +10,10 @@ title: 关于本人
 来到这里的各位可以用以下方式联系到我，或添加游戏好友。
 
 | **QQ** | 531312402 |
-| **邮箱** | 531312402@qq.com<br>kurozim17419@gmail.com |
+| **邮箱** | 531312402@qq.com （常用）<br>kurozim17419@gmail.com （不常用） |
 | **AcFun** | [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)
 | **Bilibili** | [KuroZim26-音符菌](https://space.bilibili.com/16228948) |
 | **明日方舟（官服）** | 廿六音府#1762<br>好友码：349165310 |
-
-更多联系方式可能会在以后的日子里解锁。
 
 ## 关于本站
 

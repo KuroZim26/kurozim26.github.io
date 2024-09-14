@@ -3,38 +3,24 @@ layout: post
 title:  "被复制的宝藏"
 subtitle: "Dublicated Treasure"
 author: "Kuro Zim × 洛微"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_collabo03.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID 心华 星尘 联合创作
+tags:原创 合作作品 2018年作品
 sidebar: []
 ---
 
->  新年快乐周大主教，祝你回归a股顺利，再见——黄旭东
-
-## 基本信息
-
-**发布日期：** 2018年4月30日
-
-**风格与曲速：** 86BPM / Midtempo Techno Pop
-
-**作词、MV制作：** 洛微
-
-**作曲、编曲：** Kuro Zim a.k.a. 小黑
-
-**后期：** 紫荆7x
-
-**曲绘：** 铮了个粽子 + 雨兮
-
-**歌手：**  星尘 (VOCALOID4)<br>心华 (VOCALOID3)
-
-**在线发布：** [Bilibili](https://www.bilibili.com/video/av22724448?p=1) / [网易云音乐](https://music.163.com/song?id=549768692)
-
+>  新年快乐周大主教，祝你回归A股顺利，再见——黄旭东
 
 ## 歌曲
 
 <audio controls><source src="/assets/audio/collab03.mp3" type="audio/mp3"></audio>
+
+
+## 歌词
+
+作词：洛微 / 作曲：Kuro Zim
 
 <pre>
 听说曾经你就是个流氓
@@ -66,6 +52,6 @@ sidebar: []
 将安全守望
 </pre>
 
-## 相关文字记录
+## 备注
 
 * [洛微发布的创作后记](https://www.bilibili.com/read/cv440367/)

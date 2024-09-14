@@ -3,33 +3,23 @@ layout: post
 title:  "燃炬之途"
 subtitle: "Trail of Blazing Torch"
 author: "Kuro Zim"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song17.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID 乐正绫 乐正绫生日纪念作 AI绘图警告
+tags: 原创作品 2023年作品
 sidebar: []
 ---
 
 > 沉沉长夜，以零为名之处，正是燃起一把火炬，动身出发之时。
 
-## 基本信息
-
-【阅览注意：该版本的MV和封面中使用了AI生成的绘图。】
-
-**发布日期：** 2023年4月1日（AcFun） / 2023年4月12日（Bilibili）
-
-**风格与曲速：** 72BPM / Rock Pop
-
-**作词、作曲、编曲、后期、MV制作：** Kuro Zim
-
-**歌手：** 乐正绫 (VOCALOID3) 
-
-**在线发布：**[AcFun](https://www.acfun.cn/v/ac41019965) / [Bilibili](https://www.bilibili.com/video/BV1fX4y1r7NB)
-
-## 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/song17.mp3" type="audio/mp3"></audio>
+
+## 歌词
+
+词曲：Kuro Zim
 
 <pre>
 无主的情书 被雨打湿在 无主的废土

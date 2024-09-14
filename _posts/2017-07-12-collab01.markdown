@@ -3,36 +3,32 @@ layout: post
 title:  "枕边的日记"
 subtitle: "Bedside Diary"
 author: "Kuro Zim & 洛微"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_collabo01.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID ACE_Studio 洛天依 联合创作
+tags: 原创 合作作品 2017年作品 2022年重制作品
 sidebar: []
 ---
 
 > 明天就是定下的日期，在梦里是你欣慰的笑意。
 
-## 基本信息
-
-**作曲：** Kuro Zim
-
-**作词：** 洛微
-
 ## 歌曲
 
-| 版本 | 试听与链接 | 备注 |
-| :--: | :--: | :--: |
-| 2017 原版 | [Bilibili音频区](https://www.bilibili.com/audio/au37572) | 使用VOCALOID版洛天依的原版<br>后期：轩子 |
-| 2022 重制版 | <audio controls><source src="/assets/audio/collab01.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac39805031) / [Bilibili](https://www.bilibili.com/video/BV1av4y1m7Bk) | 使用ACE Studio版洛天依的重制/重发布版：编曲、后期：Kuro Zim<br>曲绘：铮了个粽子<br>MV制作：洛微 |
+2022版：
+
+<audio controls><source src="/assets/audio/collab01.mp3" type="audio/mp3"></audio>
 
 ## 歌词
+
+作词：洛微 / 作曲：Kuro ZIm
 
 <pre>
 轻轻合上枕边的日记
 盼着给你一个意外惊喜
 就在心底默默定下日期
 默默地给自己打气
+
 
 时光流转着一天天过去
 我开始喜欢崭新的自己

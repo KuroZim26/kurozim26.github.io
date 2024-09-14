@@ -2,11 +2,11 @@
 layout: post
 title:  "Here I Am."
 author: "Kuro Zim a.k.a. H1kawa26"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song07.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID 洛天依 洛天依生日作
+tags: 原创作品 2022年作品
 sidebar: []
 ---
 
@@ -14,19 +14,11 @@ sidebar: []
 
 ## 基本信息
 
-**发布日期：** 2022年7月12日
-
-**风格与曲速：** 89BPM / Rock Pop
-
-**作词、作曲、编曲、后期、MV制作：** Kuro Zim a.k.a. H1kawa26_
-
-**歌手：** 洛天依 (VOCALOID4) 
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac35658060)
-
-## 试听与歌词
-
 <audio controls><source src="/assets/audio/song07.mp3" type="audio/mp3"></audio>
+
+## 歌词
+
+词曲：Kuro Zim
 
 <pre>
 装着坚强的你 凑着热闹的你

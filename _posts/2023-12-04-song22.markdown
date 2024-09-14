@@ -7,35 +7,29 @@ categories: 歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_song22usano.jpg"
   opacity: 0.24
-tags: 歌曲 虚拟UP主 兎乃
+tags: 原创作品 2023年作品 虚拟UP主相关 2024年重制作品
 sidebar: []
 ---
 
 > 梦里没有英雄，只有赤裸裸的自己。
 
-## 基本信息
+## 歌曲
 
-**发布日期：** 2023年12月4日
+2023 原版Demo
 
-**风格与曲速：** 89BPM / Rock Pop
+<audio controls><source src="/assets/audio/song22demo.wav" type="audio/wav"></audio>
 
-**作词、作曲、编曲：** Kuro Zim
+2023 兎乃原版：
 
-**后期：** [MortonWill莫顿](https://www.acfun.cn/u/55519465)
+<audio controls><source src="/assets/audio/song22usano.mp3" type="audio/mp3"></audio>
 
-**曲绘：** [羽宮みこ](https://www.acfun.cn/u/64396889)
+2024 重制版：
 
-**MV制作：** [浅子Asako](https://www.acfun.cn/u/261980)
+<audio controls><source src="/assets/audio/song22v24.mp3" type="audio/mp3"></audio>
 
-**歌手：** [兎乃](https://www.acfun.cn/u/12648555)
+## 歌词
 
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac43138665) / [Bilibili](https://www.bilibili.com/video/BV1Bu4y1V7oa)
-
-## 试听与歌词
-
-**正式版：** <audio controls><source src="/assets/audio/song22usano.wav" type="audio/wav"></audio>
-
-**赤羽Demo版:** <audio controls><source src="/assets/audio/song22demo.wav" type="audio/wav"></audio>
+词曲：Kuro Zim
 
 <pre>
 那时的我很懵懂 爱编织绮丽的梦

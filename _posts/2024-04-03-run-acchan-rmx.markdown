@@ -3,39 +3,29 @@ layout: post
 title:  "小超快跑"
 subtitle: "Kuro Zim's “ManiAc-Funkot:177” Remix"
 author: "Remixed by Kuro Zim"
-categories: Remix歌曲
+categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_acchanrunrmx.jpg"
   opacity: 0.24
-tags: 歌曲 Remix AcFun官曲二创 AcFun周年纪念作 AcFun独家 SynthV 艾可 MC石头
+tags: Remix作品 2024年Remix作品 AcFun相关 AC娘相关 AcFun站庆相关作品
 sidebar: []
 ---
 
 > 跟着Funkot的节拍，小超快跑嗨起来！
 
-## 基本信息
+## 歌曲
 
-**发布日期：** 2024年4月3日
-
-**风格与曲速：** 177BPM / Funkot + α
-
-**原作词：** [AC娘本体](https://www.acfun.cn/u/23682490)
-
-**原作曲：** Y.D.
-
-**原唱：** AC娘本体
-
-**Remix、MV制作、封面绘制：** Kuro Zim
-
-**歌手：** 艾可（Synthesizer V）
-
-**喊麦音源：** [MC石头](https://www.acfun.cn/u/233486)
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac44215187)
-
-## 试听与歌词
+放送供应（艾可 ver.）
 
 <audio controls><source src="/assets/audio/acchanrunrmx.mp3" type="audio/mp3"></audio>
+
+原声大碟（AC娘本体 ver.）
+
+<audio controls><source src="/assets/audio/acchanrunrmx-ori.mp3" type="audio/mp3"></audio>
+
+## 歌词
+
+作词：AC娘本体 / MC石头填词：Kuro Zim / 作曲：Y.D. / 重编曲：Kuro Zim
 
 <pre>
 嗯，大家好！我依然是来自你们最熟悉的那个好朋友——MC石头。

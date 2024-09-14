@@ -3,35 +3,21 @@ layout: post
 title:  "絵本"
 subtitle: "Kuro Zim's “Lost and Found” Remix"
 author: "Remixed by Kuro Zim"
-categories: Remix歌曲
+categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_ehonrmx.jpg"
   opacity: 0.24
-tags: 歌曲 Remix 偶像大师百万现场 北沢志保 同人
+tags: Remix作品 偶像大师同人作品 2022年Remix作品
 sidebar: []
 ---
 
 > 丢掉无法超越的温暖回忆，是否就能相应地得到成长的补偿？
 
-## 基本信息
-
-**发布日期：** 2022年12月28日
-
-**风格与曲速：** 78BPM → 156BPM / Dark Ambient
-
-**原作词：** 坂井季乃
-
-**原作曲：** 增谷贤
-
-**原唱：** 北泽志保（CV：雨宫天） 
-
-**Remix、MV制作：** Kuro Zim
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac40297608) / [Bilibili](https://www.bilibili.com/video/BV1Tg411t7Ks/)
-
-## 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/ehonrmx.mp3" type="audio/mp3"></audio>
+
+## 歌词
 
 歌词翻译：[sixtean](https://music.163.com/user/home?id=51303203)
 

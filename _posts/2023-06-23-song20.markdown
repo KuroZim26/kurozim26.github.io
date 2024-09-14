@@ -7,34 +7,21 @@ categories: 歌曲
 banner: 
   image: "/assets/images/songjacket/jacket_song20.png"
   opacity: 0.24
-tags: 歌曲 Rap 自唱 ACE_Studio 文栗 云灏 然糊糊 衍生作品
+tags: 原创作品 2023年作品 唱作
 sidebar: []
 ---
 
 > 爱自己，是人生中最难的课题；直面自己，是对回忆最好的反击。
 
-## 基本信息
-
-**发布日期：** 2023年6月23日
-
-**风格与曲速：** 150BPM / Ambient Hip-Hop
-
-**作词、作曲、编曲、后期、MV制作：** Kuro Zim
-
-**Rap部分歌手：** Kuro Zim
-
-**Hook部分歌手：** 文栗·云灏 (ACE Studio) 
-
-**《次元情书》引用部分歌手：** 然糊糊 (ACE Studio) 
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac41656423) / [Bilibili](https://www.bilibili.com/video/BV1QW4y1S7i9/)
-
-## 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/song20.mp3" type="audio/mp3"></audio>
 
+## 歌词
+
+词曲：Kuro Zim
+
 <pre>
-- Verse 1 -
 Hey you 是否还未进入梦境
 闭上眼睛是否还会无法平静
 抱歉 回忆攻势难以暂停
@@ -53,8 +40,6 @@ Oh no just damn it
 So what cha kidding
 黑暗是世界的真实反映
 说教已足够多了 快去一边好好冷静
-
-- Hook -
 那些令人怜爱的记忆
 为何在那里却想不起
 流过泪的痕迹 却记挂到天明
@@ -62,7 +47,6 @@ So what cha kidding
 就像写在沙滩的姓名
 最难的课题 其实是爱自己
 
-- Verse 2 -
 你喊着你多缺爱 你害怕被谁取代
 你还在言不由衷地把天生的乐观都统统败坏
 你从来不肯看开 不成功就是失败
@@ -81,7 +65,6 @@ Oh suck that 这样一点都不cool guy
 当所有梦想换来现实的一句
 You gonna die
 
-- Hook -
 那些令人怜爱的记忆
 为何在那里却想不起
 流过泪的痕迹 却记挂到天明
@@ -89,7 +72,6 @@ You gonna die
 就像写在沙滩的姓名
 最难的课题 其实是爱自己
 
-- Verse 3 -
 流星划过 照亮你浅浅的酒窝
 在这城市的夜空 回想着幸福的轮廓
 ほら 你还记得吗 这段旋律和文字啊
@@ -108,7 +90,6 @@ You gonna die
 音乐自然不是救赎 但也不是百无一用吧
 你再想一下 稍微再想一下 好吗
 
-- Hook -
 那些令人怜爱的记忆
 为何在那里却想不起
 流过泪的痕迹 却记挂到天明

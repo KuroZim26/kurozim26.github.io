@@ -1,59 +1,33 @@
 ---
 layout: post
 title:  "答案是爱"
-subtitle: "LOVE is My Key"
+subtitle: "LOVE is the Key"
 author: "Kuro Zim"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song11_ritsu.jpg"
   opacity: 0.24
-tags: 歌曲 ACE_Studio 波音律 虚拟UP主 茗魂 朱聂 AI绘图警告
+tags: 原创作品 2022年作品 虚拟UP主相关
 sidebar: []
 ---
 
 >  始终坚信着，爱的美好，是足以穿破黑夜的内心之光。
 
-## 基本信息
+## 歌曲
 
-### 波音律/文栗版
+波音律/文栗版：
 
-【阅览注意：原MV中使用了AI生成的绘图。但波音律版已在2023年8月10日换源为AI不使用的MV，但文栗版MV依旧存在AI。】
+ <audio controls><source src="/assets/audio/song11ritsu.mp3" type="audio/mp3"></audio><br><audio controls><source src="/assets/audio/song11willy.mp3" type="audio/mp3"></audio>
 
-**发布日期：** 2022年11月23日
+茗魂版：
 
-**风格与曲速：** 104BPM / Rock Pop
+<audio controls><source src="/assets/audio/song11minghun.mp3" type="audio/mp3"></audio>
 
-**作词、作曲、编曲、后期、MV制作：** Kuro Zim
-
-**歌手：** 波音律 (ACE Studio)
-
-**在线发布：** [波音律版 - AcFun](https://www.acfun.cn/v/ac39905155) / [波音律版 - Bilibili](https://www.bilibili.com/video/BV1AG4y1d7ug) / [文栗版 - AcFun](https://www.acfun.cn/v/ac40963855_2)
-
-### 茗魂版
-
-**发布日期：** 2023年8月10日
-
-**风格与曲速：** 104BPM / Rock Pop
-
-**作词、作曲、编曲、MV制作：** Kuro Zim
-
-**歌手：** [茗魂](https://www.acfun.cn/u/17912421)
-
->**特别说明：**作为虚拟UP主的茗魂已于2024年3月末在AcFun和Bilibili毕业，并在AcFun以原账号转生为ChaosLive旗下的企业势虚拟UP主朱聂（在Bilibili侧为换号转生），其[自我介绍视频](https://www.acfun.cn/v/ac44324547)已用画面的形式明确提及“茗魂”作为前世的存在（0:25 - 0:30）。
-
-**后期：** [梁梓逸](https://www.acfun.cn/u/33999892)
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac42050497) 
-
-## 试听与歌词
+## 歌词
 
 ![这是图片](/assets/images/songjacket/jacket_song11_minghun.jpg)
 
-**茗魂 ver.** <audio controls><source src="/assets/audio/song11minghun.mp3" type="audio/mp3"></audio>
-
-**波音律 ver.** <audio controls><source src="/assets/audio/song11ritsu.mp3" type="audio/mp3"></audio>
-
-**文栗 ver.** <audio controls><source src="/assets/audio/song11willy.mp3" type="audio/mp3"></audio>
+词曲：Kuro Zim
 
 <pre>
 独自一人在幸福城外
@@ -107,6 +81,7 @@ sidebar: []
 解放了自己 才抵达未来
 </pre>
 
-## 相关文字记录
+## 备注
 
-[这首好听啊！有这么优秀的原创编曲人在a站做dd，多来点关注呜呜呜](https://www.acfun.cn/moment/am2996695)
+* 作为虚拟UP主的茗魂已于2024年3月末在AcFun和Bilibili毕业，并在AcFun以原账号转生为ChaosLive旗下的企业势虚拟UP主朱聂（在Bilibili侧为换号转生），其[自我介绍视频](https://www.acfun.cn/v/ac44324547)已用画面的形式明确提及“茗魂”作为前世的存在（0:25 - 0:30）。
+* [这首好听啊！有这么优秀的原创编曲人在a站做dd，多来点关注呜呜呜](https://www.acfun.cn/moment/am2996695)

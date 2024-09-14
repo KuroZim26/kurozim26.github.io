@@ -3,31 +3,23 @@ layout: post
 title:  "差不多ACer"
 subtitle: "差不多先生 -AcFun 16周年 Edition-"
 author: "Kuro Zim"
-categories: Remix歌曲
+categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_acer16.png"
   opacity: 0.24
-tags: 歌曲 Remix 重编曲 AcFun周年纪念作 AcFun独家 自唱 Rap
+tags: Remix作品 2023年Remix作品 AcFun相关 AcFun站庆相关作品
 sidebar: []
 ---
 
 > 差不多的AcFun，是个差不多的圈。差不多的ACer们，过着差不多的每一天。
 
-## 基本信息
-
-**发布日期：** 2023年6月9日
-
-**风格与曲速：** 88BPM / Dark Ambient Hip-Hop
-
-**原作曲：** 张震岳
-
-**重填词、重编曲、演唱、MV制作：** Kuro Zim
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac41547790)
-
-## 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/acer16.mp3" type="audio/mp3"></audio>
+
+## 歌词
+
+作词：Kuro Zim / 作曲：张震岳 / 重编曲：Kuro Zim
 
 <pre>
 我听着差不多的歌 也看着差不多的舞
@@ -110,6 +102,6 @@ sidebar: []
 我是差不多ACer
 </pre>
 
-## 相关文本记录
+## 备注
 
 * [本改编歌曲的创作后记与要素解释](https://www.acfun.cn/a/ac41571015)

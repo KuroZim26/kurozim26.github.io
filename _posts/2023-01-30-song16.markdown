@@ -3,11 +3,11 @@ layout: post
 title:  "走吧，我们去流浪"
 subtitle: "Let's Go for our Wanders"
 author: "Kuro Zim"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song16.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID 徵羽摩柯 ACE_Studio 文栗 Rap 生日作 AI绘图警告
+tags: 原创作品 2023年作品
 sidebar: []
 ---
 
@@ -15,21 +15,11 @@ sidebar: []
 
 ## 基本信息
 
-【阅览注意：该版本的MV和封面中使用了AI生成的绘图。】
-
-**发布日期：** 2023年1月29日
-
-**风格与曲速：** 84BPM / Ambient Hip-Hop
-
-**作词、作曲、编曲、后期、MV制作：** Kuro Zim
-
-**歌手：** 徵羽摩柯 (VOCALOID4) / 文栗 (ACE Studio) 
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac40526272) / [Bilibili](https://www.bilibili.com/video/BV1c84y1L7td/)
-
-## 试听与歌词
-
 <audio controls><source src="/assets/audio/song16.mp3" type="audio/mp3"></audio>
+
+## 歌词
+
+词曲：Kuro Zim
 
 <pre>
 捡起 久违的张狂（张狂）

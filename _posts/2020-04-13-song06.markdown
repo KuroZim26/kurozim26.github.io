@@ -2,37 +2,23 @@
 layout: post
 title:  "FASTER"
 author: "Kuro Zim"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song06.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID 乐正绫 乐正绫生日纪念作
+tags: 原创作品 2020年作品
 sidebar: []
 ---
 
 > 感谢GRGE，中文EUROBEAT安排上了！
 
-## 基本信息
-
-**发布日期：** 2020年4月12日
-
-**风格与曲速：** 160BPM / Eurobeat
-
-**作词、作曲、编曲、MV制作：** Kuro Zim
-
-**VOCALOID调声：** 泉Chuen
-
-**曲绘：** 陌阮
-
-**摄影素材：** 北洛辰 歪歪 Kuro Zim
-
-**歌手：** 乐正绫 (VOCALOID3) 
-
-**在线发布：**[Bilibili](https://www.bilibili.com/video/av625070837)
-
-## 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/song06.mp3" type="audio/mp3"></audio>
+
+## 歌词
+
+词曲：Kuro Zim
 
 <pre>
 这城市律动的速度　和我的心跳在同步
@@ -83,7 +69,3 @@ sidebar: []
 我只能快快融入无穷的夜幕
 从名为回忆的牢笼　全速逃出
 </pre>
-
-## 杂记
-
-* 本曲时长4分12秒，Neta了乐正绫的生日，即“4月12日”。

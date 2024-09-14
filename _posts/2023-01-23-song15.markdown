@@ -3,31 +3,23 @@ layout: post
 title:  "Nocturnal Floor"
 subtitle: "夜的舞池"
 author: "Kuro Zim"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song15.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID 徵羽摩柯 ACE_Studio Bianca
+tags: 原创作品 2023年作品
 sidebar: []
 ---
 
 >  如果感觉迷茫，那就在夜的舞台起舞吧。
 
-## 基本信息
-
-**发布日期：** 2023年1月23日
-
-**风格与曲速：** 162BPM / Dance
-
-**作词、作曲、编曲、后期、MV制作：** Kuro Zim
-
-**歌手：** 徵羽摩柯 (VOCALOID4) / Bianca a.k.a. E02B (ACE Studio) 
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac40498459) / [Bilibili](https://www.bilibili.com/video/BV14M411t7n4/)
-
-### 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/song15.mp3" type="audio/mp3"></audio>
+
+## 歌词
+
+词曲：Kuro Zim
 
 <pre>
 Only you can make yourself ALIVE ALIVE

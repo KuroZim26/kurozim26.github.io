@@ -3,35 +3,21 @@ layout: post
 title:  "次元の恋文～画面の彼方へ～"
 subtitle: "Love Letter Across the Screen (Japanese ver.)"
 author: "Kuro Zim in collaboration with キノコp"
-categories: 歌曲
+categories: 外文原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song03.png"
   opacity: 0.24
-tags: 歌曲 SynthV 花隈千冬 日语歌 AI绘图警告
+tags: 原创作品 合作作品 日语原创 Demo作品 2022年作品
 sidebar: []
 ---
 
-## 基本信息
-
-【阅览注意：该版本的MV中使用了AI生成的绘图。】
-
-**发布日期：** 2022年12月14日
-
-**风格与曲速：** 75BPM / Pop
-
-**作词：** キノコp
-
-**作曲、编曲、后期、MV制作：** Kuro Zim
-
-**歌手：** 花隈千冬 (SynthV)
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac40963855_3) / [Bilibili](https://www.bilibili.com/video/BV1ZP4y1D74a)
-
-## 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/jigennokoibumi.mp3" type="audio/mp3"></audio>
 
-歌词翻译：Kuro Zim
+## 歌词
+
+作词：キノコp / 作曲、二次翻译：Kuro Zim
 
 <pre>
 ゼロと一の国　次元を超え
@@ -82,7 +68,7 @@ sidebar: []
 	有重要的你在这里
 この温度でも　奇跡になった　君を乗せて
 	就算是这样的温度 有你在也变成了奇迹
-  
+
 流れ星　流れる
 	流星划过
 この町の空 輝いているよ

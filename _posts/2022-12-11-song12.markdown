@@ -3,11 +3,11 @@ layout: post
 title:  "小小的我"
 subtitle: "Greatness within Tinyness"
 author: "Kuro Zim"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song12.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID 徵羽摩柯 徵羽摩柯生日作 小子贼疯 自唱 多版本 AI绘图警告
+tags: 原创作品 2022年作品 2023年重制作品 2024年重制作品 唱作
 sidebar: []
 ---
 
@@ -17,55 +17,31 @@ sidebar: []
 
 > 我已不再恐惧，因为渺小中真的藏着伟大。
 
-## 基本信息
+## 歌曲
 
-### 第一版（2022年12月）
+第一版（2022年12月）
 
-【阅览注意：该版本的MV曾经使用了AI生成的绘图，目前可在AcFun投稿的2P看到。】
+<audio controls><source src="/assets/audio/song12v22.mp3" type="audio/mp3">
 
-**发布日期：** 2022年12月9日（AcFun）2022年12月10日（Bilibili）
+第二版（2023年5月）男声Demo
 
-**风格与曲速：** 75BPM / Pop
+<audio controls><source src="/assets/audio/song12v23mdemo.mp3" type="audio/mp3"></audio>
 
-**作词、作曲、编曲、后期、MV制作：** Kuro Zim
+第二版（2023年5月）女声Demo
 
-**歌手：** 徵羽摩柯（VOCALOID4）
+<audio controls><source src="/assets/audio/song12v23fdemo.mp3" type="audio/mp3"></audio>
 
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac40082187) / [Bilibili](https://www.bilibili.com/video/BV1mP4y1Q7Yh/)
+第三版（2024年1月）
 
-### 第二版（2023年5月）
+<audio controls><source src="/assets/audio/song12v24pikachu.mp3" type="audio/mp3"></audio>
 
-【阅览注意：该版本的封面中使用了AI生成的绘图。】
+## 歌词
 
-**发布日期：** 2023年5月18日
-
-**风格与曲速：** 75BPM / Dreamy Pop
-
-**作词、作曲、编曲、歌手、后期、MV制作：** Kuro Zim
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac41390699) / [Bilibili](https://www.bilibili.com/video/BV1Lu411x7fK/)
-
-### 第三版（2024年1月）
-
-**发布日期：** 2024年1月29日
-
-**风格与曲速：** 75BPM / Rock Pop
-
-**作词、作曲、编曲、MV制作：** Kuro Zim
-
-**歌手：** [小子贼疯](https://www.acfun.cn/u/15232)
-
-**后期：** Mix一个旭
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac43634103) / [Bilibili](https://www.bilibili.com/video/BV1ZV411Q7WK/)
-
-## 试听与歌词
-
-### 小子贼疯版
+#### 完整歌词
 
 ![这是图片](/assets/images/songjacket/jacket_song12sp.jpg "第三版特制封面")
 
-<audio controls><source src="/assets/audio/song12v24pikachu.mp3" type="audio/mp3"></audio>
+词曲：Kuro Zim / 润色：小子贼疯
 
 <pre>
 那年的春季 雨淅淅沥沥 心里铺展着星空不管什么天气
@@ -105,24 +81,13 @@ sidebar: []
 唱着心中的感激 坚定地前进
 </pre>
 
-### 原词曲版
-
-**第一版：** <audio controls><source src="/assets/audio/song12v22.mp3" type="audio/mp3"></audio>
-
-**第二版男声Demo：** <audio controls><source src="/assets/audio/song12v23mdemo.mp3" type="audio/mp3"></audio>
-
-**第二版女声Demo：** <audio controls><source src="/assets/audio/song12v23fdemo.mp3" type="audio/mp3"></audio>
-
-该版本的歌词与小子贼疯版存在细微差别（原版→润色后版本）：
+#### 小子贼疯对原歌词和旋律进行的润色调整
 
 <pre>
 1. 渺小的曾经 已定格在曾经 → 渺小的曾经 已永远定格在曾经
 2. 小小的勇气根植在心里 小小的我会把爱铭记 → 小小勇气根植在心里 小小的我会把爱铭记
 </pre>
-
 ## 二次创作记录
 
-| 二次创作 | 相关链接 | 备注 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 片段清唱 by [一块肥猪肝](https://www.acfun.cn/u/4599324) | [AcFun](https://www.acfun.cn/v/ac40432618) | 视频中使用原MV截图 |
-| UTAU音源翻唱 by [菊粉·二学课代表](https://www.acfun.cn/u/684188)<br>音源：AC娘本体一代目(UTAU) | [AcFun](https://www.acfun.cn/v/ac40704707) | 直接使用原MV |
+* 片段清唱（歌者：[一块肥猪肝](https://www.acfun.cn/u/4599324)）： [AcFun](https://www.acfun.cn/v/ac40432618)
+* AC娘音源一代目 UTAU翻调（制作：[菊粉·二学课代表](https://www.acfun.cn/u/684188)）：[AcFun](https://www.acfun.cn/v/ac40704707)

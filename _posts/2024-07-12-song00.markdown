@@ -3,35 +3,23 @@ layout: post
 title: "洛天依也有梦想"
 subtitle: "And Luo Tianyi Has Got A Dream"
 author: "Kuro Zim"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song00.png"
   opacity: 0.24
-tags: 歌曲 VOCALOID 洛天依
+tags: 原创作品 2014年作品
 sidebar: []
 ---
 
 > “最初压箱底的歌曲，其实早就决定了十年间故事的走向”
 
-## 基本信息
-
-**实际完成日期：** 2014年，月日不详
-
-**发布日期：** 2024年7月12日
-
-**风格与曲速：** 180BPM / A cappella, Voiceplay
-
-**作词、作曲、编曲：** T.E.Zimmern (2014)
-
-**MV制作：** Kuro Zim (2024)
-
-**歌手：** 洛天依 (VOCALOID3)
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac45215977) / [Bilibili](https://www.bilibili.com/video/BV1Ui421Y7ag/)
-
-## 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/song00.mp3" type="audio/mp3"></audio>
+
+## 歌词
+
+词曲：Kuro Zim
 
 <pre>
 不要 不要再迷茫

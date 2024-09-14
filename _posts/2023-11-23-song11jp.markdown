@@ -3,11 +3,11 @@ layout: post
 title:  "愛で答えで"
 subtitle: "Answer with Love. - Japanese ver."
 author: "Kuro Zim"
-categories: 歌曲
+categories: 外文原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song11jpdemo.png"
   opacity: 0.24
-tags: 歌曲 SynthV 重音Teto 日语歌
+tags: 原创作品 日语原创 Demo作品 2023年作品
 sidebar: []
 ---
 
@@ -15,21 +15,11 @@ sidebar: []
 
 ## 基本信息
 
-**发布日期：** 2023年11月23日
-
-**风格与曲速：** 104BPM / Rock Pop
-
-**作词、作曲、编曲、后期、MV制作：** Kuro Zim
-
-**歌手：** 重音Teto (SynthV)
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac43011545)
+<audio controls><source src="/assets/audio/song11jpdemo.mp3" type="audio/mp3"></audio>
 
 ## 试听与歌词
 
-<audio controls><source src="/assets/audio/song11jpdemo.mp3" type="audio/mp3"></audio>
-
-歌词翻译：Kuro Zim
+词曲、翻译：Kuro Zim
 
 <pre>
 悪夢から目覚めて、呼吸はまだ乱れる

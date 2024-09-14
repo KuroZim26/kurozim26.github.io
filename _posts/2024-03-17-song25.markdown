@@ -3,33 +3,23 @@ layout: post
 title: "许我一场清醒梦"
 subtitle: "Grant me a Lucid Dream"
 author: "Kuro Zim"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song25.jpg"
   opacity: 0.24
-tags: 歌曲 SynthV 赤羽 艾可
+tags: 原创作品 2024年作品
 sidebar: []
 ---
 
 > 在单色调的现实留一个喘息的空当，何错之有？
 
-## 基本信息
-
-**发布日期：** 2024年3月17日
-
-**风格与曲速：** 128BPM / Synth Chill
-
-**作词、作曲、编曲、后期、MV制作：** Kuro Zim
-
-**主唱歌手：** 艾可 (Synthesizer V Lite)
-
-**和声与Rap：** 赤羽 (Synthesizer V Lite)
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac44048868) / [Bilibili](https://www.bilibili.com/video/BV1xC411b79P/)
-
-## 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/song25.mp3" type="audio/mp3"></audio>
+
+## 歌词
+
+词曲：Kuro Zim
 
 <pre>
 疲惫的身体在求救

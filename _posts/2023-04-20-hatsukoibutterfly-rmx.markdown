@@ -3,35 +3,21 @@ layout: post
 title:  "初恋バタフライ"
 subtitle: "Kuro Zim's “恋生夢蝶 / KOISEIMUCHOU” Remix"
 author: "Remixed by Kuro Zim"
-categories: Remix歌曲
+categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_miyarmx.jpg"
   opacity: 0.24
-tags: 歌曲 Remix 偶像大师百万现场 宫尾美也 同人
+tags: Remix作品 偶像大师同人作品 2023年Remix作品
 sidebar: []
 ---
 
 > 不是HKT48那首！不是HKT48那首！不是HKT48那首！
 
-## 基本信息
-
-**发布日期：** 2023年4月20日
-
-**风格与曲速：** 140BPM / Dreamstep Fusion
-
-**原作词：** 唐沢美帆
-
-**原作曲：** 石井健太郎・福富雅之
-
-**原唱：** 宫尾美也（CV.桐谷蝶蝶）
-
-**Remix、MV制作：** Kuro Zim
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac41177658) / [Bilibili](https://www.bilibili.com/video/BV1rk4y1a7Rp/)
-
-## 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/miyarmx.mp3" type="audio/mp3"></audio>
+
+## 试听与歌词
 
 歌词翻译：[YOU宅](https://music.163.com/#/song?id=29761046)
 

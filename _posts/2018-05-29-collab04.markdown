@@ -3,37 +3,23 @@ layout: post
 title:  "我们的歌"
 subtitle: "Song of OURS"
 author: "❤Kuro Zim & 洛微 a.k.a. 幸语组_Shiakoto❤"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_collabo04.jpg"
   opacity: 0.24
-tags: 歌曲 VOCALOID 乐正绫 洛天依 联合创作 多版本 衍生作品
+tags: 原创作品 合作作品 2018年重制作品
 sidebar: []
 ---
 
 >  就让这首我们的歌 一直循环下去 回响在你我心底
 
-## 基本信息
-
-**发布日期：** 2018年5月29日
-
-**风格与曲速：** 72BPM / Guitar
-
-**作词、MV制作：** 洛微
-
-**作曲、编曲：** Kuro Zim (OT: 简单的歌)
-
-**后期：** DZ韦元子
-
-**曲绘：** 铮了个粽子
-
-**歌手：**  洛天依 (VOCALOID4) & 乐正绫 (VOCALOID3) 
-
-**在线发布：** [Bilibili](https://www.bilibili.com/video/av24077110?p=1) / [网易云音乐](https://music.163.com/song?id=1985821598)
-
-## 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/collab04.mp3" type="audio/mp3"></audio>
+
+## 歌词
+
+作词：洛微 / 作曲：Kuro Zim
 
 <pre>
 你　还记得吗　那一个晴朗的初夏
@@ -57,6 +43,6 @@ sidebar: []
 一直循环下去　回响在你我心底
 </pre>
 
-## 杂记
+## 备注
 
-本曲封面与原作《简单的歌（2018版）》互相对应。
+作为《简单的歌》的重填词姊妹曲，本曲封面与原作互相对应。

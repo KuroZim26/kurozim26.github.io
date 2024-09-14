@@ -3,33 +3,23 @@ layout: post
 title:  "写给今天的歌"
 subtitle: "Song for Today"
 author: "Kuro Zim"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song13.jpg"
   opacity: 0.24
-tags: 歌曲 ACE_Studio 波音律 洛天依 文栗 雀河 AI绘图警告
+tags: 原创作品 2023年作品
 sidebar: []
 ---
 
 >  唯一不变的是，你活在今天。
 
-## 基本信息
-
-【阅览注意：该版本的封面中使用了AI生成的绘图。】
-
-**发布日期：** 2023年1月1日
-
-**风格与曲速：** 96BPM / Rock Pop
-
-**作词、作曲、编曲、后期、MV制作：** Kuro Zim
-
-**歌手：** 波音律 洛天依 文栗 雀河 (ACE Studio) 
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac40320336) / [Bilibili](https://www.bilibili.com/video/BV1L84y1s7Gp)
-
-### 试听与歌词
+## 歌曲
 
 <audio controls><source src="/assets/audio/song13.mp3" type="audio/mp3"></audio>
+
+## 歌词
+
+词曲：Kuro Zim
 
 <pre>
 醒在梦碎之前 抬头仍看见蔚蓝的天

@@ -2,39 +2,26 @@
 layout: post
 title:  "Purewhite Dream - Candlelight Ver."
 author: "Kuro Zim ❤ 洛微"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_collabo02.png"
   opacity: 0.24
-tags: 歌曲 VOCALOID 心华 星尘 联合创作
+tags: 原创 合作作品 2017年作品
 sidebar: []
 ---
 
 >  永远的陪伴，就是最好的答案。
 
-## 基本信息
-
-**发布日期：** 2017年10月22日
-
-**风格与曲速：** 86BPM / Emotional Folk
-
-**作词、副歌作曲、MV制作：** 洛微
-
-**主歌作曲、编曲：** Kuro Zim
-
-**后期：** 紫荆7x
-
-**曲绘：** 琉
-
-**歌手：** 星尘 (VOCALOID4) & 心华 (VOCALOID3)
-
-**在线发布：** [Bilibili](https://www.bilibili.com/video/av15639021?p=1) / [网易云音乐](https://music.163.com/song?id=516419100)
-
-## 试听与歌词
+## 歌曲
 
 <audio controls>
 	<source src="/assets/audio/collab02.mp3" type="audio/mp3">
 </audio>
+
+## 歌词
+
+作词：洛微 / 作曲：Kuro Zim
+
 
 <pre>
 一个人静悄悄地躺在窗边
@@ -79,6 +66,6 @@ sidebar: []
 永远的陪伴 就是最好的答案
 </pre>
 
-## 杂记
+## 备注
 
 * 实际上在《Purewhite Dream》标题下存在两个分支版本（但洛微方面将这两个分支确定为两首完全不同的歌曲），本作为其中之一。另一个分支版本为《Purewhite Dream - Sunglow Ver.》，主歌作曲为S.cr，而歌词的大部分也与Candlelight ver.不同。关于这两个分支版本的具体信息可参看[本作的萌娘百科内容页](https://zh.moegirl.org.cn/Purewhite_Dream)。

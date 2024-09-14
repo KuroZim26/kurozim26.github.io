@@ -3,11 +3,11 @@ layout: post
 title:  "BELIEVE"
 subtitle: "Kuro Zim's “Remorseless Believer” Remix"
 author: "Remixed by Kuro Zim"
-categories: Remix歌曲
+categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_believermx.jpg"
   opacity: 0.24
-tags: 歌曲 Remix AcFun官曲二创 AcFun周年纪念作 AcFun独家 ACE_Studio 绮萱 然糊糊
+tags: Remix作品 2023年Remix作品 AcFun相关 AcFun站庆相关作品
 sidebar: []
 ---
 
@@ -15,25 +15,9 @@ sidebar: []
 
 ## 基本信息
 
-**发布日期：** 2023年6月16日
-
-**风格与曲速：** 154BPM / Happy Hardcore + Neurofunk
-
-**原作词：** [妖狐公子](https://www.acfun.cn/u/16073533.aspx)
-
-**原作曲：** [炎羽瑾](https://www.acfun.cn/u/1064245.aspx)、[小勒个朵](https://www.acfun.cn/u/14335477.aspx)
-
-**原唱：** [AC娘本体](https://www.acfun.cn/u/23682490.aspx)（以音乐平台上的单曲发布为准）
-
-**Remix、MV制作、封面绘制：** Kuro Zim
-
-**歌手：** 绮萱·然糊糊（ACE Studio）
-
-**在线发布：** [AcFun](https://www.acfun.cn/v/ac41596894)
-
-## 试听与歌词
-
 <audio controls><source src="/assets/audio/believermx.mp3" type="audio/mp3"></audio>
+
+## 歌词
 
 <pre>
 相信屋檐能长出猫……
@@ -80,7 +64,7 @@ sidebar: []
 相信爱过的人不老……
 </pre>
 
-## 杂记
+## 备注
 
 * 本Remix计划实际上在2022年，AcFun音乐舞蹈区推出联合征稿活动时就已形成，但当时因实力有限，因此仅制作了一首质量较低的原创《NOW is the Time》。
 * AC娘本体已在其账号上转评了本作的投稿，代表本作作为16周年纪念曲，一定程度上已获得官方认可。
