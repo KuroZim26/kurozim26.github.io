@@ -3,7 +3,7 @@ layout: post
 title: "梦里没有英雄"
 subtitle: "No Heroes in Dreams"
 author: "Kuro Zim"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song22usano.jpg"
   opacity: 0.24

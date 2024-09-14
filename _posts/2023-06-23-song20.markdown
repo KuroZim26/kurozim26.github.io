@@ -3,7 +3,7 @@ layout: post
 title: "最难的课题"
 subtitle: "The Hardest Subject"
 author: "Kuro Zim"
-categories: 歌曲
+categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song20.png"
   opacity: 0.24
