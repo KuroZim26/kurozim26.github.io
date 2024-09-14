@@ -6,7 +6,7 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_collabo02.png"
   opacity: 0.24
-tags: 原创 合作作品 2017年作品
+tags: 原创作品 合作作品 2017年作品
 sidebar: []
 ---
 

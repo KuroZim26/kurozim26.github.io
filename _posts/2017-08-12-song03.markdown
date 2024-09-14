@@ -8,7 +8,7 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song03.png"
   opacity: 0.24
-tags: 原创 2017年作品 2019年重制作品 2022年重制作品 AC娘相关
+tags: 原创作品 2017年作品 2019年重制作品 2022年重制作品 AC娘相关
 sidebar: []
 ---
 
