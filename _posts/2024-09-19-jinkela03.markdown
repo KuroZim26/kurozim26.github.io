@@ -6,7 +6,7 @@ categories: 人力VOCALOID作品
 banner: 
   image: "/assets/images/songjacket/jacket_jinkela03.png"
   opacity: 0.24
-tags: 人力VOCALOID作品 2024年人力V作品 金坷垃 VOCALOID二创
+tags: 人力VOCALOID作品 2024年人力V作品 金坷垃 VOCALOID名曲二创
 sidebar: []
 ---
 

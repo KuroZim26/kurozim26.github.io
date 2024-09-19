@@ -2,10 +2,10 @@
 layout: post
 title:  "周冠宇的上赛法则"
 subtitle: "Zhou Guanyu's S.I.C. Rule"
-author: "Remixed by Kuro Zim"
+author: "Lyrics by Kuro Zim"
 categories: 填词作品
 banner: 
-  image: "/assets/images/songjacket/sicrule.jpg"
+  image: "/assets/images/songjacket/jacket_sicrule.jpg"
   opacity: 0.24
 tags: 填词作品 2024年填词作品 F1大奖赛相关创作
 sidebar: []
