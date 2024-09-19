@@ -15,7 +15,7 @@ title: 作品列表
 | :--------------------------------------------------------: | :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------: |
 |                   幸福的语言<br>ft. 星尘                   | 词曲：T.E.Zimmern<br>编曲·后期：[神野凛_KmR](https://space.bilibili.com/802881)<br/>曲绘：[红鸟Akane](https://space.bilibili.com/3435572)<br/>MV：T.E.Zimmern | 2016年5月14日  | <audio controls><source src="/assets/audio/song01.mp3" type="audio/mp3"></audio><br/>[Bilibili](https://www.bilibili.com/video/BV1ss411B7EM) / [Bilibili音频区](https://www.bilibili.com/audio/au37678?type=3) / [网易云音乐](https://music.163.com/song?id=478112876) |                                                        |
 |                    Hey Kuro<br>ft. 星尘                    | 词曲：T.E.Zimmern<br/>编曲：泠魔Boy<br/>VOCALOID调声&后期、MV制作：Luong<br/>(Incubo泠蝶 / Unoge)<br/>曲绘：九粮米液 | 2018年8月12日  | <audio controls><source src="/assets/audio/song02.mp3" type="audio/mp3"></audio><br/>[Bilibili](https://www.bilibili.com/video/av28911978?p=1) / [Bilibili音频区](https://www.bilibili.com/audio/au37981?type=3) |                    原作完成于2016年                    |
-|    次元情书 ~Love Letter Across the Screen~<br>ft. 星尘    | 词曲、编曲：Kuro Zim<br/>VOCALOID调声&后期：[黑方Serge](https://space.bilibili.com/448500)<br>曲绘：[阿鱼鱼w (Sameki)](https://space.bilibili.com/1636079)<br/>摄影素材： 花桑puruKO<br/>MV制作： [墨涛 (AlfredMT)]( | 2017年8月12日  | <audio controls><source src="/assets/audio/song03v17.mp3" type="audio/mp3"></audio><br/>[Bilibili](https://www.bilibili.com/video/av13257396) / [Bilibili音频区](https://www.bilibili.com/audio/au326548?type=3) / [网易云音乐](https://music.163.com/song?id=497377154) |                                                        |
+|    次元情书 ~Love Letter Across the Screen~<br>ft. 星尘    | 词曲、编曲：Kuro Zim<br/>VOCALOID调声&后期：[黑方Serge](https://space.bilibili.com/448500)<br>曲绘：[阿鱼鱼w (Sameki)](https://space.bilibili.com/1636079)<br/>摄影素材： 花桑puruKO<br/>MV制作： [墨涛 (AlfredMT)](https://space.bilibili.com/3104111) | 2017年8月12日  | <audio controls><source src="/assets/audio/song03v17.mp3" type="audio/mp3"></audio><br/>[Bilibili](https://www.bilibili.com/video/av13257396) / [Bilibili音频区](https://www.bilibili.com/audio/au326548?type=3) / [网易云音乐](https://music.163.com/song?id=497377154) |                                                        |
 |                   简单的歌<br>ft. 乐正绫                   | 作词、作曲、编曲、MV制作： Kuro Zim<br/>后期： [DZ韦元子](https://space.bilibili.com/11589966)<br/>曲绘： [歌渝](https://space.bilibili.com/17389346) | 2018年4月12日  | <audio controls><source src="/assets/audio/song04v18.mp3" type="audio/mp3"></audio><br> [Bilibili](https://www.bilibili.com/video/av21928922) / [Bilibili音频区](https://www.bilibili.com/audio/au287986?type=3) / [网易云音乐](https://music.163.com/song?id=552136655) |                                                        |
 |        幸福的信念 ~Faith of Happiness~<br>ft. 星尘         | 作词、作曲、编曲： Kuro Zim<br>调声： [黑方Serge](https://space.bilibili.com/448500)<br/>后期： [KmR](https://space.bilibili.com/802881)<br>曲绘、MV制作： [久井茜](https://space.bilibili.com/3435572) | 2018年5月19日  | <audio controls><source src="/assets/audio/song05v18sd.mp3" type="audio/mp3"></audio><br> [Bilibili](https://www.bilibili.com/video/av23611305) |                      VOCALOID本家                      |
 |        幸福的信念 ~Faith of Happiness~<br/>ft. AUZ         | 作词、作曲、编曲： Kuro Zim<br/>人声本家： [AUZ](https://space.bilibili.com/8064923)<br/>人声后期： 大优君<br/>曲绘、MV制作： [久井茜](https://space.bilibili.com/3435572) | 2018年5月19日  | <audio controls><source src="/assets/audio/song05v18auz.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/BV1tp411d7p5) / [网易云音乐](https://music.163.com/song?id=563912845) |                        人声本家                        |
@@ -221,16 +221,16 @@ title: 作品列表
 | 预告：Nocturnal Floor | [AcFun](https://www.acfun.cn/v/ac40484922) / [Bilibili](https://www.bilibili.com/video/BV1U14y1M7ps/) | |
 | Remix预告：BELIEVE | [AcFun](https://www.acfun.cn/v/ac41588601) | |
 | 翻调预告：AC娘热异常 | [AcFun](https://www.acfun.cn/v/ac44652338) | |
-| 明日方舟GMV：夢にかけるRainbow | [AcFun](https://www.acfun.cn/v/ac44438609) / [Bilibili](https://www.bilibili.com/video/BV1wE421578Q/)<br>*本视频实际是基于明日方舟和偶像大师百万现场同声优角色的二创，因此按照AB两站的分区机制差异和本人选择，该视频在A站属于手游区，在B站属于GMV区* ||
+| 明日方舟GMV：夢にかけるRainbow | [AcFun](https://www.acfun.cn/v/ac44438609) / [Bilibili](https://www.bilibili.com/video/BV1wE421578Q/) |本视频实际是基于明日方舟和偶像大师百万现场同声优角色的二创，因此按照AB两站的分区机制差异和本人选择，该视频在A站属于手游区，在B站属于GMV区|
 
 ## 六、以非词曲作者身份参与制作的作品
 
-| 原作者 - 作品 | 担当职能 | 试听链接 |
-| :--: | :--: | :--: |
-| 洛微 - 彼岸蔷薇 (Demo ver.) | 编曲 | [Bilibili](https://www.bilibili.com/video/BV15W411A7hK/) |
-| DZ韦元子 - 光（ft. 星尘)(Cover 陈粒) | MV制作 | [Bilibili](https://www.bilibili.com/video/BV1DE411S7ds/) |
-| DZ韦元子 - 少年 (ft. 星尘)(Cover 梦然) | MV制作 | [Bilibili](https://www.bilibili.com/video/BV1hf4y117ge)<br>*考虑到该稿制作时本人处于比较窘迫的状态，因此本人选择在该稿件中匿名* |
-| 西园寺hihumi - 地球儀 (Cover 米津玄师) | 简单修对与后期 | [AcFun](https://www.acfun.cn/v/ac44510403) / [Bilibili](https://www.bilibili.com/video/BV1wi421X7Je/) |
+| 原作者 - 作品 | 担当职能 | 试听链接 | 备注 |
+| :--: | :--: | :--: | :--: |
+| 洛微 - 彼岸蔷薇 (Demo ver.) | 编曲 | [Bilibili](https://www.bilibili.com/video/BV15W411A7hK/) |  |
+| DZ韦元子 - 光（ft. 星尘)(Cover 陈粒) | MV制作 | [Bilibili](https://www.bilibili.com/video/BV1DE411S7ds/) |  |
+| DZ韦元子 - 少年 (ft. 星尘)(Cover 梦然) | MV制作 | [Bilibili](https://www.bilibili.com/video/BV1hf4y117ge) | 考虑到该稿制作时本人处于比较窘迫的状态，因此本人选择在该稿件中匿名 |
+| 西园寺hihumi - 地球儀 (Cover 米津玄师) | 简单修对与后期 | [AcFun](https://www.acfun.cn/v/ac44510403) / [Bilibili](https://www.bilibili.com/video/BV1wi421X7Je/) |  |
 
 ## 七、基于AI平台的自生成音乐片段
 
