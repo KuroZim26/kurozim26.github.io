@@ -209,6 +209,7 @@ title: 作品列表
 | OVERMASTER，但是金坷垃 | [プロジェクト・フェアリー - オーバーマスター (M@STER VERSION)](https://music.163.com/#/song?id=22795611) | 金坷垃 | [AcFun](https://www.acfun.cn/v/ac43663343) / [Bilibili](https://www.bilibili.com/video/BV19x4y1Z7ma/) |
 | Mystic Light Quest，但是金坷垃 | [塞壬唱片-MSR (Prod. KOTONOHOUSE, RANASOL) ft. Machico - Mystic Light Quest](https://music.163.com/#/song?id=2612747239) | 金坷垃、一只大哈鱼 | [AcFun](https://www.acfun.cn/v/ac46033936) / [Bilibili](https://www.bilibili.com/video/BV1MVveedEK9/) |
 | 私は雨，但是金坷垃 | [稲葉曇『私は雨』Vo. 歌愛ユキ](https://www.bilibili.com/video/BV1EE421M7zP) | 金坷垃 | [AcFun](https://www.acfun.cn/v/ac46266435) / [Bilibili](https://www.bilibili.com/video/BV1SHt7efErx) |
+| Tomorrow Program，但是金坷垃 | [トゥインクルリズム - Tomorrow Program](https://music.163.com/#/song?id=549309012) | 金坷垃 | [AcFun](https://www.acfun.cn/v/ac46275904) / [Bilibili](https://www.bilibili.com/video/BV198bFeWExA/) |
 
 ### 3.其他难以分类的综合二创
 
