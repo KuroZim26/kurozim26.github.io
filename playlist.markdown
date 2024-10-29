@@ -227,6 +227,7 @@ title: 作品列表
 | Remix预告：BELIEVE | [AcFun](https://www.acfun.cn/v/ac41588601) | |
 | 翻调预告：AC娘热异常 | [AcFun](https://www.acfun.cn/v/ac44652338) | |
 | 明日方舟GMV：夢にかけるRainbow | [AcFun](https://www.acfun.cn/v/ac44438609) / [Bilibili](https://www.bilibili.com/video/BV1wE421578Q/) |本视频实际是基于明日方舟和偶像大师百万现场同声优角色的二创，因此按照AB两站的分区机制差异和本人选择，该视频在A站属于手游区，在B站属于GMV区|
+| 宮舞モカ Lite版测试 | [Bilibili](https://www.bilibili.com/video/BV1w4m5YBE7b/) |测试用曲：次元の恋文～画面の彼方へ～<br>~~我特么成靶场了~~|
 
 ## 六、以非词曲作者身份参与制作的作品
 
@@ -235,7 +236,7 @@ title: 作品列表
 | 洛微 - 彼岸蔷薇 (Demo ver.) | 编曲 | [Bilibili](https://www.bilibili.com/video/BV15W411A7hK/) |  |
 | DZ韦元子 - 光（ft. 星尘)(Cover 陈粒) | MV制作 | [Bilibili](https://www.bilibili.com/video/BV1DE411S7ds/) |  |
 | DZ韦元子 - 少年 (ft. 星尘)(Cover 梦然) | MV制作 | [Bilibili](https://www.bilibili.com/video/BV1hf4y117ge) | 考虑到该稿制作时本人处于比较窘迫的状态，因此本人选择在该稿件中匿名 |
-| 西园寺hihumi - 地球儀 (Cover 米津玄师) | 简单修对与后期 | [AcFun](https://www.acfun.cn/v/ac44510403) / [Bilibili](https://www.bilibili.com/video/BV1wi421X7Je/) |  |
+| 西园寺hihumi - 地球儀 (Cover 米津玄师) | 简单修对与后期 | [AcFun](https://www.acfun.cn/v/ac44510403) / [Bilibili](https://www.bilibili.com/video/BV1wi421X7Je/) | ~~其实是电灯泡担当~~ |
 
 ## 七、基于AI平台的自生成音乐片段
 
@@ -250,4 +251,6 @@ title: 作品列表
 | Suno：我要玩最热无终奇语 | [AcFun](https://www.acfun.cn/v/ac45374408) / [Bilibili](https://www.bilibili.com/video/BV12W421R7XG/) |
 | Suno：我要看夏活前瞻直播 | [AcFun](https://www.acfun.cn/v/ac45472647) |
 | Suno：中国男足的无尽梦魇 | [AcFun](https://www.acfun.cn/v/ac46233115) / [Bilibili](https://www.bilibili.com/video/BV1UF4hetEaM/) |
+| Suno：我要玩最热无终奇语 (DLC ver.) | [AcFun](https://www.acfun.cn/v/ac46443069) / [Bilibili](https://www.bilibili.com/video/BV11q1YYdErJ/) |
+| Suno：促融共竞，但是协心竞技 | [Bilibili](https://www.bilibili.com/video/BV1WrSxYyEvg/) |
 
