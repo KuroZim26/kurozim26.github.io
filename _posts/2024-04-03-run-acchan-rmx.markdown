@@ -7,7 +7,7 @@ categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_acchanrunrmx.jpg"
   opacity: 0.24
-tags: Remix作品 2024年Remix作品 AcFun相关 AC娘相关 AcFun站庆相关作品
+tags: Remix作品 2024年Remix作品 AcFun相关 AC娘相关 AcFun站庆相关作品 得到AC娘本体官方认可的作品
 sidebar: []
 ---
 

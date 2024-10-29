@@ -51,6 +51,7 @@ title: 作品列表
 |                    未止之雨<br>ft. 绮萱                    |                           Kuro Zim                           |  2024年6月8日  | <audio controls><source src="/assets/audio/song26.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac44775512) / [Bilibili](https://www.bilibili.com/video/BV1dT421Y7bA/) |                                                        |
 |                洛天依也有梦想<br>ft. 洛天依                |                    T.E.Zimmern × Kuro Zim                    | 2024年7月12日  | <audio controls><source src="/assets/audio/song00.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac45215977) / [Bilibili](https://www.bilibili.com/video/BV1Ui421Y7ag/) |               原作完成于2014年，月日不详               |
 |        梦里没有英雄 2024 Remaster ver.<br>ft. 星尘         |                           Kuro Zim                           | 2024年8月12日  | <audio controls><source src="/assets/audio/song22v24.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac46068471) / [Bilibili](https://www.bilibili.com/video/BV1kXYseJE5g/) |                                                        |
+|              唯一指定 ONE AND ONLY<br>ft. Mai              |                           Kuro Zim                           | 2024年10月13日 | <audio controls><source src="/assets/audio/song27.mp3" type="audio/mp3"></audio><br/>[AcFun](https://www.acfun.cn/v/ac46380633) / [Bilibili](https://www.bilibili.com/video/BV1pJ2BYqEXo/) |                                                        |
 
 ### 2. 合作词曲作品
 
@@ -86,7 +87,7 @@ title: 作品列表
 | Songs for Ling<br>~Orchestral arranged Preview~ | Orchestral Arrange | 2020年4月5日 | <audio controls><source src="/assets/audio/mus14.mp3" type="audio/mp3"></audio><br>[Bilibili](https://www.bilibili.com/video/BV1sz411b76n) | 《FASTER》 + 《简单的歌》|
 | Broken, Starless Sky | IDM-Like Breakbeat(Chaotic Ambience) | 2023年4月11日 |<audio controls><source src="/assets/audio/mus15.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac41106133) / [Bilibili](https://www.bilibili.com/video/BV1fM4y117Fh/) | |
 | Rainstorm Street 11pm | Dark Synth Ambient | 2023年4月14日 | <audio controls><source src="/assets/audio/mus16.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac41131102) / [Bilibili](https://www.bilibili.com/video/BV16g4y1u7VS/) | |
-| 荒芜的独奏<br>- A Desolate Soliloquy - | Dubstep | 2023年4月18日 | <audio controls><source src="/assets/audio/mus18.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac41162539) / [Bilibili](https://www.bilibili.com/video/BV1Jg4y1M7BR/) | |
+| 荒芜的独奏<br>- A Desolate Soliloquy -<br>(Rehearsal ver.) | Dubstep | 2023年4月18日 | <audio controls><source src="/assets/audio/mus18.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac41162539) / [Bilibili](https://www.bilibili.com/video/BV1Jg4y1M7BR/) | |
 | Move in the Barren | Electronic Mixture | 2023年6月2日 | <audio controls><source src="/assets/audio/mus17.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac41508509) / [Bilibili](https://www.bilibili.com/video/BV1ou4y1o7JG/) | |
 | ff -forgotten frequency- | Drum'n'Bass | 2024年4月10日 | <audio controls><source src="/assets/audio/mus19.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac44295152) / [Bilibili](https://www.bilibili.com/video/BV1Mm421E7Yz/) | 大型音游公募活动“宇宙电台2024”落选曲<br>作者本人制作的maimai谱面：[AcFun](https://www.acfun.cn/v/ac46201136) / [Bilibili](https://www.bilibili.com/video/BV1ZtHpezENM/) |
 
@@ -94,7 +95,7 @@ title: 作品列表
 
 | 标题 | 链接 |
 | :--: | :--: |
-| 四个原创短片段 | [Bilibili](https://www.bilibili.com/video/BV1oJ411271c/) | 
+| 四个原创短片段 | [Bilibili](https://www.bilibili.com/video/BV1oJ411271c/) |
 | NOW is the Time 30分钟循环版 | [AcFun](https://www.acfun.cn/v/ac36767192) |
 | 肛门紧缩术，但AI不使用 | [AcFun](https://www.acfun.cn/v/ac44218520) / [Bilibili](https://www.bilibili.com/video/BV1fZ421q7Lx/) |
 
@@ -137,6 +138,7 @@ title: 作品列表
 | 脑天直击未公开片段，但是Pocket Singer | [脑天直击未公开片段](https://www.bilibili.com/video/BV1gu411Z7Bo/?spm_id_from=333.788.video.desc.click) | Pocket Singer自制歌手 | [Bilibili](https://www.bilibili.com/video/BV1FX4y1J7E6/) |
 | 上赛法则 | [DECO*27 / 初音ミク - ゴーストルール](https://music.163.com/#/song?id=432486470) | 夏叶子 (DeepVocal)<br>和声：起氏双子（DeepVocal） | [AcFun](https://www.acfun.cn/v/ac44380377) / [Bilibili](https://www.bilibili.com/video/BV1AZ421J7U1/) |
 | 熱異常 ft. AC娘 | [いよわ ft. 足立レイ - 熱異常](https://music.163.com/#/song?id=1991191322) | AC娘本体音源二代目（UTAU）| [AcFun](https://www.acfun.cn/v/ac44674294) |
+| トライアングル（宮舞モカ Short Ver.） | [イルミネーションスターズ - トライアングル](https://music.163.com/#/song?id=2020880850) | 宮舞モカ (Synthesizer V)<br>~~本质苍系八宮めぐる（种田震怒）~~ | [AcFun](https://www.acfun.cn/v/ac46385427) / [Bilibili](https://www.bilibili.com/video/BV15TmjYFEw2) |
 
 ## 四、Remix与改编曲
 
@@ -148,8 +150,9 @@ title: 作品列表
 | **ホントウノワタシ**<br>Kuro Zim's "Once Upon a Rainy Night" Remix<br>*Drum'n'Bass* | [種田梨沙 - ホントウノワタシ](https://y.qq.com/n/ryqq/songDetail/0033oCjs1i2oL4) | <audio controls><source src="/assets/audio/kotohas2rmx.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac39037364) / [Bilibili](https://www.bilibili.com/video/BV1t84y1W71X/) | 加入了洛天依日语声库的合成音 |
 | **絵本**<br>Kuro Zim's "Lost & Found" Remix<br>*Dark Ambient* | [雨宮天 - 絵本](https://music.163.com/#/song?id=29418481) | <audio controls><source src="/assets/audio/ehonrmx.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac40297608) / [Bilibili](https://www.bilibili.com/video/BV1Tg411t7Ks/) | |
 | **初恋バタフライ**<br>Kuro Zim's "KOISEIMUCHOU" Remix<br>*Dreamstep Fusion* | [桐谷蝶々 - 初恋バタフライ](https://music.163.com/#/song?id=29761046) | <audio controls><source src="/assets/audio/miyarmx.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac41177658) / [Bilibili](https://www.bilibili.com/video/BV1rk4y1a7Rp/) | 不是48系的那首。 |
-| **BELIEVE**<br>Kuro Zim's "Remorseless Believer" Remix<br>*Happy Hardcore + Neurofunk* | [Kira_辣椒酱 - BELIEVE](https://www.acfun.cn/v/ac35706345) <br>[AC娘本体 - BELIEVE](https://music.163.com/#/song?id=2006511096) | <audio controls><source src="/assets/audio/believermx.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac41596894) | |
-| **小超快跑**<br>Kuro Zim's "ManiAc-Funkot:177" Remix<br>*Funkot + α* | [AC娘本体 - 小超快跑](https://music.163.com/#/song?id=2006520835) | <audio controls><source src="/assets/audio/acchanrunrmx-ori.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac44215187) |已在AcFun十七周年站庆纪念直播中被选中展演|
+| **BELIEVE**<br>Kuro Zim's "Remorseless Believer" Remix<br>*Happy Hardcore + Neurofunk* | [Kira_辣椒酱 - BELIEVE](https://www.acfun.cn/v/ac35706345) <br>[AC娘本体 - BELIEVE](https://music.163.com/#/song?id=2006511096) | <audio controls><source src="/assets/audio/believermx.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac41596894) | A站官曲Remix系列其一 |
+| **小超快跑**<br>Kuro Zim's "ManiAc-Funkot:177" Remix<br>*Funkot + α* | [AC娘本体 - 小超快跑](https://music.163.com/#/song?id=2006520835) | <audio controls><source src="/assets/audio/acchanrunrmx-ori.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac44215187) |A站官曲Remix系列其二<br>已在AcFun十七周年站庆纪念直播中被选中展演|
+| **时光筑梦**<br>Kuro Zim's "17 Colors and One Moment" Remix<br>*Full Flavor* | [AC娘本体 - 时光筑梦](https://www.acfun.cn/v/ac44847282) | <audio controls><source src="/assets/audio/tokiyume17rmx.mp3" type="audio/mp3"></audio><br/>[AcFun](https://www.acfun.cn/v/ac46446525) |A站官曲Remix系列其三|
 
 ### 2.钢琴改编
 
@@ -166,7 +169,7 @@ title: 作品列表
 ### 3.八音盒改编
 
 | 歌曲 | 试听链接 |
-| :--: | :--: | 
+| :--: | :--: |
 | [種田梨沙 / 渡部恵子 / 高橋未奈美 / 阿部里果 / 南早紀 - ラスト·アクトレス](https://music.163.com/#/song?id=1321424521) | [AcFun](https://www.acfun.cn/v/ac41071354) |
 | [ak+q - ignotus](https://music.163.com/song?id=1416313589) | [AcFun](https://www.acfun.cn/v/ac41102821) |
 | 乐正绫官曲四连串烧（Scarlet Drop / 梦语 / 花 / 我在） | [AcFun](https://www.acfun.cn/v/ac41107020) |

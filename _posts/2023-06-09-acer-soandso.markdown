@@ -7,7 +7,7 @@ categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_acer16.png"
   opacity: 0.24
-tags: Remix作品 2023年Remix作品 AcFun相关 AcFun站庆相关作品
+tags: Remix作品 2023年Remix作品 AcFun相关 AcFun站庆相关作品 得到AC娘本体官方认可的作品
 sidebar: []
 ---
 
