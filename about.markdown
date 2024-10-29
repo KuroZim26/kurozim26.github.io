@@ -15,8 +15,9 @@ title: 关于本人
 
 | **QQ** | 531312402 |
 | **邮箱** | 531312402@qq.com （常用）<br>kurozim17419@gmail.com （不常用） |
-| **AcFun** | [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)
+| **AcFun** | [KuroZim26-音符菌](https://www.acfun.cn/u/30346233) |
 | **Bilibili** | [KuroZim26-音符菌](https://space.bilibili.com/16228948) |
+| **BlueSky** | Kuro Zim / 26th Note<br>@kurozim26note.bsky.social |
 | **明日方舟（官服）** | 廿六音府#1762<br>好友码：349165310 |
 
 ## 关于本站
