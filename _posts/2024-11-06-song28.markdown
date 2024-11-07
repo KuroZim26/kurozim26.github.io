@@ -16,13 +16,14 @@ sidebar: []
 ## 歌曲
 
 <audio controls><source src="/assets/audio/song28.mp3" type="audio/mp3"></audio>
-
 ## 歌词
 
 词曲：Kuro Zim
+
 主唱：ACMusumeII (UTAU) / 和声：绮萱 (DiffSinger)
 
 * 备注：本曲存在一定的反互联网倾向，可能会导致高强度冲浪人士感觉不适
+* 另：由于部分歌词存在平台倾向性，目前仅在AcFun发布，以后可能制作的平台通用版与本作视作同一作品
 
 <pre>
 摸鱼想要找点舞蹈看 或者动听音乐也很赞
