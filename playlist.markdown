@@ -52,6 +52,7 @@ title: 作品列表
 |                洛天依也有梦想<br>ft. 洛天依                |                    T.E.Zimmern × Kuro Zim                    | 2024年7月12日  | <audio controls><source src="/assets/audio/song00.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac45215977) / [Bilibili](https://www.bilibili.com/video/BV1Ui421Y7ag/) |               原作完成于2014年，月日不详               |
 |        梦里没有英雄 2024 Remaster ver.<br>ft. 星尘         |                           Kuro Zim                           | 2024年8月12日  | <audio controls><source src="/assets/audio/song22v24.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac46068471) / [Bilibili](https://www.bilibili.com/video/BV1kXYseJE5g/) |                                                        |
 |              唯一指定 ONE AND ONLY<br>ft. Mai              |                           Kuro Zim                           | 2024年10月13日 | <audio controls><source src="/assets/audio/song27.mp3" type="audio/mp3"></audio><br/>[AcFun](https://www.acfun.cn/v/ac46380633) / [Bilibili](https://www.bilibili.com/video/BV1pJ2BYqEXo/) |                                                        |
+|            不如爱吃饭<br>ft. ACMusumeII & 绮萱             |                           Kuro Zim                           | 2024年11月6日  | <audio controls><source src="/assets/audio/song28.mp3" type="audio/mp3"></audio><br/>[AcFun](https://www.acfun.cn/v/ac46486116) |                                                        |
 
 ### 2. 合作词曲作品
 
