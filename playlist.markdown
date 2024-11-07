@@ -53,6 +53,7 @@ title: 作品列表
 |        梦里没有英雄 2024 Remaster ver.<br>ft. 星尘         |                           Kuro Zim                           | 2024年8月12日  | <audio controls><source src="/assets/audio/song22v24.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac46068471) / [Bilibili](https://www.bilibili.com/video/BV1kXYseJE5g/) |                                                        |
 |              唯一指定 ONE AND ONLY<br>ft. Mai              |                           Kuro Zim                           | 2024年10月13日 | <audio controls><source src="/assets/audio/song27.mp3" type="audio/mp3"></audio><br/>[AcFun](https://www.acfun.cn/v/ac46380633) / [Bilibili](https://www.bilibili.com/video/BV1pJ2BYqEXo/) |                                                        |
 |            不如爱吃饭<br>ft. ACMusumeII & 绮萱             |                           Kuro Zim                           | 2024年11月6日  | <audio controls><source src="/assets/audio/song28.mp3" type="audio/mp3"></audio><br/>[AcFun](https://www.acfun.cn/v/ac46486116) |                                                        |
+|              不如去吃饭<br/>ft. 夏叶子 & 绮萱              |                           Kuro Zim                           | 2024年11月7日  | <audio controls><source src="/assets/audio/song28another.mp3" type="audio/mp3"></audio><br/>[AcFun](https://www.acfun.cn/v/ac46489254) / [Bilibili](https://www.bilibili.com/video/BV1JjDmYNEDW/) |      前者的Another Edition，去除了平台倾向性内容       |
 
 ### 2. 合作词曲作品
 

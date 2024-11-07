@@ -8,7 +8,7 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song03.png"
   opacity: 0.24
-tags: 原创作品 2017年作品 2019年重制作品 2022年重制作品 AC娘相关
+tags: 原创作品 2017年作品 2019年重制作品 2022年重制作品 多差分作品 AC娘相关
 sidebar: []
 ---
 
@@ -25,19 +25,15 @@ sidebar: []
 2017版：
 
 <audio controls><source src="/assets/audio/song03v17.mp3" type="audio/mp3"></audio>
-
 2019版：
 
 <audio controls><source src="/assets/audio/song03v19.mp3" type="audio/mp3"></audio>
-
 2022版（改词）：
 
 <audio controls><source src="/assets/audio/song03v22mod.mp3" type="audio/mp3"></audio>
-
 2024版（原词·AC娘音源）：
 
 <audio controls><source src="/assets/audio/song03v22acchan.mp3" type="audio/mp3"></audio>
-
 ## 歌词
 
 ![这是图片](/assets/images/songjacket/jacket_song03sp.jpg)
