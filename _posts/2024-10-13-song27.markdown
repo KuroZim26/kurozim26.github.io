@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "唯一指定 ONE AND ONLY"
-author: "Kuro Zim ft. Mai"
+author: "Kuro Zim"
 categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song27.jpg"

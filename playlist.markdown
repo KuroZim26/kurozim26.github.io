@@ -5,7 +5,7 @@ title: 作品列表
 
 本页面为Kuro自2016年5月14日以来，发布在各平台上的各类和音乐直接相关的投稿列表。
 
-最近更新：2024年9月21日
+最近更新：2025年1月5日
 
 ## 一、原创歌曲
 
@@ -54,6 +54,7 @@ title: 作品列表
 |              唯一指定 ONE AND ONLY<br>ft. Mai              |                           Kuro Zim                           | 2024年10月13日 | <audio controls><source src="/assets/audio/song27.mp3" type="audio/mp3"></audio><br/>[AcFun](https://www.acfun.cn/v/ac46380633) / [Bilibili](https://www.bilibili.com/video/BV1pJ2BYqEXo/) |                                                        |
 |            不如爱吃饭<br>ft. ACMusumeII & 绮萱             |                           Kuro Zim                           | 2024年11月6日  | <audio controls><source src="/assets/audio/song28.mp3" type="audio/mp3"></audio><br/>[AcFun](https://www.acfun.cn/v/ac46486116) |                                                        |
 |              不如去吃饭<br/>ft. 夏叶子 & 绮萱              |                           Kuro Zim                           | 2024年11月7日  | <audio controls><source src="/assets/audio/song28another.mp3" type="audio/mp3"></audio><br/>[AcFun](https://www.acfun.cn/v/ac46489254) / [Bilibili](https://www.bilibili.com/video/BV1JjDmYNEDW/) |      前者的Another Edition，去除了平台倾向性内容       |
+|              走出童话的旅人<br />ft. 徵羽摩柯              |                           Kuro Zim                           | 2024年12月7日  | <audio controls><source src="/assets/audio/song29.mp3" type="audio/mp3"></audio><br/>[AcFun](https://www.acfun.cn/v/ac46620605) / [Bilibili](https://www.bilibili.com/video/BV1dzi9YkE4A) |                                                        |
 
 ### 2. 合作词曲作品
 
@@ -66,6 +67,7 @@ title: 作品列表
 |          简单的歌 Re:Sing ver.<br>ft. 乐正绫          | 作词： [后夏](https://space.bilibili.com/9863079)<br/>作曲、编曲、MV制作： Kuro Zim<br/>VOCALOID调声&后期： [DZ韦元子](https://space.bilibili.com/11589966)<br/>曲绘： [陽川](https://space.bilibili.com/4047406) | 2020年4月12日  | <audio controls><source src="/assets/audio/song04v20.mp3" type="audio/mp3"></audio><br> [Bilibili](https://www.bilibili.com/video/av625116268) |                                |
 |    枕边的日记<br>2022 ver. ft. ACE Studio 洛天依AI    | 作词：洛微<br/>作曲、编曲、后期：Kuro Zim<br/>曲绘：铮了个粽子<br/>MV制作：洛微 | 2022年11月18日 | <audio controls><source src="/assets/audio/collab01.mp3" type="audio/mp3"></audio><br/>[AcFun](https://www.acfun.cn/v/ac39805031) / [Bilibili](https://www.bilibili.com/video/BV1av4y1m7Bk) |    经过协商后的双站同时发布    |
 |      次元の恋文～画面の彼方へ～<br>ft. 花隈千冬       |    作词： キノコp<br>作曲、编曲、后期、MV制作： Kuro Zim     | 2022年12月14日 | <audio controls><source src="/assets/audio/jigennokoibumi.mp3" type="audio/mp3"></audio><br>[AcFun](https://www.acfun.cn/v/ac40963855_3) / [Bilibili](https://www.bilibili.com/video/BV1ZP4y1D74a) |                                |
+|                      ？？？？？                       |                          ？？？？？                          | 2025年1月28日  |                          ？？？？？                          |  2025年AcFun春节庆典合作供曲   |
 
 ## 二、原创乐曲
 
@@ -101,7 +103,7 @@ title: 作品列表
 | NOW is the Time 30分钟循环版 | [AcFun](https://www.acfun.cn/v/ac36767192) |
 | 肛门紧缩术，但AI不使用 | [AcFun](https://www.acfun.cn/v/ac44218520) / [Bilibili](https://www.bilibili.com/video/BV1fZ421q7Lx/) |
 
-## 三、翻唱歌曲
+## 三、翻唱/翻奏
 
 ### 1. 个人翻唱
 
@@ -141,6 +143,15 @@ title: 作品列表
 | 上赛法则 | [DECO*27 / 初音ミク - ゴーストルール](https://music.163.com/#/song?id=432486470) | 夏叶子 (DeepVocal)<br>和声：起氏双子（DeepVocal） | [AcFun](https://www.acfun.cn/v/ac44380377) / [Bilibili](https://www.bilibili.com/video/BV1AZ421J7U1/) |
 | 熱異常 ft. AC娘 | [いよわ ft. 足立レイ - 熱異常](https://music.163.com/#/song?id=1991191322) | AC娘本体音源二代目（UTAU）| [AcFun](https://www.acfun.cn/v/ac44674294) |
 | トライアングル（宮舞モカ Short Ver.） | [イルミネーションスターズ - トライアングル](https://music.163.com/#/song?id=2020880850) | 宮舞モカ (Synthesizer V)<br>~~本质苍系八宮めぐる（种田震怒）~~ | [AcFun](https://www.acfun.cn/v/ac46385427) / [Bilibili](https://www.bilibili.com/video/BV15TmjYFEw2) |
+
+### 3. 翻奏
+
+|              歌曲               |                             原作                             |                           试听链接                           |
+| :-----------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|    哦，苏珊娜 (Karimba ver.)    |                 哦，苏珊娜 / 蜜雪冰城主题曲                  | [AcFun](https://www.acfun.cn/v/ac46353996) / [Bilibili](https://www.bilibili.com/video/BV1oE12YjEax/) |
+| 没有情人的情人节 (Karimba ver.) | [孟庭苇 - 没有情人的情人节](https://music.163.com/#/song?id=276734) |          [AcFun](https://www.acfun.cn/v/ac46502587)          |
+
+
 
 ## 四、Remix与改编曲
 
@@ -216,6 +227,10 @@ title: 作品列表
 | 私は雨，但是金坷垃 | [稲葉曇『私は雨』Vo. 歌愛ユキ](https://www.bilibili.com/video/BV1EE421M7zP) | 金坷垃 | [AcFun](https://www.acfun.cn/v/ac46266435) / [Bilibili](https://www.bilibili.com/video/BV1SHt7efErx) |
 | Tomorrow Program，但是金坷垃 | [トゥインクルリズム - Tomorrow Program](https://music.163.com/#/song?id=549309012) | 金坷垃 | [AcFun](https://www.acfun.cn/v/ac46275904) / [Bilibili](https://www.bilibili.com/video/BV198bFeWExA/) |
 | 第二坷垃 ~Second Farming~ | [五月天 - 第二人生](https://music.163.com/#/song?id=22197010) | 金坷垃 | [AcFun](https://www.acfun.cn/v/ac46293067) / [Bilibili](https://www.bilibili.com/video/BV1PKszezEn4/) |
+| 危 机 合 约 晨 鼾 行 动 | [塞壬唱片-MSR - Operation Ashring](https://monster-siren.hypergryph.com/music/306837) | AC娘本体 | [AcFun](https://www.acfun.cn/v/ac46610891) |
+| FARM with Ü | [REDALiCE / t+pazolite / Kobaryo / 大西沙織 / 青木志貴 / 河瀬茉希 - DIVE with Ü](https://music.163.com/#/song?id=1965624743) | 金坷垃 | [AcFun](https://www.acfun.cn/v/ac46690766) / [Bilibili](https://www.bilibili.com/video/BV17BCGYmEpo/) |
+| 超大侠 | 周杰伦 - 周大侠 | 无尽梦回：二次元之梦（AC娘） | [AcFun](https://www.acfun.cn/v/ac46718216) |
+| 忍者 + 坐忘道 | 周杰伦 - 忍者<br>王朝1982 - 坐忘道 | 无尽梦回：迷惘之梦（李火旺） | [AcFun](https://www.acfun.cn/v/ac46734926) / [Bilibili](https://www.bilibili.com/video/BV1GW61YxEB3/) |
 
 ### 3.其他难以分类的综合二创
 

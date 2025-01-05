@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "金坷垃：第二人生"
-author: "Kuro Zim ft. 美国圣地亚戈"
+author: "美国圣地亚戈 / Edited by Kuro Zim"
 categories: 人力VOCALOID作品
 banner: 
   image: "/assets/images/songjacket/jacket_jinkela05.png"

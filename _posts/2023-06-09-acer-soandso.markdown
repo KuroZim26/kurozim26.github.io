@@ -2,7 +2,7 @@
 layout: post
 title:  "差不多ACer"
 subtitle: "差不多先生 -AcFun 16周年 Edition-"
-author: "Kuro Zim"
+author: "MC HOTDOG / Edited by Kuro Zim"
 categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_acer16.png"

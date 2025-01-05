@@ -2,7 +2,7 @@
 layout: post
 title: "不如爱吃饭 / 不如去吃饭"
 subtitle: "Better Living than Surfing"
-author: "Kuro Zim ft. Various Virtual Singers"
+author: "Kuro Zim"
 categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song28.png"
