@@ -15,7 +15,7 @@ sidebar: []
 
 ## 歌曲
 
-<audio controls><source src="/assets/audio/snoringac.mp3" type="audio/mp3"></audio>
+<audio controls><source src="/assets/audio/snorringac.mp3" type="audio/mp3"></audio>
 
 ## 歌词
 
