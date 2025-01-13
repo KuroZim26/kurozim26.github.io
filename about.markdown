@@ -13,12 +13,16 @@ title: 关于本人
 
 来到这里的各位可以用以下方式联系到我，或添加游戏好友。
 
-| **QQ** | 531312402 |
-| **邮箱** | 531312402@qq.com （常用）<br>kurozim17419@gmail.com （不常用） |
-| **AcFun** | [KuroZim26-音符菌](https://www.acfun.cn/u/30346233) |
-| **Bilibili** | [KuroZim26-音符菌](https://space.bilibili.com/16228948) |
-| **BlueSky** | Kuro Zim / 26th Note<br>@kurozim26note.bsky.social（不常用） |
-| **明日方舟（官服）** | 廿六音府#1762<br>好友码：349165310 |
+| 平台/游戏                 | 账号/ID                                                      |
+| ------------------------- | ------------------------------------------------------------ |
+| QQ                        | 531312402                                                    |
+| 电子邮箱                  | 531312402@qq.com （常用）<br/>kurozim17419@gmail.com （不常用） |
+| AcFun                     | [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)          |
+| Bilibili                  | [KuroZim26-音符菌](https://space.bilibili.com/16228948)      |
+| 网易云音乐                | 账号：[the26th_](https://music.163.com/#/user/home?id=12948713601)<br>[个人作品电台](https://music.163.com/djradio?id=1218998615) |
+| BlueSky                   | Kuro Zim / 26th Note<br/>@kurozim26note.bsky.social（不常用） |
+| 明日方舟（官服）          | 廿六音府#1762<br/>好友码：349165310                          |
+| 无尽梦回（官服·美梦成真） | 廿六音府<br/>好友码：274731548                               |
 
 ## 关于本站
 

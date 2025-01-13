@@ -231,6 +231,7 @@ title: 作品列表
 | FARM with Ü | [REDALiCE / t+pazolite / Kobaryo / 大西沙織 / 青木志貴 / 河瀬茉希 - DIVE with Ü](https://music.163.com/#/song?id=1965624743) | 金坷垃 | [AcFun](https://www.acfun.cn/v/ac46690766) / [Bilibili](https://www.bilibili.com/video/BV17BCGYmEpo/) |
 | 超大侠 | 周杰伦 - 周大侠 | 无尽梦回：二次元之梦（AC娘） | [AcFun](https://www.acfun.cn/v/ac46718216) |
 | 忍者 + 坐忘道 | 周杰伦 - 忍者<br>王朝1982 - 坐忘道 | 无尽梦回：迷惘之梦（李火旺） | [AcFun](https://www.acfun.cn/v/ac46734926) / [Bilibili](https://www.bilibili.com/video/BV1GW61YxEB3/) |
+| ？？？？？ | [塞壬唱片-MSR - RENEGADE](https://monster-siren.hypergryph.com/music/514584) | ？？？？？ | ？？？？？ |
 
 ### 3.其他难以分类的综合二创
 
