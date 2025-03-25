@@ -11,7 +11,7 @@ banner: "/assets/images/banners/home.jpeg"
 
 欢迎来到沉睡在互联网某个角落的，Kuro Zim的小屋。不过欢迎词还是没怎么想好，就先……
 
-<iframe width="480" height="360" src="/assets/videos/yuitsumuni_oneandonly.mp4" frameborder="0"> </iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114215981482045&bvid=BV1ErokYNE3Z&cid=29041689904&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 按照Jekyll的规矩，首页的这段**Front Matter**过后就是文章列表，包括重要作品的歌词和小部分有价值的文章。感兴趣的话，可以随意翻看取用。
 
