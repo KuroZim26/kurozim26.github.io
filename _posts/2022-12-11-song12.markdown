@@ -7,7 +7,7 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song12sp.jpg"
   opacity: 0.24
-tags: 原创作品 2022年作品 2023年重制作品 2024年重制作品 唱作
+tags: 原创作品 2022年投稿 2023年投稿 2024年投稿 唱作
 sidebar: []
 ---
 
