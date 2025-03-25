@@ -7,19 +7,16 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song25.jpg"
   opacity: 0.24
-tags: 原创作品 2024年作品
+tags: 原创作品 2024年投稿
 sidebar: []
 ---
 
 > 在单色调的现实留一个喘息的空当，何错之有？
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1xC411b79P" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song25.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：赤羽 艾可 (Synthesizer V Lite)
 
 <pre>
 疲惫的身体在求救

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "ホントウノワタシ"
-subtitle: "Kuro Zim's “Once Upon a Rainy Night” Remix"
+subtitle: "Kuro Zim's “Once Upon a Rainy Night” Bootleg"
 author: "Remixed by Kuro Zim"
 categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_kotohas2rmx.jpg"
   opacity: 0.24
-tags: Remix作品 偶像大师同人作品 2022年Remix作品
+tags: Remix作品 偶像大师 2022年投稿
 sidebar: []
 ---
 
@@ -15,11 +15,11 @@ sidebar: []
 
 ## 歌曲
 
-<audio controls><source src="/assets/audio/kotohas2rmx.mp3" type="audio/mp3"></audio>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1t84y1W71X" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-## 歌词
-
-歌词翻译：[星彡P](https://www.bilibili.com/read/cv23506207)
+* 原作：田中 琴葉 (CV. 種田 梨沙) - ホントウノワタシ
+* Remix制作：Kuro Zim
+* 歌词翻译：[星彡P](https://www.bilibili.com/read/cv23506207)
 
 <pre>
 「大丈夫　君は強い人だから」と
@@ -110,5 +110,4 @@ sidebar: []
 繰り返して　今日より明日は強くなると
 	不断往复中 是一天一天愈发坚强的自己
 ずっと　信じてゆける　私だから
-	正因为是这样的自己 所以永远能够相信
-</pre>
+	正因为是这样的自己 所以永远能够相信</pre>

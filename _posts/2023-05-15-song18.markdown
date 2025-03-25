@@ -7,20 +7,17 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song18.jpg"
   opacity: 0.24
-tags: 原创作品 2023年作品 唱作
+tags: 原创作品 2023年投稿
 sidebar: []
 ---
 
 >  Love is the Key, 试图在旋律和节奏之中编织理想。<br>Love is my Key, 试图在挣扎与交战之中寻求答案。<br>还能坚持下来吗？在这无法调和的内心交战之中。<br>
 若能，至少不要再以“幸福”的名义欺骗自己。
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1K24y1K7tc" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song18.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作 歌者：Kuro Zim
+* Hook：波音律 (ACE Studio)
 
 <pre>
 曾困在 名为痛苦的海
@@ -154,6 +151,4 @@ Raise above your seat, I'm about to speak
 (天色放亮的时刻 犹豫已不再)
 Swing to the beat, Love is my key
 (心底最本真的答案 那就是爱)
-(此处是自己 眼前是未来 解放了自己 才抵达未来)
-
-</pre>
+(此处是自己 眼前是未来 解放了自己 才抵达未来)</pre>

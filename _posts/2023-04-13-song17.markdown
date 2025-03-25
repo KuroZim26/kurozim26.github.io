@@ -7,19 +7,16 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song17.jpg"
   opacity: 0.24
-tags: 原创作品 2023年作品
+tags: 原创作品 2023年投稿
 sidebar: []
 ---
 
 > 沉沉长夜，以零为名之处，正是燃起一把火炬，动身出发之时。
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1fX4y1r7NB" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song17.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：乐正绫
 
 <pre>
 无主的情书 被雨打湿在 无主的废土
@@ -28,7 +25,6 @@ sidebar: []
 走错的道路 本没有起点 更别谈结束
 不自觉 醒在沉沉夜幕
 梦境中的某个远处 变成一片模糊
-
 我的幸福 我的痛楚 履历上积累的错误
 我的付出 我的情愫 手心里残留的温度
 鲜红的信仰流在血管深处 融化着难咽的苦
@@ -53,5 +49,4 @@ sidebar: []
 我的幸福 我的痛楚 履历上积累的错误
 我的付出 我的情愫 手心里残留的温度
 鲜红的信仰化作目光如烛 虽无法驱散夜幕
-站在这以零为名之处 向着地平线的方向 追逐
-</pre>
+站在这以零为名之处 向着地平线的方向 追逐</pre>

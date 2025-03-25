@@ -2,24 +2,24 @@
 layout: post
 title:  "我们的歌"
 subtitle: "Song of OURS"
-author: "❤Kuro Zim & 洛微 a.k.a. 幸语组_Shiakoto❤"
+author: "Kuro Zim & 洛微 a.k.a. 幸语组_Shiakoto"
 categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_collabo04.jpg"
   opacity: 0.24
-tags: 原创作品 合作作品 2018年重制作品
+tags: 原创作品 合作作品 2018年投稿
 sidebar: []
 ---
 
 >  就让这首我们的歌 一直循环下去 回响在你我心底
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Mp411d71N" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/collab04.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-作词：洛微 / 作曲：Kuro Zim
+* 作词 MV制作：洛微
+* 歌者：洛天依 乐正绫
+* 作曲 编曲：Kuro Zim
+* 后期： DZ韦元子
+* 曲绘： 铮了个粽子
 
 <pre>
 你　还记得吗　那一个晴朗的初夏

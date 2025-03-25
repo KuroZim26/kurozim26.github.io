@@ -6,19 +6,17 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song27.jpg"
   opacity: 0.24
-tags: 原创作品 2024年作品
+tags: 原创作品 2024年投稿
 sidebar: []
 ---
 
 > 你与我，都是多元宇宙里的唯一
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1pJ2BYqEXo" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song27.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：Mai (Synthesizer V)
+* 灵魂Rap和喊麦：MC石头
 
 <pre>
 嗯，大家好！我依然是来自你们最熟悉的那个好朋友——MC石头。
@@ -57,5 +55,4 @@ One and only...
 
 \\请认准我的唯一联系QQ//
 
-\\337845818，Thank you!//
-</pre>
+\\337845818，Thank you!//</pre>

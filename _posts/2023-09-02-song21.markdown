@@ -7,19 +7,16 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song21.jpg"
   opacity: 0.24
-tags: 原创作品 2023年作品
+tags: 原创作品 2023年投稿
 sidebar: []
 ---
 
 > 我也渴望谁能把我救出这繁华陷阱，但无数次的挣扎后才知道，能把我救出来的，只有我自己残存的理性。
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV18w411S75W" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song21.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：文栗 (ACE Studio)
 
 <pre>
 仿佛注视着万花筒里的奇观
@@ -68,11 +65,11 @@ sidebar: []
 若你听到我 没有回声的呼唤
 若你察觉我 失神徘徊的悲观
 请你回答我 回答我 把孤单疑惑斩断
-(启程逃亡之前 桌前的灯别忘了关)
-</pre>
+(启程逃亡之前 桌前的灯别忘了关)</pre>
 
-## 备注
+### 备注
 
 * 本作在创作过程中经历了一次旋律改稿。由于初稿的旋律部分和[明日方舟危机合约寻昼行动主题曲](https://music.163.com/#/song?id=1922637266)太过相近，再加上该曲本身也是Synthwave，因此为了避免不必要的麻烦，作者选择对初稿进行了旋律修改。
 
 <audio controls><source src="/assets/audio/song21proto.mp3" type="audio/mp3"></audio>
+

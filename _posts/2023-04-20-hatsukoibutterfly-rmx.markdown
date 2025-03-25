@@ -1,25 +1,23 @@
 ---
 layout: post
 title:  "初恋バタフライ"
-subtitle: "Kuro Zim's “恋生夢蝶 / KOISEIMUCHOU” Remix"
+subtitle: "Kuro Zim's “恋生夢蝶 / KOISEIMUCHOU” Bootleg"
 author: "Remixed by Kuro Zim"
 categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_miyarmx.jpg"
   opacity: 0.24
-tags: Remix作品 偶像大师同人作品 2023年Remix作品
+tags: Remix作品 2023年投稿
 sidebar: []
 ---
 
 > 不是HKT48那首！不是HKT48那首！不是HKT48那首！
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1rk4y1a7Rp" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/miyarmx.mp3" type="audio/mp3"></audio>
-
-## 试听与歌词
-
-歌词翻译：[YOU宅](https://music.163.com/#/song?id=29761046)
+* 原作：宮尾 美也 (CV. 桐谷 蝶々) - 初恋バタフライ
+* Remix制作：Kuro Zim
+* 歌词翻译：[YOU宅](https://music.163.com/#/song?id=29761046)
 
 <pre>
 指折り数えているのは
@@ -166,5 +164,4 @@ sidebar: []
 ダレより　好きです
 	比任何人 更要喜欢你
 捕まえていて I miss you
-	请勿松开手 I miss you
-</pre>
+	请勿松开手 I miss you</pre>

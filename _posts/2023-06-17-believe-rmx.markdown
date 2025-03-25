@@ -7,19 +7,18 @@ categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_believermx.jpg"
   opacity: 0.24
-tags: Remix作品 2023年Remix作品 AcFun相关 AcFun站庆相关作品 得到AC娘本体官方认可的作品
+tags: Remix作品 2023年投稿 AC娘
 sidebar: []
 ---
 
 > 无论相伴同行还是品尝孤独，我们都是无悔的信徒。
 
-## 歌曲
+<iframe src="//www.acfun.cn/player/ac41596894" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/believermx.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-作词：妖狐公子 / 作曲：炎羽瑾 纱朵 / 重编曲：Kuro Zim
+* 作词：妖狐公子
+* 作曲：炎羽瑾 纱朵
+* Remix制作：Kuro Zim
+* 歌者：然糊糊 绮萱 (ACE Studio)
 
 <pre>
 相信屋檐能长出猫……

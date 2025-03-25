@@ -7,25 +7,20 @@ categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_acchanrunrmx.jpg"
   opacity: 0.24
-tags: Remix作品 2024年Remix作品 AcFun相关 AC娘相关 AcFun站庆相关作品 得到AC娘本体官方认可的作品
+tags: Remix作品 2024年投稿 AC娘
 sidebar: []
 ---
 
 > 跟着Funkot的节拍，小超快跑嗨起来！
 
-## 歌曲
+<iframe src="//www.acfun.cn/player/ac44215187" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-放送供应（艾可 ver.）
-
-<audio controls><source src="/assets/audio/acchanrunrmx.mp3" type="audio/mp3"></audio>
-
-原声大碟（AC娘本体 ver.）
-
-<audio controls><source src="/assets/audio/acchanrunrmx-ori.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-作词：AC娘本体 / MC石头填词：Kuro Zim / 作曲：Y.D. / 重编曲：Kuro Zim
+* 作词：AC娘本体
+* MC石头填词：Kuro Zim
+* 作曲：Y.D.
+* Remix制作：Kuro Zim
+* 歌者：AC娘本体（原唱提取）/ MC石头
+* 注：AcFun十七周年站庆直播使用了艾可原版，在原地址2P
 
 <pre>
 嗯，大家好！我依然是来自你们最熟悉的那个好朋友——MC石头。
@@ -100,5 +95,4 @@ Give me five 好吧那认栽
 走进到动感音乐空间 站得更高要更远
 在这里闭上你的双眼 放松身体快乐一点
 钞票不是万能的 祝愿你开心祝你快乐
-诸位朋友 兄弟 好好地活着！
-</pre>
+诸位朋友 兄弟 好好地活着！</pre>

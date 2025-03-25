@@ -1,25 +1,27 @@
 ---
 layout: post
 title:  "告别之夜"
-subtitle: "Night of Farewells"
+subtitle: "Night for a Farewell"
 author: "Kuro Zim"
 categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song14.jpg"
   opacity: 0.24
-tags: 原创作品 2023年作品 阅览注意
+tags: 原创作品 2023年投稿 阅览注意
 sidebar: []
 ---
 
 >  Say a goodbye to my memories.
 
-## 歌曲
+## 阅览注意
 
-<audio controls><source src="/assets/audio/song14.mp3" type="audio/mp3"></audio>
+本作有Jumpscare要素！
 
-## 试听与歌词
+<iframe src="//player.bilibili.com/player.html?bvid=BV1bR4y1m7wN" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：洛天依 (ACE Studio)
+* 伴唱：SOLARIA (Synthesizer V Lite)
 
 <pre>
 已经是凌晨一点 倔强的大脑始终不肯入眠
@@ -112,12 +114,9 @@ NO WAY
 愿你切断那执念
 愿你安心地入睡
 既然方向是明天
-那就头也不回
-</pre>
+那就头也不回</pre>
 
-## 备注
-
-### 隐藏信息
+### 备注
 
 1. 第一段主歌中，MV出现了一些乱码文字，除了第二句的乱码部分是UTF-8 → shift-jis外，其他每一句的乱码都是UTF-8 → GB18030。
 * 就像瀹朵汉一样 → 就像家人一样

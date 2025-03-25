@@ -7,19 +7,16 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song10.jpg"
   opacity: 0.24
-tags: 原创作品 2022年作品
+tags: 原创作品 2022年投稿
 sidebar: []
 ---
 
 >  相比于一首歌，更像某个孤独夜里的一页日记。
 
-## 歌曲
+<iframe src="//www.acfun.cn/player/ac39479070" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song10.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：徵羽摩柯 (VOCALOID4)
 
 <pre>
 不后悔 无论幸福的滋味 还是艰辛的体会
@@ -40,5 +37,4 @@ sidebar: []
 不后悔 就算把昨天作废 记忆却不能粉碎
 孤独的夜里 我吞噬着疲惫
 期盼着 言语失去了权威 节奏不再能支配
-只剩一首歌 轻轻地唱着 陪我入睡
-</pre>
+只剩一首歌 轻轻地唱着 陪我入睡</pre>

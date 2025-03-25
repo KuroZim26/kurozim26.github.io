@@ -5,11 +5,11 @@ title: 关于本人
 
 ## 关于本人
 
-![NewHead](/assets/images/NewHead.jpeg)
+<img src="/assets/images/NewHead.jpeg" alt="NewHead" style="zoom:150%;" />
 
 > 头像原案：Picrew（[五百式立ち絵メーカー](https://picrew.me/ja/image_maker/625876)） / 绘制：[光临Welcome](https://www.acfun.cn/u/69794016)
 
-在下Kuro Zim，一个再普通不过的小小创作者。曾经在中文VOCALOID圈流浪多年，如今脱离圈子，与来自互联网与生活的种种挑战对线中。
+在下Kuro Zim，一个再普通不过的小小创作者，曾经在中文VOCALOID圈流浪多年。
 
 来到这里的各位可以用以下方式联系到我，或添加游戏好友。
 
@@ -19,7 +19,7 @@ title: 关于本人
 | 电子邮箱         | 531312402@qq.com （常用）<br/>kurozim17419@gmail.com （不常用） |
 | AcFun            | [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)          |
 | Bilibili         | [KuroZim26-音符菌](https://space.bilibili.com/16228948)      |
-| 网易云音乐       | 账号：[the26th_](https://music.163.com/#/user/home?id=12948713601)<br>[个人作品电台](https://music.163.com/djradio?id=1218998615) |
+| 网易云音乐       | 账号：[the26th_](https://music.163.com/#/user/home?id=12948713601) |
 | BlueSky          | Kuro Zim / 26th Note<br/>@kurozim26note.bsky.social（不常用） |
 | 明日方舟（官服） | 廿六音府#1762<br/>好友码：349165310                          |
 
@@ -31,7 +31,7 @@ title: 关于本人
 
 2024年6月2日，对收录内容进行大幅度调整。
 
-2025年3月，鉴于Github Pages存在1G的文件托管限制，准备采用HTML播放器的形式实现音视频收录功能。
+2025年3月，鉴于Github Pages存在1G的文件托管限制，对音视频收录功能的实现方式进行了修改，用在线音视频资源的形式进行呈现，以节省文件托管空间。
 
 ## 关于我与萌娘百科
 

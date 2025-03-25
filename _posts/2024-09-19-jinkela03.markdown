@@ -6,19 +6,16 @@ categories: 人力VOCALOID作品
 banner: 
   image: "/assets/images/songjacket/jacket_jinkela03.png"
   opacity: 0.24
-tags: 人力VOCALOID作品 2024年人力V作品 金坷垃 VOCALOID名曲二创
+tags: 人力VOCALOID作品 2024年投稿 金坷垃
 sidebar: []
 ---
 
 > 每一首金坷垃都是一个平行宇宙。<br>这一次，非非和日日化身“烤批”，在プロセカ书下曲《私は雨》的旋律中抢夺美美的金坷垃！<br>只是因为非非和日日的唐突传教，这一次结局有点不一样，一向对偶像游戏没有兴趣的美美，居然……？<br>
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1SHt7efErx" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/jinkela03.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-金坷垃化填词：Kuro Zim
+* 原作：稲葉曇『私は雨』Vo. 歌愛ユキ
+* 金坷垃化填词：Kuro Zim
 
 <pre>
 【非】我非洲不发达 肥料流失又蒸发
@@ -68,6 +65,4 @@ sidebar: []
 【美】你们说的烤 我试了
 怎么还有音游模式 我傻啦
 我打歌 25级都会挂 傻眼啦
-你们俩 谁打得好一些 教教我带带我吧 求求啦
-
-</pre>
+你们俩 谁打得好一些 教教我带带我吧 求求啦</pre>

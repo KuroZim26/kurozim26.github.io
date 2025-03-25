@@ -5,33 +5,24 @@ subtitle: "Faith of Happiness"
 author: "Kuro Zim"
 categories: 原创作品
 banner: 
-  image: "/assets/images/songjacket/jacket_song05a.jpg"
+  image: "/assets/images/songjacket/jacket_song05b.jpg"
   opacity: 0.24
-tags: 原创作品 2018年作品 2022年重制作品
+tags: 原创作品 2018年投稿 2022年投稿
 sidebar: []
 ---
 
 > 如果说2016年处女作的主题是传递幸福，2017年次元情书的主题是感谢，那么今年这首曲子的主题，无疑就是抓住现在的幸福。
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1tp411d7p5" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-2018 VOCALOID ver.：
+视频展示的是2018人声本家版本（[2018 VOCALOID版【Bilibili】](https://www.bilibili.com/video/BV1xp411d7tF/) / [2022版【AcFun】](https://www.acfun.cn/v/ac40004919)）
 
-<audio controls><source src="/assets/audio/song05v18sd.mp3" type="audio/mp3"></audio>
-
-2018 Vocalist ver.：
-
-<audio controls><source src="/assets/audio/song05v18auz.mp3" type="audio/mp3"></audio>
-
-2022 洛天依 ver.：
-
-<audio controls><source src="/assets/audio/song05v22.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-![这是图片](/assets/images/songjacket/jacket_song05b.jpg)
-
-词曲：Kuro Zim
+* 作词 作曲 2022版MV制作：Kuro Zim
+* 2018版歌者：星尘 (VOCALOID4) / AUZ
+* VOCALOID调音：黑方Serge
+* VOCALOID版后期：KmR
+* 人声版后期：大优君
+* 2018版曲绘 MV制作：久井茜
 
 <pre>
 你眼中的我 带着一成不变的笑颜
@@ -40,7 +31,6 @@ sidebar: []
 已没有 初见时 放着光的双眼
 关于幸福 曾也有 万语千言
 写给你的邮件 你却未曾拆开看一遍
-
 从前的从前 你守在我的身边
 所有的悲伤 因我的存在而收敛 Oh~
 闲暇的时间 你说幸福因为我而完全
@@ -69,8 +59,7 @@ sidebar: []
 就在这真实的世界 这信念 不会轻易改变
 
 那过去不必再怀念 抓住那一份幸福的信念 (Oh~)
-那过去不必再纠结 别放开你对幸福的信念 (Yeah~)
-</pre>
+那过去不必再纠结 别放开你对幸福的信念 (Yeah~)</pre>
 
 ## 二次创作记录
 

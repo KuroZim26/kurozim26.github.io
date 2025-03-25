@@ -7,19 +7,15 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song20.png"
   opacity: 0.24
-tags: 原创作品 2023年作品 唱作
+tags: 原创作品 2023年投稿
 sidebar: []
 ---
 
 > 爱自己，是人生中最难的课题；直面自己，是对回忆最好的反击。
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1QW4y1S7i9" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song20.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 歌者 MV制作：Kuro Zim
 
 <pre>
 Hey you 是否还未进入梦境
@@ -107,5 +103,4 @@ You gonna die
 音乐自然不是救赎 但也不是百无一用吧
 你再想一下 稍微再想一下 好吗
 
-好吗
-</pre>
+好吗</pre>

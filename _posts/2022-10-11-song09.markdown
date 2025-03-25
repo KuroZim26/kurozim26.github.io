@@ -7,19 +7,16 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song09.jpg"
   opacity: 0.24
-tags: 原创作品 2022年作品
+tags: 原创作品 2022年投稿
 sidebar: []
 ---
 
 >  写给那个等待着天晴，却又不只是在等待的我。
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1jW4y1K7Kj" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song09.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：徵羽摩柯 (VOCALOID4)
 
 <pre>
 倾盆的雨 淅淅沥沥
@@ -67,5 +64,4 @@ sidebar: []
 这一天 丢掉顾虑也丢掉了恐惧
 我坚信 总有一颗真心为我而呼应
 放晴不只是天气 是重生的勇气
-而坚定的心 把悲伤丢在风里 在这里前进
-</pre>
+而坚定的心 把悲伤丢在风里 在这里前进</pre>

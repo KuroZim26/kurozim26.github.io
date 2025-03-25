@@ -7,19 +7,16 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song16.jpg"
   opacity: 0.24
-tags: 原创作品 2023年作品
+tags: 原创作品 2023年投稿
 sidebar: []
 ---
 
 >  温柔只是无奈的伪装，敬请听好我未完成的乐章。
 
-## 基本信息
+<iframe src="//player.bilibili.com/player.html?bvid=BV1c84y1L7td" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song16.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：徵羽摩柯 (VOCALOID4) & 文栗 (ACE Studio)
 
 <pre>
 捡起 久违的张狂（张狂）
@@ -157,5 +154,4 @@ WOH!!!!
 忽略 别人的凝望
 走进 簇新的解放
 逃离吧那片绝望的梦乡
-我们去流浪 我们去流浪
-</pre>
+我们去流浪 我们去流浪</pre>

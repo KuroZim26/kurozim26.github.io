@@ -7,29 +7,21 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song22usano.jpg"
   opacity: 0.24
-tags: 原创作品 2023年作品 虚拟UP主相关 2024年重制作品
+tags: 原创作品 2023年投稿 虚拟UP主 2024年投稿
 sidebar: []
 ---
 
 > 梦里没有英雄，只有赤裸裸的自己。
 
-## 歌曲
+<iframe src="//www.acfun.cn/player/ac43138665" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-2023 原版Demo
+2024重制版：[试听【Bilibili】](https://www.bilibili.com/video/BV1kXYseJE5g/)
 
-<audio controls><source src="/assets/audio/song22demo.wav" type="audio/wav"></audio>
-
-2023 兎乃原版：
-
-<audio controls><source src="/assets/audio/song22usano.mp3" type="audio/mp3"></audio>
-
-2024 重制版：
-
-<audio controls><source src="/assets/audio/song22v24.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 编曲 重制版MV制作：Kuro Zim
+* 歌者：兎乃
+* 后期：MortonWill莫顿
+* 曲绘：羽宮みこ
+* MV制作：浅子Asako
 
 <pre>
 那时的我很懵懂 爱编织绮丽的梦
@@ -39,7 +31,6 @@ sidebar: []
 而梦醒之后 一切皆空
 镜中的自己 带着空洞的瞳孔
 伸出手想抓住梦的影踪 却发现
-
 原来 梦里没有英雄 自己是多么赤裸
 一不小心就会被世界所愚弄
 梦里没有英雄 每一张陌生面孔
@@ -70,5 +61,4 @@ sidebar: []
 自己才是英雄 我吹着真实的风
 今天是明天存在的理由
 无论多么沉重 从回忆里挣脱
-握紧拳头
-</pre>
+握紧拳头</pre>

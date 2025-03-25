@@ -6,19 +6,16 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song19.png"
   opacity: 0.24
-tags: 原创作品 2023年作品 实验性作品
+tags: 原创作品 2023年投稿
 sidebar: []
 ---
 
 >  一首极为简单的晚安曲。
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1hd4y1f72M" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song19.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：Sapph Altia (Pocket Singer 自制)
 
 <pre>
 没有想唱的歌 找不到愿意听的人
@@ -35,7 +32,7 @@ sidebar: []
 于是静静躺在孤单的夜空
 </pre>
 
-## 备注
+### 备注
 
 * 本作时长1分6秒（音频长度），全部使用移动设备完成，属于实验性作品。
 1. 歌唱音频采用Pocket Singer（[App Store 日区](https://apps.apple.com/jp/app/pocket-singer-%E3%83%9E%E3%82%A4%E3%82%AA%E3%83%AA%E3%82%AD%E3%83%A3%E3%83%A9-%E6%AD%8C%E3%81%88%E3%81%BE%E3%81%99/id1665512424) / [Google Play](https://play.google.com/store/apps/details?id=com.accidental.ocsinger&pli=1)）生成。

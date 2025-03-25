@@ -7,25 +7,20 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song01.jpg"
   opacity: 0.24
-tags: 原创作品 2016年作品 2022年重制作品
+tags: 原创作品 2016年投稿 2022年投稿
 sidebar: []
 ---
 
 >  这首歌无论从什么角度来讲，都是一个里程碑。
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1N24y1X7kz" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-2016版：
+视频展示的是2022版（[2016版【Bilibili】](https://www.bilibili.com/video/BV1ss411B7EM)）
 
-<audio controls><source src="/assets/audio/song01.mp3" type="audio/mp3"></audio>
-
-2022版：
-
-<audio controls><source src="/assets/audio/song01_affectedbykuri.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：T.E.Zimmern (Kuro Zim)
+* 作词 作曲 MV制作 2022版编曲：T.E.Zimmern (Kuro Zim)
+* 歌者：星尘 (2016) / 洛天依 (2022)
+* 2016版编曲·后期：神野凛_KmR
+* 2016版曲绘：红鸟Akane
 
 <pre>
 抬头看蓝色的天空中
@@ -86,11 +81,10 @@ sidebar: []
 是对你爱和鼓励的语言
 
 ❤只要有你在身边❤
-❤空气中会充满暖暖的甜❤
-</pre>
+❤空气中会充满暖暖的甜❤</pre>
 
 标有爱心符号的歌词为2022版限定。
 
-## 二创记录
+### 二创记录
 
 * VOCALOID亚种 言行 Cover ver.（制作：[白天不闹鬼](https://space.bilibili.com/3730646)）：[Bilibili](https://www.bilibili.com/video/BV1Nx411v7Zy)

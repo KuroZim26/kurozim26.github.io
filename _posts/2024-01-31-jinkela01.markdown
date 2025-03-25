@@ -6,19 +6,18 @@ categories: 人力VOCALOID作品
 banner: 
   image: "/assets/images/songjacket/jacket_jinkela01.jpg"
   opacity: 0.24
-tags: 人力VOCALOID作品 2024年人力V作品 金坷垃 偶像大师同人作品
+tags: 人力VOCALOID作品 2024年投稿 金坷垃
 sidebar: []
 ---
 
 > 为了让非非和日日农业发达的美美，发现非非在发达之后依旧向手游氪金，而且依旧幸运E抽不到想要的卡，而日日居然放出了想占有星井美希的狂言。<br>本以为日日占有四条贵音后就会收手的美美，怎么也没想到，日日想借助金坷垃发达农业的真正动机居然是……D遍偶像大师？<br>得知这一计划的美美，向日日提出的条件是……？
 
-## 歌曲
-
-<audio controls><source src="/assets/audio/jinkela01.mp3" type="audio/mp3"></audio>
+<iframe src="//player.bilibili.com/player.html?bvid=BV19x4y1Z7ma" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ## 歌词
 
-金坷垃化填词：Kuro Zim
+* 原作：Project Fiary - OVERMASTER
+* 金坷垃化填词：Kuro Zim
 
 <pre>
 【非】坷垃MASTER！
@@ -62,5 +61,4 @@ IM@S我都要啦
 
 美希也不给我啦 怎么种庄稼~
 
-【日】坷垃~~~~
-</pre>
+【日】坷垃~~~~</pre>

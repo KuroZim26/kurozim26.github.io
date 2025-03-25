@@ -1,25 +1,23 @@
 ---
 layout: post
 title:  "絵本"
-subtitle: "Kuro Zim's “Lost and Found” Remix"
+subtitle: "Kuro Zim's “Lost and Found” Bootleg"
 author: "Remixed by Kuro Zim"
 categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_ehonrmx.jpg"
   opacity: 0.24
-tags: Remix作品 偶像大师同人作品 2022年Remix作品
+tags: Remix作品 2022年投稿
 sidebar: []
 ---
 
 > 丢掉无法超越的温暖回忆，是否就能相应地得到成长的补偿？
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Tg411t7Ks" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/ehonrmx.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-歌词翻译：[sixtean](https://music.163.com/user/home?id=51303203)
+* 原作：北沢 志保 (CV.雨宮 天) - 絵本
+* Remix制作：Kuro Zim
+* 歌词翻译：[sixtean](https://music.163.com/user/home?id=51303203)
 
 <pre>
 *守るべきものがあって　私は強くなりたいから

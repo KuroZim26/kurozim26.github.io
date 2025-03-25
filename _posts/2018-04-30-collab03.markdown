@@ -7,20 +7,19 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_collabo03.jpg"
   opacity: 0.24
-tags: 原创作品 合作作品 2018年作品
+tags: 原创作品 合作作品 2018年投稿
 sidebar: []
 ---
 
 >  新年快乐周大主教，祝你回归A股顺利，再见——黄旭东
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1aW411V7GU" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/collab03.mp3" type="audio/mp3"></audio>
-
-
-## 歌词
-
-作词：洛微 / 作曲：Kuro Zim
+* 作词 MV制作：洛微
+* 作曲 编曲：Kuro Zim a.k.a. 小黑
+* 歌者：星尘 心华
+* 后期： 紫荆7x
+* 曲绘： 铮了个粽子 + 雨兮
 
 <pre>
 听说曾经你就是个流氓
@@ -48,9 +47,8 @@ sidebar: []
 无尽的利欲吞噬了初心
 无尽的广告循环在弹窗
 为何不能像个英勇卫士
-将安全守望
-</pre>
+将安全守望</pre>
 
-## 备注
+### 备注
 
 * [洛微发布的创作后记](https://www.bilibili.com/read/cv440367/)

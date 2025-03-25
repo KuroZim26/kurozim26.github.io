@@ -7,28 +7,18 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song28.png"
   opacity: 0.24
-tags: 原创作品 2024年作品 多差分作品 AC娘相关 阅览注意
+tags: 原创作品 2024年投稿 多版本 AC娘
 sidebar: []
 ---
 
 > 好好吃饭，认真你就输了
 
-## 歌曲
+<iframe src="//www.acfun.cn/player/ac46486116" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-### 不如爱吃饭 (A站独家版)
+### 不如爱吃饭
 
-<audio controls><source src="/assets/audio/song28.mp3" type="audio/mp3"></audio>
-
-### 不如去吃饭 (通用平台版)
-
-<audio controls><source src="/assets/audio/song28another.mp3" type="audio/mp3"></audio>
-## 歌词
-
-词曲：Kuro Zim
-
-* 备注：本曲存在一定的反互联网倾向，可能会导致高强度冲浪人士感觉不适
-
-### 不如爱吃饭 (A站独家版)
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：ACMusumeII (UTAU) & 绮萱 (DiffSinger)
 
 <pre>
 摸鱼想要找点舞蹈看 或者动听音乐也很赞
@@ -48,10 +38,13 @@ AC：好了好了，到饭点了，真是的
 
 不如立地成佛 我就爱吃饭
 
-不如立地成佛 我就爱吃饭
-</pre>
+不如立地成佛 我就爱吃饭</pre>
 
-### 不如去吃饭 (通用平台版)
+### 不如去吃饭
+
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：夏叶子 & 绮萱 (DiffSinger)
+* [试听【AcFun】](https://www.acfun.cn/v/ac46489254)
 
 <pre>
 摸鱼想要找些爽剧看 来点新闻把视野拓宽
@@ -71,5 +64,4 @@ AC：好了好了，到饭点了，真是的
 
 不如立地成佛 好好吃顿饭
 
-不如立地成佛 好好吃顿饭
-</pre>
+不如立地成佛 好好吃顿饭</pre>

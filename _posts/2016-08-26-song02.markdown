@@ -6,19 +6,19 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song02.jpg"
   opacity: 0.24
-tags: 原创作品 2016年作品 2018年重制作品
+tags: 原创作品 2018年投稿
 sidebar: []
 ---
 
 >  曾经的约定，我还记着，但更想遇见，现在的你。
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1ys411M7ZR" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song02.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：T.E.Zimmern (Kuro Zim)
+* 作词 作曲：T.E.Zimmern
+* 歌者：星尘 (VOCALOID4)
+* 编曲：泠魔Boy
+* VOCALOID调声&后期、MV制作：Luong (a.k.a. Incubo泠蝶 / Unoge)
+* 曲绘：九粮米液
 
 <pre>
 嘿　Kuro　现在的你还好吗
@@ -45,8 +45,7 @@ sidebar: []
 你渴望的拥抱　不要轻易放掉
 太多的快乐你没看
 太多的幸福要你知道
-嘿　Kuro　我的心只想让你知道
-</pre>
+嘿　Kuro　我的心只想让你知道</pre>
 
 以下为原案中的一段歌词差分，未在歌曲中正式使用，但词格符合原版的一段主歌+一段副歌。
 

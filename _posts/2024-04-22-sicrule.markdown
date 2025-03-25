@@ -7,19 +7,17 @@ categories: 填词作品
 banner: 
   image: "/assets/images/songjacket/jacket_sicrule.jpg"
   opacity: 0.24
-tags: 填词作品 2024年填词作品 F1大奖赛相关创作
+tags: 填词作品 2024年投稿
 sidebar: []
 ---
 
 > 谨以此献给2024年F1中国大奖赛和周冠宇！
 
-## 歌曲
+<iframe src="//www.acfun.cn/player/ac44380377" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/sicrule.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-原作：DECO*27 / 填词：Kuro Zim
+* 原作：DECO*27 ft. 初音ミク《ゴーストルール》
+* 填词 MV制作：Kuro Zim
+* A站和B站视频源不同，[B站使用一图流MV](https://www.bilibili.com/video/BV1AZ421J7U1/)
 
 <pre>
 K看台上的回忆 憧憬在上赛飞驰如影
@@ -63,6 +61,4 @@ Say Mayday 虽然屈居十四名 但领奖台有专属我的场景
 (Say wo) 维斯塔潘依旧稳稳第一
 (Say wo) 主场作战坚持就是胜利
 K看台上的回忆 终于成真梦幻般场景
-欢声中泪落如雨 明年再换个车队行不行
-
-</pre>
+欢声中泪落如雨 明年再换个车队行不行</pre>

@@ -1,25 +1,25 @@
 ---
 layout: post
 title:  "简单的歌 2020 Version"
-subtitle: "A Simple Song ~2020 Re:Sing ver."
+subtitle: "A Simple Song ~2020 Re:Sing ver.~"
 author: "Kuro Zim"
 categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song04sp.jpg"
   opacity: 0.24
-tags: 原创作品 合作作品 2020年重制作品
+tags: 原创作品 合作作品 2020年投稿
 sidebar: []
 ---
 
 > 让曾经那首简单的旋律，更加艳丽而无畏地绽放吧
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Vt4y1U7oN" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song04v20.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-作词：后夏 / 作曲：Kuro Zim
+* 作词：后夏 
+* 作曲 编曲 MV制作：Kuro Zim
+* 歌者：乐正绫
+* VOCALOID调声&后期：DZ韦元子
+* 曲绘：陽川
 
 <pre>
 (尽管有时若即若离 但真的没关系)
@@ -51,5 +51,4 @@ sidebar: []
 献给迷茫的你 给每一个的自己
 
 La la la...
-Woo...
-</pre>
+Woo...</pre>

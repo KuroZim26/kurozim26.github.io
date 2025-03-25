@@ -7,20 +7,17 @@ categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_tokiyume17rmx.png"
   opacity: 0.24
-tags: Remix作品 2024年Remix作品 AcFun相关 AC娘相关 AcFun站庆相关作品 得到AC娘本体官方认可的作品
+tags: Remix作品 2024年投稿 AC娘
 sidebar: []
 ---
 
 > 用十七色的时光，筑一瞬的美梦
 
-## 歌曲
+<iframe src="//www.acfun.cn/player/ac46446525" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/tokiyume17rmx.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-作词：AC娘本体 （Inspired by ACERs） / 作曲：Morri3on a.k.a. 喬凡三 / 重编曲：Kuro Zim
-
+* 作词：AC娘本体 （Inspired by ACERs）
+* 作曲：Morri3on a.k.a. 喬凡三
+* Remix制作：Kuro Zim
 * 作为Full Flavor（全曲风串烧）作品，本歌词以编号进行分段，并附带每一段的具体曲风和BPM变化。
 
 <pre>
@@ -89,7 +86,7 @@ sidebar: []
 我想将这段故事都画成美景 再走向你
 </pre>
 
-## 备注
+### 备注
 
 * 本作的编排中包括数段旋律引用，包括#11段的《小超快跑》（AcFun官方出品的歌曲）、#12段的《BELIEVE》（AcFun官方出品的歌曲）和#17段的《LOVE is GAME》（来自偶像大师百万现场）。
 * #11和#12两段从曲风的选择和引用的背景旋律来看，都是对此前两首官曲Remix作品的直接指代，#11段甚至直接使用了原Remix作品所使用的鼓点Loop。

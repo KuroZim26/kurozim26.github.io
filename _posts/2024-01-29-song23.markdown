@@ -7,19 +7,16 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song23.jpg"
   opacity: 0.24
-tags: 原创作品 2024年作品
+tags: 原创作品 2024年投稿
 sidebar: []
 ---
 
 > 绝对会有一天，能把悲伤化作往事，找回星空下自己的位置。
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1kg4y1Y7Ay" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song23.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：夏叶子 (DeepVocal)
 
 <pre>
 在地图尽头的城市
@@ -73,5 +70,4 @@ sidebar: []
 是否来得及把梦捡拾
 
 地平线尽头 又升起了新日
-下一章 又该如何注释
-</pre>
+下一章 又该如何注释</pre>

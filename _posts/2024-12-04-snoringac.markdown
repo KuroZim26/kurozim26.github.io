@@ -7,21 +7,17 @@ categories: 综合鬼畜作品
 banner: 
   image: "/assets/images/songjacket/jacket_snoringac.png"
   opacity: 0.24
-tags: 综合鬼畜作品 2024年综合鬼畜作品 AC娘相关 得到AC娘本体……？？的作品
+tags: 综合鬼畜作品 2024年投稿 AC娘
 sidebar: []
 ---
 
 > 我才没有打呼！！！！
 
-## 歌曲
+<iframe src="//www.acfun.cn/player/ac46610891" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/snorringac.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-填词：Kuro Zim
-
-说明：视频中有听错的地方，准确歌词以本页面为准。
+* 原作：塞壬唱片-MSR - Operation Ashring (危机合约尘环行动预告PV Cut)
+* 填词 制作：Kuro Zim
+* 说明：视频中有听错的地方，准确歌词以本页面为准。
 
 <pre>
 zzz...zzz...(AC娘打呼中)
@@ -34,7 +30,7 @@ zzz...zzz...(AC娘打呼中)
 微微的呼吸声~(。・∀・)ノ
 放屁！不可能打呼！(\#-_-)\┯━┯
 什么叫，略微的呼吸声？(ノ-_-)ノ~┻━┻
-我问，我问何欢何来！(=′ー`)
+我问，我问@何欢何来！(=′ー`)
 神经病吧你们，哪里打呼了？（*゜ー゜*）
 ……呼……吸……声…………|(*′口`)
 哦我真睡着了
@@ -51,6 +47,4 @@ zzz...zzz...(AC娘打呼中)
 我睡觉，打呼吗？你大声地说（＃￣～￣＃）
 人家，人家米米都说不打呼！╮（╯＿╰）╭
 录播我也没有啊~~！！.....((/- -)/
-（啊我做梦了！我梦见有老板给我送猴岛！）
-
-</pre>
+（啊我做梦了！我梦见有老板给我送猴岛！）</pre>

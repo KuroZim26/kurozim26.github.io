@@ -7,29 +7,26 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_collabo01.jpg"
   opacity: 0.24
-tags: 原创作品 合作作品 2017年作品 2022年重制作品
+tags: 原创作品 合作作品 2017年投稿 2022年投稿
 sidebar: []
 ---
 
 > 明天就是定下的日期，在梦里是你欣慰的笑意。
 
-## 歌曲
+> 标志着我们的开始和结束。
 
-2022版：
+<iframe src="//player.bilibili.com/player.html?bvid=BV1av4y1m7Bk" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/collab01.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-作词：洛微 / 作曲：Kuro ZIm
+* 作词 MV制作：洛微
+* 作曲、编曲、后期：Kuro Zim
+* 曲绘：铮了个粽子
+* [2017版](https://www.bilibili.com/audio/au37572)后期：轩子 
 
 <pre>
 轻轻合上枕边的日记
 盼着给你一个意外惊喜
 就在心底默默定下日期
 默默地给自己打气
-
-
 时光流转着一天天过去
 我开始喜欢崭新的自己
 你的笑颜让我欢喜
@@ -48,5 +45,4 @@ sidebar: []
 轻轻合上枕边的日记
 盼着给你的意外惊喜
 明天就是定下的日期
-在梦里 是你欣慰的笑意 笑意
-</pre>
+在梦里 是你欣慰的笑意 笑意</pre>

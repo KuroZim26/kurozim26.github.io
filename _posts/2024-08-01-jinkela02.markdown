@@ -6,19 +6,17 @@ categories: 人力VOCALOID作品
 banner: 
   image: "/assets/images/songjacket/jacket_jinkela02.jpg"
   opacity: 0.24
-tags: 人力VOCALOID作品 2024年人力V作品 金坷垃 明日方舟二创
+tags: 人力VOCALOID作品 2024年投稿 金坷垃
 sidebar: []
 ---
 
 > 在佩佩EP的召唤下，再次聚齐的金坷垃三人组。<br>手持新时代强力助战，在支援非非和日日之间摇摆不定的全图鉴巨佬美美，想要通关夏活，疯狂氪金却抽不到想要的干员的非非，还有用核废水与全人类粮食安全作为威胁，试图强夺金坷垃和强力干员的日日。<br>究竟谁能得到最珍贵的金坷垃，以及用以通关夏活的最强力干员，获得这场“神秘肥料大冒险”的胜利？
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1MVveedEK9" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/jinkela02.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-金坷垃化填词：Kuro Zim
+* 原作：塞壬唱片-MSR 《Mystic Light Quest》
+* 金坷垃化填词：Kuro Zim
+* 友情客串：一只大哈鱼
 
 <pre>
 【非】非洲农业不发达 粮食涨价
@@ -80,6 +78,4 @@ sidebar: []
 【日】哦 不给我坷垃 都别想发达
 都来恰核废水掺过的庄稼
 【美】鬼子别傻啦 危害不了我哒
-世界本是一家 日本你 拉黑啦
-
-</pre>
+世界本是一家 日本你 拉黑啦</pre>

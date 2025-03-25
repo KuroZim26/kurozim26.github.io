@@ -5,29 +5,22 @@ subtitle: "LOVE is the Key"
 author: "Kuro Zim"
 categories: 原创作品
 banner: 
-  image: "/assets/images/songjacket/jacket_song11_ritsu.jpg"
+  image: "/assets/images/songjacket/jacket_song11_minghun.jpg"
   opacity: 0.24
-tags: 原创作品 2022年作品 虚拟UP主相关
+tags: 原创作品 2022年投稿 虚拟UP主
 sidebar: []
 ---
 
 >  始终坚信着，爱的美好，是足以穿破黑夜的内心之光。
 
-## 歌曲
+<iframe src="//www.acfun.cn/player/ac42050497" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-波音律/文栗版：
+视频展示的是茗魂版 （[虚拟歌手原版【AcFun】](https://www.acfun.cn/v/ac42050497)）
 
- <audio controls><source src="/assets/audio/song11ritsu.mp3" type="audio/mp3"></audio><br><audio controls><source src="/assets/audio/song11willy.mp3" type="audio/mp3"></audio>
-
-茗魂版：
-
-<audio controls><source src="/assets/audio/song11minghun.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-![这是图片](/assets/images/songjacket/jacket_song11_minghun.jpg)
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 虚拟歌手版歌者：波音律 / 文栗 (ACE Studio)
+* 人声歌者：茗魂
+* 人声后期：梁梓逸
 
 <pre>
 独自一人在幸福城外
@@ -81,7 +74,7 @@ sidebar: []
 解放了自己 才抵达未来
 </pre>
 
-## 备注
+### 备注
 
 * 作为虚拟UP主的茗魂已于2024年3月末在AcFun和Bilibili毕业，并在AcFun以原账号转生为ChaosLive旗下的企业势虚拟UP主朱聂（在Bilibili侧为换号转生），其[自我介绍视频](https://www.acfun.cn/v/ac44324547)已用画面的形式明确提及“茗魂”作为前世的存在（0:25 - 0:30）。
 * [这首好听啊！有这么优秀的原创编曲人在a站做dd，多来点关注呜呜呜](https://www.acfun.cn/moment/am2996695)

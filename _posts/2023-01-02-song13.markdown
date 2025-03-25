@@ -7,19 +7,16 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song13.jpg"
   opacity: 0.24
-tags: 原创作品 2023年作品
+tags: 原创作品 2023年投稿
 sidebar: []
 ---
 
 >  唯一不变的是，你活在今天。
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1L84y1s7Gp" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song13.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：波音律 洛天依 文栗 雀河 (ACE Studio)
 
 <pre>
 醒在梦碎之前 抬头仍看见蔚蓝的天
@@ -68,5 +65,4 @@ sidebar: []
 别摆着自责的苦脸 那些遗憾就该亲手粉碎
 目光 看向前
 我不会后退
-就在 今天
-</pre>
+就在 今天</pre>

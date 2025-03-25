@@ -6,19 +6,16 @@ categories: 人力VOCALOID作品
 banner: 
   image: "/assets/images/songjacket/jacket_jinkela05.png"
   opacity: 0.24
-tags: 人力VOCALOID作品 2024年人力V作品 金坷垃
+tags: 人力VOCALOID作品 2024年投稿 金坷垃
 sidebar: []
 ---
 
 > 农业，有可能再发达一次吗？<br>农业，有可能再发达一次！<br>如果把所有的金坷垃集合起来，一定是一部多元宇宙题材的作品。<br>因为每一首金坷垃都是一个平行宇宙，而且同一首金坷垃，可能也有不同的变化。<br>每一个陷入发达困境的美日非，都有机会选择再发达一次的机会，可以选择属于自己的“第二坷垃”！
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV1PKszezEn4" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/jinkela05.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-金坷垃化填词：Kuro Zim
+* 原作：五月天《第二人生》
+* 金坷垃化填词：Kuro Zim
 
 <pre>
 【非】我非洲不发达 肥料流失蒸发 百姓浪费粮食 不可能发达

@@ -6,19 +6,16 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song07.jpg"
   opacity: 0.24
-tags: 原创作品 2022年作品
+tags: 原创作品 2022年投稿
 sidebar: []
 ---
 
 >  在10周年的时点，重新审视“我”与“她们”的关联——这样一首歌。
 
-## 基本信息
+<iframe src="//www.acfun.cn/player/ac35658060" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song07.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：洛天依 (VOCALOID3)
 
 <pre>
 装着坚强的你 凑着热闹的你
@@ -72,5 +69,9 @@ sidebar: []
 每段旅程都有目的地
 只愿我的旋律见证崭新的你
 
-在某时 点亮你 Woo
-</pre>
+在某时 点亮你 Woo</pre>
+
+### 二次创作记录
+
+* Synthesizer V 赤羽翻调（歌者：[末期色](https://www.acfun.cn/u/3461575614662923)）： [Bilibili](https://www.bilibili.com/video/BV1aUUaYgE4o)
+

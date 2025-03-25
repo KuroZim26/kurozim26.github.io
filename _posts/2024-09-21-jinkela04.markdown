@@ -6,19 +6,16 @@ categories: 人力VOCALOID作品
 banner: 
   image: "/assets/images/songjacket/jacket_jinkela04.png"
   opacity: 0.24
-tags: 人力VOCALOID作品 2024年人力V作品 金坷垃 偶像大师同人作品
+tags: 人力VOCALOID作品 2024年投稿 金坷垃
 sidebar: []
 ---
 
 > 年度超感动大电影《Tomorrow Program ~向着发达的彼岸~》同名主题曲发布！<br>哪怕经历了无数平行宇宙的磨难，哪怕日日被美美再三刁难，只能看着不发达的非非抢走本属于自己的金坷垃……<br>但无论是非非、日日还是美美，都始终相信，所有平行宇宙的尽头只有一个，那就是全世界一起发达！<br>“金坷垃的故事不会在此结束！”他们这么说着，再次踏上前往发达的平行宇宙的漫长旅途！
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV198bFeWExA" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/jinkela04.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-金坷垃化填词：Kuro Zim
+* 原作：トゥインクルリズム - Tomorrow Program
+* 金坷垃化填词：Kuro Zim
 
 <pre>【非】我非洲的农业实在不发达 世界肥料在涨价 施肥都施不起啦
 【日】我日本的资源也不太适合种庄稼 氮磷钾埋两千米下 亩产十八
@@ -49,5 +46,4 @@ sidebar: []
 
 【非】没有坷垃也罢 周密的计划不怕 肥料的涨价 兢兢业业必能发达
 【日】没有坷垃也罢 莫使庄稼有掺假 害了进口的国家 得不偿失啦
-【美】好处都说对啦 大家都不傻 一同  发达
-</pre>
+【美】好处都说对啦 大家都不傻 一同  发达</pre>

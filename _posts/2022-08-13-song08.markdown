@@ -6,19 +6,16 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song08.jpg"
   opacity: 0.24
-tags: 原创作品 2022年作品
+tags: 原创作品 2022年投稿
 sidebar: []
 ---
 
 >  五年前那个只会写抒情歌曲的我已经不复存在了。
 
-## 歌曲
+<iframe src="//www.acfun.cn/player/ac36373326" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song08.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim a.k.a. H1kawa26_
+* 歌者：星尘 (VOCALOID4)
 
 <pre>
 灼热的天 暴露空气中的心已开始冒烟
@@ -79,5 +76,4 @@ sidebar: []
 就算把日历 一页页撕碎
 明天也永远停留在原位
 不必再问上天 头也不回
-你正握着机会 
-</pre>
+你正握着机会 </pre>

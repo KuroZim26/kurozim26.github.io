@@ -7,19 +7,16 @@ categories: Remix作品
 banner: 
   image: "/assets/images/songjacket/jacket_acer16.png"
   opacity: 0.24
-tags: Remix作品 2023年Remix作品 AcFun相关 AcFun站庆相关作品 得到AC娘本体官方认可的作品
+tags: Remix作品 2023年投稿
 sidebar: []
 ---
 
 > 差不多的AcFun，是个差不多的圈。差不多的ACer们，过着差不多的每一天。
 
-## 歌曲
+<iframe src="//www.acfun.cn/player/ac41547790" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/acer16.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-作词：Kuro Zim / 作曲：张震岳 / 重编曲：Kuro Zim
+* 作曲：张震岳
+* 作词 重编曲 MV制作 歌者：Kuro Zim
 
 <pre>
 我听着差不多的歌 也看着差不多的舞
@@ -99,9 +96,8 @@ sidebar: []
 心里很多想法 但认真你就要输啦
 在差不多的站子 幻想漫友一家
 
-我是差不多ACer
-</pre>
+我是差不多ACer</pre>
 
-## 备注
+### 备注
 
 * [本改编歌曲的创作后记与要素解释](https://www.acfun.cn/a/ac41571015)

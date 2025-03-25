@@ -9,11 +9,11 @@ title: 作品列表
 
 ## 一、歌曲和完整原创纯音乐
 
-目前为止多数的原创作品均存放在以下网易云电台以便试听。
+目前为止多数的原创作品均存放在以下[网易云电台](https://music.163.com/djradio?id=1218998615)以便试听。如果是不支持HTML插件的手机设备，点击“网易云电台”字样直接进入即可。
 
 播单中的每一项都存在编号，编号无前缀的是独立词曲作品；前缀为C的是合作词曲作品，前缀为M的是原创纯音乐。
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=4&id=1218998615&auto=0&height=430"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=960 height=450 src="//music.163.com/outchain/player?type=4&id=1218998615&auto=0&height=430"></iframe>
 
 未收录的正式原创曲拾遗：
 
@@ -104,9 +104,9 @@ title: 作品列表
 
 ### 1.Remix与Bootleg
 
-目前为止多数的Remix作品均存放在以下网易云电台以便试听。
+目前为止多数的Remix作品均存放在以下[网易云电台](https://music.163.com/djradio?id=1222019495)以便试听。如果是不支持HTML插件的手机设备，点击“网易云电台”字样直接进入即可。
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=4&id=1222019495&auto=0&height=430"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=960 height=450 src="//music.163.com/outchain/player?type=4&id=1222019495&auto=0&height=430"></iframe>
 
 电台中未收录的Remix拾遗：
 
@@ -153,7 +153,9 @@ title: 作品列表
 
 #### (1) 金坷垃
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=4&id=1222030492&auto=0&height=430"></iframe>
+目前为止所有的金坷垃改编作品均存放在以下[网易云电台](https://music.163.com/djradio?id=1222030492)以便试听。如果是不支持HTML插件的手机设备，点击“网易云电台”字样直接进入即可。
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=960 height=450 src="//music.163.com/outchain/player?type=4&id=1222030492&auto=0&height=430"></iframe>
 
 #### (2) 其他素材
 

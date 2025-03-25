@@ -7,19 +7,16 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song15.jpg"
   opacity: 0.24
-tags: 原创作品 2023年作品
+tags: 原创作品 2023年投稿
 sidebar: []
 ---
 
 >  如果感觉迷茫，那就在夜的舞台起舞吧。
 
-## 歌曲
+<iframe src="//player.bilibili.com/player.html?bvid=BV14M411t7n4" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<audio controls><source src="/assets/audio/song15.mp3" type="audio/mp3"></audio>
-
-## 歌词
-
-词曲：Kuro Zim
+* 作词 作曲 MV制作：Kuro Zim
+* 歌者：徵羽摩柯 (VOCALOID4)
 
 <pre>
 Only you can make yourself ALIVE ALIVE
@@ -70,5 +67,4 @@ Only you can make it right
 只有你能给自己痛快 狂妄一点也精彩
 只有你是自己的存在 哪怕像烟花一瞬绽开
 只有你能让你的灵魂 醒过来 TONIGHT
-这夜晚 就是你 的舞台
-</pre>
+这夜晚 就是你 的舞台</pre>
