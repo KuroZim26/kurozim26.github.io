@@ -13,16 +13,15 @@ title: 关于本人
 
 来到这里的各位可以用以下方式联系到我，或添加游戏好友。
 
-| 平台/游戏                 | 账号/ID                                                      |
-| ------------------------- | ------------------------------------------------------------ |
-| QQ                        | 531312402                                                    |
-| 电子邮箱                  | 531312402@qq.com （常用）<br/>kurozim17419@gmail.com （不常用） |
-| AcFun                     | [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)          |
-| Bilibili                  | [KuroZim26-音符菌](https://space.bilibili.com/16228948)      |
-| 网易云音乐                | 账号：[the26th_](https://music.163.com/#/user/home?id=12948713601)<br>[个人作品电台](https://music.163.com/djradio?id=1218998615) |
-| BlueSky                   | Kuro Zim / 26th Note<br/>@kurozim26note.bsky.social（不常用） |
-| 明日方舟（官服）          | 廿六音府#1762<br/>好友码：349165310                          |
-| 无尽梦回（官服·美梦成真） | 廿六音府<br/>好友码：274731548                               |
+| 平台/游戏        | 账号/ID                                                      |
+| ---------------- | ------------------------------------------------------------ |
+| QQ               | 531312402                                                    |
+| 电子邮箱         | 531312402@qq.com （常用）<br/>kurozim17419@gmail.com （不常用） |
+| AcFun            | [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)          |
+| Bilibili         | [KuroZim26-音符菌](https://space.bilibili.com/16228948)      |
+| 网易云音乐       | 账号：[the26th_](https://music.163.com/#/user/home?id=12948713601)<br>[个人作品电台](https://music.163.com/djradio?id=1218998615) |
+| BlueSky          | Kuro Zim / 26th Note<br/>@kurozim26note.bsky.social（不常用） |
+| 明日方舟（官服） | 廿六音府#1762<br/>好友码：349165310                          |
 
 ## 关于本站
 
@@ -31,6 +30,8 @@ title: 关于本人
 2024年4月12日，改用[YAT](https://github.com/jeffreytse/jekyll-theme-yat)主题重新排版并组织内容。
 
 2024年6月2日，对收录内容进行大幅度调整。
+
+2025年3月，鉴于Github Pages存在1G的文件托管限制，准备采用HTML播放器的形式实现音视频收录功能。
 
 ## 关于我与萌娘百科
 
