@@ -170,6 +170,7 @@ title: 作品列表
 * [超大侠](https://www.acfun.cn/v/ac46718216)
 * 李火旺：忍者+坐忘道（[AcFun](https://www.acfun.cn/v/ac46734926) / [Bilibili](https://www.bilibili.com/video/BV1GW61YxEB3/)）
 * [RENEGADE (AC娘领衔全明星 ver.)](https://www.acfun.cn/v/ac46815988)
+* D/N/A (面筋哥领衔全明星 ver.) （[AcFun](https://www.acfun.cn/v/ac47070342) / [Bilibili](https://www.bilibili.com/video/BV1WsZAYiESB)）
 
 ### 3. 其他综合二创
 

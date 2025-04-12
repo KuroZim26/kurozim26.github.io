@@ -9,19 +9,22 @@ title: 关于本人
 
 > 头像原案：Picrew（[五百式立ち絵メーカー](https://picrew.me/ja/image_maker/625876)） / 绘制：[光临Welcome](https://www.acfun.cn/u/69794016)
 
-在下Kuro Zim，一个再普通不过的小小创作者，曾经在中文VOCALOID圈流浪多年。
+在下Kuro Zim，一个再普通不过的普通人。
+
+曾经在中文VOCALOID圈流浪多年。
 
 来到这里的各位可以用以下方式联系到我，或添加游戏好友。
 
-| 平台/游戏        | 账号/ID                                                      |
-| ---------------- | ------------------------------------------------------------ |
-| QQ               | 531312402                                                    |
-| 电子邮箱         | 531312402@qq.com （常用）<br/>kurozim17419@gmail.com （不常用） |
-| AcFun            | [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)          |
-| Bilibili         | [KuroZim26-音符菌](https://space.bilibili.com/16228948)      |
-| 网易云音乐       | 账号：[the26th_](https://music.163.com/#/user/home?id=12948713601) |
-| BlueSky          | Kuro Zim / 26th Note<br/>@kurozim26note.bsky.social（不常用） |
-| 明日方舟（官服） | 廿六音府#1762<br/>好友码：349165310                          |
+| 平台/游戏                  | 账号/ID                                                      |
+| -------------------------- | ------------------------------------------------------------ |
+| QQ                         | 531312402                                                    |
+| 电子邮箱                   | 531312402@qq.com （常用）<br/>kurozim17419@gmail.com （不常用） |
+| AcFun                      | [KuroZim26-音符菌](https://www.acfun.cn/u/30346233)          |
+| Bilibili                   | [KuroZim26-音符菌](https://space.bilibili.com/16228948)（日常，2025年4月后不再发布原创作品）<br/>？？？（敬请期待） |
+| 网易云音乐                 | 账号：[the26th_](https://music.163.com/#/user/home?id=12948713601) |
+| 初音未来：缤纷舞台（国服） | 好友码：7486301880155446050                                  |
+| 跑跑卡丁车（国服端游）     | 带我去寻找up                                                 |
+| 跑跑卡丁车：漂移（港区）   | KuroZim26                                                    |
 
 ## 关于本站
 

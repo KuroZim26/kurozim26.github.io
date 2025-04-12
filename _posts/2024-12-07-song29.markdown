@@ -7,13 +7,17 @@ categories: 原创作品
 banner: 
   image: "/assets/images/songjacket/jacket_song29.png"
   opacity: 0.24
-tags: 原创作品 2024年投稿
+tags: 原创作品 2024年投稿 2025年投稿
 sidebar: []
 ---
 
 > 坦然地走出童话，也带着不甘走在当下
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1dzi9YkE4A" width="640" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+[为乐正绫十周年生日赶制的“片尾曲”短版](https://www.bilibili.com/video/BV1NGdDYPEiL/)
+
+本作目前已成为本人以Kuro Zim为主要名义开展的第二阶段个人创作的最后一曲。
 
 * 作词 作曲 MV制作：Kuro Zim
 * 歌者：徵羽摩柯 (VOCALOID4)
