@@ -4,7 +4,7 @@ title: "关于个人创作第二阶段的终结"
 date: 2025-04-12 22:35:00 +0800
 categories: 文章
 banner: 
-  image: "/assets/images/ena.png"
+  image: "/assets/images/ena.jpg"
   opacity: 0.24
 tags: 文章
 ---
