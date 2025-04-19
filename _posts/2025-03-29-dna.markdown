@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "D/N/A (面筋哥 ft. 全明星)"
+title: "D/N/A (面筋哥 ft. 全明星)"
+subtitle: "Renegade ft. 616JINRIKI ALLSTARS"
 author: "无人SEKAI的住人 Kuro Zim"
 categories: 综合鬼畜作品
-banner: /assets/images/songjacket/dna.jpg"
+banner: 
+  image: "/assets/images/songjacket/dna.jpg"
   opacity: 0.24
 tags: 综合鬼畜作品 2025年投稿
 sidebar: []
