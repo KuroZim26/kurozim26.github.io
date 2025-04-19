@@ -5,7 +5,7 @@ subtitle: "Renegade ft. 616JINRIKI ALLSTARS"
 author: "无人SEKAI的住人 Kuro Zim"
 categories: 综合鬼畜作品
 banner: 
-  image: "/assets/images/songjacket/dna.jpg"
+  image: "/assets/images/songjacket/jacket_dna.jpg"
   opacity: 0.24
 tags: 综合鬼畜作品 2025年投稿
 sidebar: []
