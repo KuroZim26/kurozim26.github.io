@@ -28,7 +28,7 @@ title: 自述
 | QQ         | 531312402                                                    |
 | 电子邮箱   | 531312402@qq.com （常用）<br/>kurozim17419@gmail.com （不常用） |
 | AcFun      | [音符菌今天往哪走](https://www.acfun.cn/u/30346233)          |
-| Bilibili   | [柒捌 车手音符菌](https://space.bilibili.com/16228948)<br/>？？？ |
+| Bilibili   | [柒捌车手音符菌](https://space.bilibili.com/16228948)<br/>？？？ |
 | 网易云音乐 | 播客所属账号：[the26th_](https://music.163.com/#/user/home?id=12948713601) |
 
 ## 关于本站
