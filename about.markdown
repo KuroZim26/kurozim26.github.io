@@ -7,15 +7,15 @@ title: 自述
 
 <img src="/assets/images/NewHead.jpeg" alt="NewHead" style="zoom:150%;" />
 
-> 头像原案：Picrew（[五百式立ち絵メーカー](https://picrew.me/ja/image_maker/625876)） / 绘制：[光临Welcome](https://www.acfun.cn/u/69794016)
+> 头像原案：Picrew（[五百式立ち絵メーカー](https://picrew.me/ja/image_maker/625876)） / 绘制：光临Welcome
 
 ## 关于我
 
-在下音符菌，一个再普通不过的普通人。
+在下牢符，一个再普通不过的普通人。
 
 在某些场合也会以“26thNote”的形态存在。“26”代表的便是现实名字里的Z。
 
-曾用名T.E.Zimmern、Kuro Zim、Sakurenia、Murginia、H1kawa26_等。
+曾用名音符菌、T.E.Zimmern、Kuro Zim、Sakurenia、Murginia、H1kawa26_等。
 
 在网上是个随便做点音乐、做点鬼畜、玩点游戏的家伙。
 
@@ -27,8 +27,7 @@ title: 自述
 | ---------- | ------------------------------------------------------------ |
 | QQ         | 531312402                                                    |
 | 电子邮箱   | 531312402@qq.com （常用）<br/>kurozim17419@gmail.com （不常用） |
-| AcFun      | [音符菌今天往哪走](https://www.acfun.cn/u/30346233)          |
-| Bilibili   | [柒捌车手音符菌](https://space.bilibili.com/16228948)<br/>？？？ |
+| Bilibili   | [路边的牢符](https://space.bilibili.com/16228948)<br/>？？？ |
 | 网易云音乐 | 播客所属账号：[the26th_](https://music.163.com/#/user/home?id=12948713601) |
 
 ## 关于本站
@@ -41,7 +40,9 @@ title: 自述
 
 2025年3月，鉴于Github Pages存在1G的文件托管限制，对音视频收录功能的实现方式进行了修改，用在线音视频资源的形式进行呈现，以节省文件托管空间。
 
-2025年7月，为了更稳定地归档自己的老作品并做好拥抱新生活的准备，新增基于[Just the Docs](https://github.com/just-the-docs/just-the-docs)主题制作的【[回忆档案馆](https://kurozim26.github.io/legacy/)】和【[鬼畜作品集](https://kurozim26.github.io/jinkela/)】两个项目页面，并将主站点进行清理和重整。重整后的主站点将更有利于日常内容的记录。
+2025年7月，为了更稳定地归档自己的老作品并做好拥抱新生活的准备，新增基于[Just the Docs](https://github.com/just-the-docs/just-the-docs)主题制作的【回忆档案馆】和【鬼畜作品集】两个项目页面，并将主站点进行清理和重整。重整后的主站点将更有利于日常内容的记录。
+
+2025年8月，本人删除AcFun账号，因此后续会对作品集页面进行再次重整。
 
 ## 建站动机和定位
 

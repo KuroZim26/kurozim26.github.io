@@ -20,4 +20,4 @@ title: 友情链接
 欢迎有兴趣的各位来互换友链~
 
 * 发邮箱：531312402@qq.com 
-* 平台私信：[音符菌今天往哪走](https://www.acfun.cn/u/30346233)（AcFun） / [柒捌车手音符菌](https://space.bilibili.com/16228948)（Bilibili）
+* 平台私信： [路边的牢符](https://space.bilibili.com/16228948)（Bilibili）
