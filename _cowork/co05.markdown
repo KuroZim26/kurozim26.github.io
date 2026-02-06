@@ -1,0 +1,39 @@
+---
+title: 彼岸蔷薇 Bootleg
+layout: default
+category: Jekyll
+nav_order: 5
+---
+# 彼岸蔷薇 Bootleg
+
+## 歌曲信息
+
+{: .note-title }
+> 破碎的结局
+>
+> 很遗憾的是，本人只参与了这首歌的试听版Bootleg制作，随后本人与洛微就因为某种说出来很丢人的原因，落得一个彻底绝交的结局（虽然最后还是把《枕边的日记》补完了）。关于这首歌后来变得怎么样了，请跳转[VCPedia中的歌曲条目](https://vcpedia.cn/%E5%BD%BC%E5%B2%B8%E8%94%B7%E8%96%87(%E6%B4%9B%E5%BE%AE)#)查看。
+
+* 作曲/编曲：Kuro Zim a.k.a. Shiakoto
+* 作词/MV制作：洛微
+* 歌手：星尘(VOCALOID) & 心华(VOCALOID)
+* VOCALOID调声/后期：紫荆7x
+* 曲绘：陽川
+
+## 音源
+
+* [Bilibili MV](https://www.bilibili.com/video/av24387177)
+
+## 歌词
+
+<pre>
+他们说越单纯越幸福　我将她放在心底守护
+冰冷的双眸模糊的背影　爱在心底却不敢说出
+
+在细密的小雨中踌躇　蜜语却回荡在阑珊处
+简单的幻想霎那间破灭　脸颊的泪恣肆在雨幕
+
+踏着孤单的舞步　回忆曾经的守护
+拼凑残存心底的幸福
+忽然双手被握住　荡起安心的温度
+那温度名为幸福
+名为永远的幸福</pre>
