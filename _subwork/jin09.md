@@ -16,29 +16,32 @@ nav_order: 10
 
 ## 音源
 
-[Bilibili MV](https://www.bilibili.com/video/BV1H8KnevEVQ)
+[<font color="#FFCC01">Bilibili MV</font>](https://www.bilibili.com/video/BV1H8KnevEVQ)
 
 ## 歌词
 
-<pre>非：Work Work Work Work...
-日：勤劳又勇敢的美国爸爸 为了发达的关键金坷垃
-非：他承受了巨大的流失 巨大的浪费 巨大的蒸发
-日：无敌了……
-非：无敌了！
-美：相信农魂真身！一袋坷垃！世界发达！
-美：吸收了 吸收了……吸收了吗？吸收了吗？！
-日/美：我草，我们坷垃！
-美：我既是天选，也是唯一
-日：无敌了，无敌了……
-日：勤劳又勇敢的美国爸爸 为了吸收两米下氮磷钾
-非：他承受了巨大的流失 巨大的浪费 巨大的蒸发
-日：无敌了……
-非：无敌了！
-美：相信农魂真身！一袋坷垃！世界发达！
-美：吸收了 吸收了……吸收了吗？吸收了吗？！
-日/美：我草，我们坷垃！
-美：我既是天选，也是VE
-日：无敌了，无敌了……</pre>
+<font color="#FFCC01">
+<font color="#e69131">Work Work Work Work...</font><br>
+<font color="#990000">勤劳又勇敢的美国爸爸 为了发达的关键金坷垃</font><br>
+<font color="#e69131">他承受了巨大的流失 巨大的浪费 巨大的蒸发</font><br>
+<font color="#990000">无敌了……</font><br>
+<font color="#e69131">无敌了！</font><br>
+<font color="#081873">相信农魂真身！一袋坷垃！世界发达！</font><br>
+<font color="#081873">吸收了 吸收了……吸收了吗？吸收了吗？！</font><br>
+我草，我们坷垃！<br>
+<font color="#081873">我既是天选，也是唯一</font><br>
+<font color="#990000">无敌了，无敌了……</font><br>
+<br>
+<font color="#990000">勤劳又勇敢的美国爸爸 为了吸收两米下氮磷钾</font><br>
+<font color="#e69131">他承受了巨大的流失 巨大的浪费 巨大的蒸发</font><br>
+<font color="#990000">无敌了……</font><br>
+<font color="#e69131">无敌了！</font><br>
+<font color="#081873">相信农魂真身！一袋坷垃！世界发达！</font><br>
+<font color="#081873">吸收了 吸收了……吸收了吗？吸收了吗？！</font><br>
+我草，我们坷垃！<br>
+<font color="#081873">我既是天选，也是<b>VE</b></font><br>
+<font color="#990000">无敌了，无敌了……</font>
+</font>
 
 ## 注释
 

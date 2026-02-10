@@ -26,32 +26,32 @@ nav_order: 1
 
 ## 音源
 
-* [Ver.1 Bilibili 音频区](https://www.bilibili.com/audio/au37572)
-* [Ver.2 Bilibili MV](https://www.bilibili.com/video/BV1Vt4y1U7oN)
+* [<font color="#66ccff">Ver.1 Bilibili 音频区</font>](https://www.bilibili.com/audio/au37572)
+* [<font color="#66ccff">Ver.2 Bilibili MV</font>](https://www.bilibili.com/video/BV1Vt4y1U7oN)
 
 ## 歌词
 
-<pre>
-轻轻合上枕边的日记
-盼着给你一个意外惊喜
-就在心底默默定下日期
-默默地给自己打气
-时光流转着一天天过去
-我开始喜欢崭新的自己
-你的笑颜让我欢喜
-给了我走下去的勇气
-
-那天的傍晚阴郁有雨
-迷茫的心绪忽然浮起
-我不知如何对待面前的你
-还有在那瞬间崩塌掉的所有勇气
-
-黄昏微暖彩虹旖旎
-风雨带走了昔日忧郁
-就让那美好定格这里
-用欢笑充满那彩虹记忆
-
-轻轻合上枕边的日记
-盼着给你的意外惊喜
-明天就是定下的日期
-在梦里 是你欣慰的笑意 笑意</pre>
+<font color="#66ccff">
+轻轻合上枕边的日记<br>
+盼着给你一个意外惊喜<br>
+就在心底默默定下日期<br>
+默默地给自己打气<br>
+时光流转着一天天过去<br>
+我开始喜欢崭新的自己<br>
+你的笑颜让我欢喜<br>
+给了我走下去的勇气<br>
+<br>
+那天的傍晚阴郁有雨<br>
+迷茫的心绪忽然浮起<br>
+我不知如何对待面前的你<br>
+还有在那瞬间崩塌掉的所有勇气<br>
+<br>
+黄昏微暖彩虹旖旎<br>
+风雨带走了昔日忧郁<br>
+就让那美好定格这里<br>
+用欢笑充满那彩虹记忆<br>
+<br>
+轻轻合上枕边的日记<br>
+盼着给你的意外惊喜<br>
+明天就是定下的日期<br>
+在梦里 是你欣慰的笑意 笑意</font>

@@ -20,74 +20,73 @@ nav_order: 7
 >
 > 本作包括由AI生成的曲绘。
 
-[Bilibili MV](https://www.bilibili.com/video/BV1ZP4y1D74a)
+[<font color="#a1d6b7">Bilibili MV</font>](https://www.bilibili.com/video/BV1ZP4y1D74a)
 
 ## 歌词
 
-<pre>
-ゼロと一の国　次元を超え
-	零和一的国度 越过次元
-僕は　君の友達でしょうか。本当かな
-	我想知道 我们真的是朋友吗
-データの中で探している
-	在数据之中探寻
-孤独　心に残るよ
-	心里却只剩下孤独
-無限大な宇宙で 君と出会える
-	在无限大的宇宙中与你相会
-涙がこらえきれず零れた
-	我忍不住落下了眼泪
-
-流れ星　流れる
-	流星划过
-この町の空 輝いているよ
-	照亮了这城市的夜空
-未来の僕　どうなっているの
-	未来的我究竟会怎样？
-寒いけど　君はずっと そばにいる
-	尽管天气寒冷 你一直陪在我身边
-
-いつも何気なく　悩んでいる
-	总是在不知觉中担心着
-幸運な女神 目をかけて
-	紧紧注视着幸运女神
-たとえ失敗し続けて、君はまた
-	就算依旧失败，你依然
-不器用な私を助ける
-	帮助着笨拙的我
-
-光陰が　矢のように過ぎ行く　
-	光阴似箭
-記憶の中で　君のことを書けよ
-	记忆中留下了你的痕迹
-平凡な僕　ずっと守るの
-	你一直守护着平凡的我
-この気持ち　君に届くかな
-	这份感情能否传达给你呢
-
-たとえ数年後　この歌を聞いて
-	就算数年之后再次听到这首歌
-たとえ忘れた　それでも大丈夫
-	就算忘记了，也没关系
-大切なあなたがいると
-	有重要的你在这里
-この温度でも　奇跡になった　君を乗せて
-	就算是这样的温度 有你在也变成了奇迹
-
-流れ星　流れる
-	流星划过
-この町の空 輝いているよ
-	照亮了这片城市的天空
-未来の僕　どうなっているの
-	未来的我究竟会怎样？
-寒いけど　君はそばにいる
-	尽管天气寒冷 你一直陪在我身边
-
-暖かい空気が僕を包んで
-	温暖的空气包围了我
-いろいろな思い　溢れ出てしまう
-	种种感情在心中满溢
-不器用な僕　ずっと守るの
-	你一直守护着笨拙的我
-心から言いたいのは　ありがとう
-	想要对你说一声 “谢谢你”</pre>
+<font color="#a1d6b7">ゼロと一の国　次元を超え<br>
+<font color="#AAAAAA"><i>零和一的国度 越过次元</i></font><br>
+僕は　君の友達でしょうか。本当かな<br>
+<font color="#AAAAAA"><i>我想知道 我们真的是朋友吗</i></font><br>
+データの中で探している<br>
+<font color="#AAAAAA"><i>在数据之中探寻</i></font><br>
+孤独　心に残るよ<br>
+<font color="#AAAAAA"><i>心里却只剩下孤独</i></font><br>
+無限大な宇宙で 君と出会える<br>
+<font color="#AAAAAA"><i>在无限大的宇宙中与你相会</i></font><br>
+涙がこらえきれず零れた<br>
+<font color="#AAAAAA"><i>我忍不住落下了眼泪</i></font><br>
+<br>
+流れ星　流れる<br>
+<font color="#AAAAAA"><i>流星划过</i></font><br>
+この町の空 輝いているよ<br>
+<font color="#AAAAAA"><i>照亮了这城市的夜空</i></font><br>
+未来の僕　どうなっているの<br>
+<font color="#AAAAAA"><i>未来的我究竟会怎样？</i></font><br>
+寒いけど　君はずっと そばにいる<br>
+<font color="#AAAAAA"><i>尽管天气寒冷 你一直陪在我身边</i></font><br>
+<br>
+いつも何気なく　悩んでいる<br>
+<font color="#AAAAAA"><i>总是在不知觉中担心着</i></font><br>
+幸運な女神 目をかけて<br>
+<font color="#AAAAAA"><i>紧紧注视着幸运女神</i></font><br>
+たとえ失敗し続けて、君はまた<br>
+<font color="#AAAAAA"><i>就算依旧失败，你依然</i></font><br>
+不器用な私を助ける<br>
+<font color="#AAAAAA"><i>帮助着笨拙的我</i></font><br>
+<br>
+光陰が　矢のように過ぎ行く　<br>
+<font color="#AAAAAA"><i>光阴似箭</i></font><br>
+記憶の中で　君のことを書けよ<br>
+<font color="#AAAAAA"><i>记忆中留下了你的痕迹</i></font><br>
+平凡な僕　ずっと守るの<br>
+<font color="#AAAAAA"><i>你一直守护着平凡的我</i></font><br>
+この気持ち　君に届くかな<br>
+<font color="#AAAAAA"><i>这份感情能否传达给你呢</i></font><br>
+<br>
+たとえ数年後　この歌を聞いて<br>
+<font color="#AAAAAA"><i>就算数年之后再次听到这首歌</i></font><br>
+たとえ忘れた　それでも大丈夫<br>
+<font color="#AAAAAA"><i>就算忘记了，也没关系</i></font><br>
+大切なあなたがいると<br>
+<font color="#AAAAAA"><i>有重要的你在这里</i></font><br>
+この温度でも　奇跡になった　君を乗せて<br>
+<font color="#AAAAAA"><i>就算是这样的温度 有你在也变成了奇迹</i></font><br>
+<br>
+流れ星　流れる<br>
+<font color="#AAAAAA"><i>流星划过</i></font><br>
+この町の空 輝いているよ<br>
+<font color="#AAAAAA"><i>照亮了这片城市的天空</i></font><br>
+未来の僕　どうなっているの<br>
+<font color="#AAAAAA"><i>未来的我究竟会怎样？</i></font><br>
+寒いけど　君はそばにいる<br>
+<font color="#AAAAAA"><i>尽管天气寒冷 你一直陪在我身边</i></font><br>
+<br>
+暖かい空気が僕を包んで<br>
+<font color="#AAAAAA"><i>温暖的空气包围了我</i></font><br>
+いろいろな思い　溢れ出てしまう<br>
+<font color="#AAAAAA"><i>种种感情在心中满溢</i></font><br>
+不器用な僕　ずっと守るの<br>
+<font color="#AAAAAA"><i>你一直守护着笨拙的我</i></font><br>
+心から言いたいのは　ありがとう<br>
+<font color="#AAAAAA"><i>想要对你说一声 “谢谢你”</i></font>

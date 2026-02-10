@@ -18,34 +18,26 @@ nav_order: 3
 
 ## 音源
 
-* [Bilibili MV](https://www.bilibili.com/video/BV1aW411V7GU)
+* [<font color="#9999ff">Bilib</font><font color="#ee82ee">ili MV</font>](https://www.bilibili.com/video/BV1aW411V7GU)
 
 ## 歌词
 
-<pre>
-听说曾经你就是个流氓
-逼着鹅厂做了艰难的决定
-我微笑着关掉右下角弹框
-任凭火药味飘扬
-直到今天你翻进我家的窗
-复制了视频还有我的头像
-在另一个我不知晓的橱窗
-被陌生的人观赏
-
-你盗走了我所有的宝藏
-却还笑着装进皮囊
-你的逼数还在不在心底 
-留下一点点的模样
-熏心的利欲湮没了信任
-标榜着快捷却令人心慌
-为何不能将这点小心思
-用在杀毒上
-
-你复制了我所有的宝藏
-却还笑着装进皮囊
-你的逼数还在不在心底
-留下一点点的模样
-无尽的利欲吞噬了初心
-无尽的广告循环在弹窗
-为何不能像个英勇卫士
-将安全守望</pre>
+<font color="#9999ff">
+听说曾经你就是个流氓<br>
+逼着鹅厂做了艰难的决定<br>
+我微笑着关掉右下角弹框<br>
+<font color="#c48ef7">任凭火药味飘扬</font><br>
+直到今天你翻进我家的窗<br>
+复制了视频还有我的头像<br>
+在另一个我不知晓的橱窗<br>
+<font color="#c48ef7">被陌生的人观赏</font><br>
+<br>
+<font color="#ee82ee">你盗走了我所有的宝藏</font> 却还笑着装进皮囊<br>
+<font color="#ee82ee">你的逼数还在不在心底</font> 留下一点点的模样<br>
+<font color="#ee82ee">熏心的利欲湮没了信任</font> 标榜着快捷却令人心慌<br>
+<font color="#ee82ee">为何不能将这点小心思</font> 用在杀毒上<br>
+<br>
+<font color="#ee82ee">你复制了我所有的宝藏</font> 却还笑着装进皮囊<br>
+<font color="#ee82ee">你的逼数还在不在心底</font> 留下一点点的模样<br>
+<font color="#ee82ee">无尽的利欲吞噬了初心</font> 无尽的广告循环在弹窗<br>
+<font color="#ee82ee">为何不能像个英勇卫士</font> 将安全守望</font>
